@@ -1,6 +1,6 @@
 ---
 ff56245a761def6a9a405cb20c394afc: Automation settings
-b9aa641596f03256986b94fbad2a18b0: The mini project is a mobile client developed for
+b9aa641596f03256986b94fbad2a18b0: The mini program is a mobile client developed for
   Professionals to collaborate on Work Items on mobile devices, providing a lighter,
   more convenient, and faster development management experience.
 012a5a38d2ab9826c0f9b139dc87531f: Basic management settings, security management,
@@ -42,7 +42,7 @@ ede97eeb510bf8942cf311bdaf8a3df1: No Pull Request of this type
 f329e3a317eee6a8a1a7357f69bc0488: restore
 32eaeca0fd68e00ce0a0236c222a762c: Please select a repository...
 ccdcbe846f3da4eb044fbdf64bf6b579: size
-36d991ff571ec3b6492abb2d66cd7c1f: Company cloud disk, document collaboration, WIKI
+36d991ff571ec3b6492abb2d66cd7c1f: Company cloud disk, document collaboration, Wiki
   knowledge base
 c58d1dfc828634f648e2e2817097b390: Selected {{count}} files.
 e1d1c050a9b5a9c561eddf611c7bc0a9: Failed to download file {{name}}, please try again!
@@ -222,7 +222,7 @@ a6a1ce12b82b3b1192891184c5a3e85e: Gitee Professional - Professional DevOps R&D e
   platform
 c1aa7d00eb6b9bdfa75ef5f5869d2463: Gitee, Gitee Professional, code management, collaborative
   development, agile development, research and development management, DevOps, project
-  management, iterative planning, Git, SVN, code hosting, code review, CodeReview,
+  management, iterative planning, Git, SVN, code hosting, Pull Request, CodeReview,
   task management, document collaboration, continuous integration, bug management
 920127a6a04bea056010589eae4b48b3: Provides a all-in-one R&D management solution for
   Company, including code management, project management, document collaboration,
@@ -662,7 +662,7 @@ effa003332b6b0228a09fc73e9f0bdc2: Please enter a name
   reflects the order of the status in the workflow.
 19fddc50033f5acd3d7586b5d6bafc43: Status management
 2f9580b7f61eb81316f14f28d2d769b8: Work Item type can contain multiple Work Item statuses,
-  including at least 'To Do', 'In Progress', and 'Completed' attributes.
+  including at least 'To-do', 'In Progress', and 'Completed' attributes.
 6617f075ef298eae1547b4e3647241fe: Drag
 ad7bc93899f418015533db0d99887f92: You can adjust the order of the statuses for icons.
   (The order of statuses will be reflected in the display during transitions and in
@@ -670,7 +670,7 @@ ad7bc93899f418015533db0d99887f92: You can adjust the order of the statuses for i
 8bb9c16ed16bc93f8cd04763e847fa57: Status Name
 22a655411efe556dea4352c2af8e8b68: The length of the type name must be within 8 Chinese
   characters or 16 English letters and symbols
-6cb372e8fd3670fa35557dcdd5d45473: Work Item types must include the "To Do", "In Progress",
+6cb372e8fd3670fa35557dcdd5d45473: Work Item types must include the "To-do", "In Progress",
   and "Done" attributes
 1bde37a21b607116b9b7d738f1fa0310: "Example \n ### Problem Description \n\n### Steps
   to Reproduce \n\n### Expected Result\n\n### Actual Result"
@@ -750,7 +750,7 @@ c2862cc9ffb96231bb9abda2b1c226d9: System attributes
 9bcd5334d014d4ccdb1ade98799c0021: No Menu
 bf76bc819550c6dd2c162bf7165fc2c2: Setup Failed
 f815aa626f0bb37b3dd527d872be346d: Efficient office anytime and anywhere
-6122710c6eec6d4df159514a22a9eeed: Gitee mini project
+6122710c6eec6d4df159514a22a9eeed: Gitee mini program
 dc4cc51858880ea0b8d4b0a2f5cf0929: Company settings
 dde28d3ac66cd93e91d5987cc8684c58: Organization Management
 f3568a65a6ca289462e3b7285c6bf683: Expand application settings
@@ -1067,7 +1067,7 @@ a8fc288b99d702a67d045fe71359e33e: Push Code
 d7cce6e254cd569a2f75dbba4c3260de: Push Tag
 ce1c732f3538fe4de0671237f8b10dc6: Comment Repository
 a62de9b2c4307d74adade692a7045914: Commit Comment
-fd5dc0050e5ff1bb7aae34863f691ef1: Code Review
+fd5dc0050e5ff1bb7aae34863f691ef1: Pull Request
 50ef2f4cf6a46924459c7e75f097e86f: New
 b07ece27010021a8e34bbd8082fb463a: Merge
 1c3f06ee812d91a5fa79dd9d6d9fd756: Reopen PR
@@ -1386,7 +1386,7 @@ ec697cc6d1aef61a9c4864af275a3f04: Osi Network must compensate at 10 times the co
 e765ce46ae8797caeaf78433e72d8b97: It took a total of 29 hours and 10 minutes from
   the start of the failure to the restoration of all Company repositories, according
   to the statistics.
-9832a0d6aa16d0347e1aa54b925cea97: Corporate Account
+9832a0d6aa16d0347e1aa54b925cea97: Company Account
 2b394af4d23c0ee1804e64e17416dae6: 'Bank code: 105584000968'
 56410fc65314dfb59c33f8736cd275ad: Start
 31a994caef15ad1351bc2b7b521448b3: We actively organize a team of technical experts
@@ -1711,7 +1711,7 @@ fbeae04851af350df4ddc1c43adfcb05: Commit Ranking
 753d8bb0da9913ce3651e8df6044418c: Copy failed
 80613081320c0e4076be70ddb7b94639: There are already numerous companies.
 c8eff952fb464bd6c85c461e53b25275: Company Online Banking
-c6151746e4fa231d19f15772d1d89e33: Corporate transfer
+c6151746e4fa231d19f15772d1d89e33: Company transfer
 330b447d8411555cbda4aef627bbec3e: Correction page
 7a48fe03311a279da81a693e78c83a51: Successfully publish course notification
 dfe843627c1cfa50e9851c808cc39ad2: Course created successfully
@@ -2330,7 +2330,7 @@ cdbbea09250ff49a532dac1780bb584c: False positives have been marked and will serv
   as an important reference for future updates of Gitee Scan. Thank you for your participation.
 294c42042d2e8174fce92751829333bb: MM Month dd
 583a8fe9859b449d145810f3105ae04a: 'MM month dd: yyyy MM month dd'
-c3547ef97cda30ea0b155990c1d01616: Mobile end (App/WeChat mini project)
+c3547ef97cda30ea0b155990c1d01616: Mobile end (App/WeChat mini program)
 ae9acc3986a4ee618f25673223753f49: Modify Address
 828d32a58ea6907667870b8a4d98e61c: Modify milestone
 e5afd16c6a36223fcb2f319dd64db567: Months
@@ -2747,7 +2747,7 @@ f8ab5d8e653e17a10c580bcee9dfa413: Requirement - Table
 60c003ba196de7289fc32b0c4c0b4542: Display requirements with planned end date within
   the selected time range
 bcc83cb98bacc95bf118061eec8c5f01: Display requirements with a planned end time within
-  the selected time range and with the status attributes set to To Do and In Progress.
+  the selected time range and with the status attributes set to To-do and In Progress.
   The percentage value is rounded up or down.
 3fa9e57596eabb93aaee9da81e543f5f: At Least
 cd17fae69ffbf03ffc7e977fa73fb0de: Reset filter conditions
@@ -3164,7 +3164,7 @@ a087f77834548feddbab18ea9a295ff9: XX person discount
 52b283a76b024c762bef74e26e75de2b: "{{arr0}} year {{date}}"
 bef890d047a812b900062f9ebcc3db0d: "{{value}} years"
 5127b3fe1488b9b0427cf5e8e4b55502: "{{years}} years"
-0c184871f658375afc6e0d4f2c2616bc: yesterday
+0c184871f658375afc6e0d4f2c2616bc: Yesterday
 1c0af9a9d0ef54c16d7dbd8c680efa48: You do not have permission to {{name}}
 f5d2ef2a889732fc88f4a11e3ec3e852: You have successfully received {{settings_award_quantity}}
   minutes of Gitee Go build time. We have prepared a quick tutorial for you to get
@@ -4226,7 +4226,7 @@ a2f73f0ec7a503fb06286ce84ee6b6c3: Top-level Folder
 bb58d709f19dedbfee7df2daac0722e4: Version history
 a98030a9974c6e0b4f6057b3319f3e27: Version Number
 74aeb83961c0cbf47b6aee5bdb1a273d: Version preview
-dd40aeca45dcfa19fb1722a33f0ff804: Welcome to Use the Documentation
+dd40aeca45dcfa19fb1722a33f0ff804: Welcome to use the documentation
 e4b547ceff0a0cce44d9ed952c5e3c55: Continue?
 efb08ba04314bc9b8464e70120885ea2: Document is not visible or has been deleted
 b41e40e7125170fe7f744fbd16319c06: View history versions
@@ -4420,7 +4420,7 @@ bfebd10839857c5fbb2d3c4bdf59ee17: 'Error message:'
 268749b073205cf579a9353d2e824689: Retrieving verification methods, please wait
 1ee4d141138ad59a9fa9f8b08e4415eb: Failed to send verification code, please retry
 81d9ca180ad4f959086549b62652585d: Verification sending, please wait
-ba9192e1bb7a232a837c52aaa17c1883: Please Enter Verification Code
+ba9192e1bb7a232a837c52aaa17c1883: Please enter verification code
 e6076e576bdba8c42952dca74750c288: Please enter the verification code received on the
   last digits of your phone number {{phoneEnding}}.
 728a7b601c56bdf8b35a7bd801b40448: Please enter password
@@ -4625,8 +4625,7 @@ c29a141cae685c2668a2c6ee6b5f463a: Please provide invoice header
 cab9ca67f3087bec69d1f6e8b384ec7e: Email (Please use QQ email to avoid invoice interception)
 c592d6fa832ff223fbd6049863ed2c49: Please provide the email address to receive the
   electronic invoice
-2e07333c8c7409787674ea41e11da30c: the mobile phone number has been deactivated. go
-  and change the bound email.
+2e07333c8c7409787674ea41e11da30c: Cell Phone
 50db79f8808f976508e297473e289382: Please provide a phone number for invoice delivery
 4307031b538b085fed4551ef32b6f03b: Company name (invoice title)
 d83963e77003ff8894229839ab7a1a6c: Taxpayer identification number
@@ -4895,12 +4894,12 @@ e41b2abf5b9f04773ad6f86afed68fe2: Month View
 76f2da2cf6c79ee493b6b69b04581066: No Work Items
 3f045ace697f7cd381d807e5b23750d3: Import record
 b31251651d6a41f581c9e79fb21cd4ed: Relation definition
-84e144d2ee4efcd4707d39c11437dac3: To Do
+84e144d2ee4efcd4707d39c11437dac3: To-do
 1339709991be6507f12f486fc63aaee8: Manage Status
 ae25ce44d895a61cbb5ee3614b0363bc: Label Kanban
-800186dbfdf8930c42551d9d085ae9b9: Member board
-56f50cbf018184b700dfd0e9d4a8433a: Status board
-16bd0e2b82aaf9a945178e34d066870e: Type board
+800186dbfdf8930c42551d9d085ae9b9: Member Kanban
+56f50cbf018184b700dfd0e9d4a8433a: Status Kanban
+16bd0e2b82aaf9a945178e34d066870e: Type Kanban
 26f0e0f0d6c228bbe7b2334d8a3b74b3: 'Batch Settings:'
 614a582e6180d0bf11d6420ff2dbfef1: following
 de907d10df98b498985b3f8f88402858: Normal
@@ -6788,7 +6787,7 @@ ed306eb75a6f198e4f8f8a7c4a692204: Current Professional version is not the exclus
 ab49eba63be948e90d3659d4934be68b: Repository Group Management
 5bad2475e79624778a9a427fa1b6f2af: A repository group is a collection repository for
   managing multiple repository data assets, meeting the demand for standardized management
-  in medium and large enterprises with a wide range of business activities and multiple
+  in medium and large companies with a wide range of business activities and multiple
   repositories. This feature supports intra-group operations such as batch organization
   and repository transfer while ensuring access security and visibility of each repository
   data. This feature belongs to the <1>Enterprise Edition</1> service <3>exclusive
@@ -7263,7 +7262,7 @@ c33fac4f551e34fecf004e26a072efb0: The path can only contain letters, numbers, un
 e3159d85e245134ef6cc4d337bd56eb4: Pending requests
 d7655de2878fb10b0811bcf012aeff80: Open Pull Request, only visible to administrators,
   reviewers, and testers
-6891efa1e4185db9786a6ae730d1815b: Projectming language
+6891efa1e4185db9786a6ae730d1815b: Programming language
 5a39820034d2eb14f8ecc5731f028fd6: Repository attribute changed from {{oldName}} to
   {{newName}}
 1ce2c79902457c923afb26bd69ae006f: Review mode
@@ -7438,7 +7437,7 @@ b5cc6adecaeb67103010f7fbd433397f: Initialize this repository using the Work Item
   template file
 f68a258d3b530338c12ec0e6f1177613: Initialize this repository with a Readme file
 cac59db042b6a6f954f32ab6fa31478e: Normal Create
-f347126a0655ebe6903b80c1212a5685: Primary Projectming Languages
+f347126a0655ebe6903b80c1212a5685: Primary Programming Languages
 b481b32d1fa7067116b5134103e5c2a9: Enter the address of the imported repository
 1e52788194c582178f82f29d85272815: Detected that the imported repository already has
   a publicly synchronized repository on Gitee. Click the link to visit it immediately.
@@ -7739,7 +7738,7 @@ b260a62076b982b0efc3cc8434e1b75a: ": Not Found"
 8adccb43d9dba38d2a97fd0ee16e72ee: 'Paths relative to the root directory where the
   code is located, separated by commas, for example: src/main/java,libs,res/script'
 9e7f16cc1ce1759365ddb1eb7e859832: Scan path settings
-33ec289e8cfb44b0017fbee0ad25ef5d: Projectming languages (multiple choices)
+33ec289e8cfb44b0017fbee0ad25ef5d: Programming languages (multiple choices)
 f0e411b348312118295437dba2a9ed3a: Current rule protects branches
 cdb9fcae45d90c4a80a680f03ff3649f: There are updates, suggest reanalysis
 b260b013cdb4155b4f0edbd11b78e0d6: Reliability
@@ -8353,7 +8352,7 @@ bb429d0227b7d9d6c5298844921dff92: Syncing
 8c38ca740c6aa65db135da974d18501e: This operation will create a new commit to restore
   the existing changes
 bcce272553d6aa71e68fc94985d05bec: Rollback on this branch
-542ed1a66d60e2e9f7a2372275ab7fa3: Create a new code review
+542ed1a66d60e2e9f7a2372275ab7fa3: Create a new Pull Request
 577da48e19385f773622e95a4a6a9589: Revert Failed
 b62fe26b5f273fce79673550e0034c09: Revert Successful
 62ede1502d13641862b89defa74fb59d: Select previous tag
@@ -9611,7 +9610,7 @@ eba03c34f29ff5c1cbc28cad5db56a35: Cannot find how to switch Company?
 aac66462c233a3989ede468b09a98af6: After-sales QQ group
 5edee9acd1ad992b8cfc52b1429c628f: Professional Consulting Group
 68fba79b8508f2ab421dedcfb238f9c1: Mini Project
-d87cd417987af490fff229a099dbbd29: Bind Gitee Professional mini project
+d87cd417987af490fff229a099dbbd29: Bind Gitee Professional mini program
 7f532f41f260ca0de1814094b23ea46d: Switch to New Version
 bf72af99ece787885d00b00f60b85f45: Getting started
 6b84423363ebdb68b5cd70960825cb09: WeChat customer service
@@ -9731,7 +9730,7 @@ eba1e5a73d196254f8ddfe37f5e3b058: Private repository members
 932c63c27ead1282364fcc8aa60714ea: basic functions
 4fd9f20e9be4315d3a2992838a2122fc: security, standards, automation, etc.
 8c325741ba8e47f55709d9d2ab373f81: mobile collaboration
-36aa15bff4d41a459ae65d489d1b4a9a: enterprise version mini project
+36aa15bff4d41a459ae65d489d1b4a9a: enterprise version mini program
 74e04935be390619aca52651fec1d5d7: 1000 minutes/month
 f8b4ad741b05f746f64ef5191182ca71: maximum 24000 minutes/year
 708c7d71db66e9516fa1befe77db20d0: for more details, please refer to.
@@ -9770,12 +9769,12 @@ f75b75d4842bca8b212c64ac44a8908f: out-of-the-box requirement, task, and permissi
 5ee79d857e439f0a0405fc755c576a18: standard project templates.
 a3623cdcb7e18390b01d4c30df40bc9c: select templates.
 622dd5f61878daf6a844c4550d08a4af: Task tracking from a manager's perspective
-07b6cc2cb574456f6d0452211b5b6f5b: provides kanban boards, gantt charts, calendar modes,
+07b6cc2cb574456f6d0452211b5b6f5b: provides kanban Kanbans, gantt charts, calendar modes,
   and other task planning and management views to facilitate unified team task management.
 6ad60ef6c0773fb4cb998167866f42eb: supports report and burn down chart statistics,
   meeting the needs of team management and statistics.
 ecb6928a35724460d0a6554714720d6e: supports task type, status, and status transition
-  configuration capabilities, meeting the personalized workflow requirements of enterprises.
+  configuration capabilities, meeting the personalized workflow requirements of companies.
 b7f1ce68892120410ff0ff2c76d71829: rich project templates.
 75a6811f591730fbde68258906ea5db5: personal profile - gitee.com.
 359239ee2e7ab456bfd1c399fe29be08: joined 5 years ago.
@@ -10227,7 +10226,7 @@ b4c1aefe4210f7be2da45360fdb8b9c8: You are logging out {{name}}
 fe2d870fb0e682c95f834af342aa97ad: Gitee - Professional DevOps R&D efficiency platform
 5051a44003d1897721de3ea752b9de0a: Gitee, Gitee Professional, code management, collaborative
   development, agile development, R&D management, DevOps, project management, iterative
-  planning, Git, SVN, code hosting, code review, CodeReview, task management, document
+  planning, Git, SVN, code hosting, Pull Request, CodeReview, task management, document
   collaboration, continuous integration, bug management, SaaS, on-premises deployment,
   private deployment, BUG, GitHub, GitLab, open source, in-sourcing, knowledge base,
   git, continuous integration, continuous delivery, continuous deployment, cloud-based,
@@ -10267,7 +10266,7 @@ a8d33fecdc0e384975b4207548ced050: Multiple service modes for companies, achievin
 7dc332485a9f88ddc37e53eccf3e3076: Customized Company cost reduction and efficiency
   improvement services for you
 68ca730c4b849ee26cea767c996116e5: Take the leap towards efficient development with
-  more than <0>260,000+</0> outstanding enterprises.
+  more than <0>260,000+</0> outstanding companies.
 dd324e60c9869411d3482f5cf4110cf5: Move towards efficient development with hundreds
   of thousands of excellent companies
 2d1d5568eabd5a9372b5abf9ac747978: More Services
@@ -10324,7 +10323,7 @@ ac9478a7016b6f9d69eeaa84e8005996: Timeline Tracking
 be0cbd94edf67ab565a7dbf470ca55dc: Quality Management
 8360cdab167a24046dae9c64a81a3ca9: Customized labels
 5d1347aff46759ee23c3ff819a937f65: Source Code Management
-1fa3244c050f16b11fae7dba4a4dc58a: Code Review
+1fa3244c050f16b11fae7dba4a4dc58a: Pull Request
 eefa71b53d2abb4a28bae05a0dc25c84: Branch Strategy
 bf77a8e02d395f8b30f833c54653532f: File read-only lock
 28934306c994d77e0ba99cbaa8887c83: Large File Storage
@@ -10459,7 +10458,7 @@ f57cf02b1b2372cf42ad297172cc1545: Leading multi-copy storage architecture, code 
 ac8a14dcc8e0e392a42c101d7f86c976: Smooth online collaboration
 5dbcbae8079187dda93c408766d31765: Based on collaborative development under the shared
   asset governance model, supports PR and CR modes, providing a convenient and standardized
-  code review process. It has a powerful built-in static code standard and vulnerability
+  Pull Request process. It has a powerful built-in static code standard and vulnerability
   scanning tool, which can provide more comprehensive code quality prompts and modification
   suggestions for the review process.
 c3c64fb907285a6dd60f53f1d9e77f7a: Comprehensive code control strategy
@@ -10773,7 +10772,7 @@ a3816c41546b4913af371158f1ddad24: Support one-click import from third-party repo
 63bc4fc88f541bd4a0ee021c1ed363c1: Ensure secure and reliable code assets with a storage
   reliability of 99.99%
 bb34e7f55f3af5cad9bb75f66a51d8d5: Collaborate through various modes such as PR and
-  CR, providing convenient and standardized code review processes.
+  CR, providing convenient and standardized Pull Request processes.
 '07928097ec5eec8f4a44dc4e0f1419bc': By setting up quality gates, code quality and
   security can be ensured, and quality can be shifted left to guarantee software development
   quality.
@@ -10840,7 +10839,7 @@ afb646f2a2361c53e93632b9f0daff3f: Feedback issues to help improve open source pr
 fcf0c2310ad5d27d7244b366a894b206: Collaborate together to realize ideas and create
   brilliance
 a06d75391157139908dd5f4cfbaa79bb: Focused discussion
-1786e1ce37f270674e6832d1c7545496: Efficient code review
+1786e1ce37f270674e6832d1c7545496: Efficient Pull Request
 ad99924c932c62e212d77c8f21979d3c: Code is the best proof of technical strength
 dc7bbed2992133e26b421952b01b2d76: Refine and continuously improve your code
 afd86904b0ec8dccfc0333ee2f64229e: Time will witness your growth
@@ -11408,7 +11407,7 @@ ac7b6f1603866c95fc5edbca4685568a: Hold down shift key + click to select
 4d016b2f1e369780efdacc014df46000: File Change
 03b6f3a2fccbddf75125d9594065a83f: File View
 c043b15dbc936b572915245f629d9baa: Hide whitespace and line breaks
-cd6fc10d66b7dab92c955645cb522ee9: This file is responsible for code review by the
+cd6fc10d66b7dab92c955645cb522ee9: This file is responsible for Pull Request by the
   following personnel
 9b6a4a82e39df1059c799118aa5654df: From
 f5d3c9f0cdb4936c4cb0c98b269bebdc: "{file_path} line {line_num}"
@@ -12426,13 +12425,13 @@ b0d3c9cfa0e1ef6799ec266c5467a1dc: ";"
 f114611cd61000bf57db19a6dab8057d: ":"
 c4a40ea8fe35627476f7f8cb9e1fc7f8: ","
 a318c24216defe206feeb73ef5be0003: "+"
-b0dff016ff17d665f4c60411ca7cefcf: homework
+b0dff016ff17d665f4c60411ca7cefcf: task
 92d9be0a0e94eb16ca28037399f9c5b0: switch
 2c1bdb2ae6a3c1dc5d39716967e9c79f: invalid
 96a66ef34079a5195591632bf867a51f: this month
 7f5fab4d966e23f67ce55167ea90f0fc: next week
 a55cb0e9ce261699a13cc5837caf1f21: optional
-5c9cf5e0dd47dc80ac046d84c26886ec: today
+5c9cf5e0dd47dc80ac046d84c26886ec: Today
 83c37e8a4a5f2c360b3e2d059866f96b: rename
 84a07f292f1f78cc4d24cfe118da8822: fold
 a5b4e9d5e4e0f183931dd4727d5021fa: tested
@@ -12452,7 +12451,7 @@ d70928debc2e80cdf099d55b89103a85: reset password
 2b23433d17a02b745b37ead3fb95055e: user login
 412a339e29d1c11ae5e6faf859dd7cbe: All Members
 5fae8485fa3b47506700ceb8813d6f47: add team
-37601cafeed893dd9792981b60f1f0c5: code review
+37601cafeed893dd9792981b60f1f0c5: Pull Request
 aed14c36b7601e2567c4cf24ed5fc40a: must pass
 626c02a44911e6b2f253e485d18c928a: select push
 dd75eaf740e691db2420e274c6a9a2cb: delete comment
@@ -12493,17 +12492,17 @@ f4f16d00806f799214fcc3e9d1861400: 'current version '
 95b4ff9fd3b50813289c2e8405691f89: confirm delete?
 881a1cf2205b26dd0bd6dbb0e81540c0: work item ID
 8f7aab769ba84c4cac9c67cab9337157: please enter a summary
-f2a52a525ecde66a6f14be73563977b0: work item description
-c5e67512d6bed6e559bfcf5a59b8131f: no description
+f2a52a525ecde66a6f14be73563977b0: Work Item Description
+c5e67512d6bed6e559bfcf5a59b8131f: No description
 156d1110a789b3f52247ba581d5bf61e: private token update
-db53be5c5ff7f68700e18055fa1b2e34: no corporate role
+db53be5c5ff7f68700e18055fa1b2e34: No company role
 7d873caaf96d3c33e0ff6498395b1f64: create new requirement type
 47efa4e122411f8ad5144998de2daee3: create new task type
 6f72697888b34dabe36918a65a311447: create new defect type
 deebc1a80645c0eaafd45bbcb82d946e: please enter...
 83313f5a41053a2928bbe1dde87ad73d: leave a comment here
 '09b2dfc1f2b11e63de29e8e744971def': add subcategory
-443723b73c1b1e53d42443693801a29c: no description
+443723b73c1b1e53d42443693801a29c: No description
 651705b10f0e12ee2fd93c851218c016: save template failed
 3ebadf1ed32f1fa331853c7bf6b97c6c: delete test plan
 efd5c9cd9dfedc5a1f7cee0af1fb4fe3: reset time
@@ -12526,12 +12525,12 @@ f5752a695b6c61c6667de5f7811f7fa7: please log in before proceeding
 4a81ecac9cf77360e45b226738487325: sharing enabled
 cc1d3b0234846714b0aeda6cc34b057b: license
 44efe416e2be62ffd808c892b527f224: Load work item failed
-43838e1bbeec6f3ceedb8db73fab7b8f: my corporate workspace
+43838e1bbeec6f3ceedb8db73fab7b8f: my company workspace
 3f565392471c4a1b5725726b0eb68212: Web IDE
 6a844b83e104b40f4119141eeff97d1f: data loading...
 661219d5ef4c64a721c6c5728dbbc26e: private token update prompt
 8db13af8fed61c12fa9b83bd989b454a: "<field/>"
-7c72ed2e8a366a83766613fe8a594317: no matching results found
+7c72ed2e8a366a83766613fe8a594317: No matching results found
 695ef3a8a11c06dc8e867cbc6b0c27de: create Issue
 ba56172735ba493765103718649715f5: test case created successfully
 7961317fde71c9967a5e68e1aacc6bd9: loading ...
@@ -12545,7 +12544,7 @@ bc64282aa624dff065be07342caa1499: This token will never expire
 9c171c4f6926f8d1c9f10289078fa542: code comment options configuration
 107996a47ff5d293e71a7ec156c80160: change plan status successful
 bed617884b187e86348937fa48bf5172: change plan status failed
-ce88efd937b70e30b63f6e164fefabe9: internal open-source governance in enterprises
+ce88efd937b70e30b63f6e164fefabe9: Internal open-source governance within companies
 67bb0b6d6a903b1455ef7482d10de0ca: please select a repository...
 8e01bd5785ce6a643e0415a148c5e9c4: you have not created a private token
 93f1fae89ab28452ba8346e6ba753c18: confirm deletion of this file?
@@ -12560,7 +12559,7 @@ dc7d7ce62fff8866c9173303c73421b5: assign responsible person/collaborator
 07a920b29785be902d73988fa68a3e1c: Load case details...
 d466fa5a958c9e7a6a486e09a51cf239: code repository, review, configuration
 006be60e87fc8285d365b5a0b711a43c: please enter an account or work email
-dff8263c710697937ba40ee03dc318a0: load work item details...
+dff8263c710697937ba40ee03dc318a0: Loading work item details...
 473b2fdc929db292fec4b27d64c2ea7b: view your personal email information
 81e47b07fc4454562f1c8288fde3372d: KubeConfig
 e23501a5ee242e149075c14e859c244d: access your email and phone number
@@ -12570,7 +12569,7 @@ e89c6163b7151ee912da5430c3adeb54: can access using a private token
 6abeb191738e37235815b3ca9761971a: team, repository group, code repository
 e7828c002a8e52e038613520297f0bf4: using a private token, you can via
 a66d2b1158b725dc110e4ceb53c4420a: test management - test plan
-aa7d0b1e9d68f2524e575f8c217438aa: return{{title}}
+aa7d0b1e9d68f2524e575f8c217438aa: Return {{title}}
 fd9c4074587515a208b0433ef4252f92: update license successful
 7bcf5bf8bd64f8b6f4d2a83a9feee949: New module_
 b303e9cacde51c801fce8a4d76d47c7e: AccessKeyId
@@ -12608,7 +12607,7 @@ b9366507c27206eaab207fd9cdc124b2: there are unexecuted cases, confirm to end?
 5aacf68b921d541686bc5e9f6f24bff9: Sorry, the page crashed, engineers are fixing it
 ce7542e57dbf3fbad70e332f7ef80305: failed to regenerate private token, please try again
   later
-ace614693fb3978e586ed516e6979898: reported a problem? Click to view progress
+ace614693fb3978e586ed516e6979898: Reported a problem? Click to view progress
 b8f3f7925a1770b666de638b4d02058e: your private token {{name}} has been generated
 3a0cfcd5f170a548932722e8296976b4: your private token {{name}} has been updated
 81156d9b8e9f60f7f6c2971c3b895234: access your authorized data, please ensure data
@@ -12617,10 +12616,10 @@ b8f3f7925a1770b666de638b4d02058e: your private token {{name}} has been generated
 5f01402a5c66528d328b4367c0694bae: successfully deleted test plan {{title}}
 74ee29e91153f8a91c9ace0c3d858279: enterprise-level DevOps efficiency platform
 297713d08133b8af7a8b39ff3d936f78: selected {{count}} files
-6b3fdd36f010402f5961c17b459b3a08: corporate disk, document collaboration, WIKI knowledge
+6b3fdd36f010402f5961c17b459b3a08: Company disk, document collaboration, Wiki knowledge
   base
 bbdd6269099ab02cc0b932f08e665feb: selected {{count}} work items
-56e4667ac2b0bd13c9eb9f857a2959ad: code review Pull Requests
+56e4667ac2b0bd13c9eb9f857a2959ad: Pull Request
 fcc70394d7683b0b7812ae94341da3cc: View, deploy, and update your Webhook
 b7e6023068620602406f927831042760: "{{name}}: {{value}}"
 a5f00e84bbd6c51b27025531cf88c7fe: Please select the permissions for the private token
@@ -12691,16 +12690,16 @@ c497d544430ed5683d5375cc7ab7ef90: Verification complete! <1>{{failedCount}}</1> 
   corrections as prompted and re-upload
 57decf200a41838264e65e89337a4ccd: Gitee Go is a new CI/CD tool launched by Gitee,
   providing continuous integration and continuous delivery (deployment) capabilities
-  to help enterprises continuously improve the quality and efficiency of application
+  to help companies continuously improve the quality and efficiency of application
   delivery
 7d03bec2a5e50e3682071cf5b352f71e: Confirm cancel the association
-  between the test plan <b>{{testPlanTitle}}</b> and the code review <b>{{pullTitle}}</b>?
+  between the test plan <b>{{testPlanTitle}}</b> and the Pull Request <b>{{pullTitle}}</b>?
 89421ff68eb82b5066961c254da08665: CI/CD, continuous integration, continuous deployment,
   continuous delivery, pipelines, devops, gitops, agile development, continuous testing,
   automated testing, automated building, code scanning, artifact repository
 953b9155a9140a31e2f1cad2965d5f55: Providing a one-stop research and development management
-  solution for enterprises, including code management, project management, document
-  collaboration, defect management, continuous integration, etc., helping enterprises
+  solution for companies, including code management, project management, document
+  collaboration, defect management, continuous integration, etc., helping companies
   to plan and manage the development process orderly, improving research and development
   efficiency and quality.
 2f7312e1563aeec4c51d5f5b165ed541: Verification complete! {{successCount}} company
@@ -12713,5 +12712,5 @@ e72ec4c53f5af9e634b7fd490958aa79: Import complete! {{successCount}} company memb
   and re-upload
 6078c29637fdf3a267c20302cf120d2d: Gitee, Gitee Enterprise, code management, collaborative
   development, agile development, research and development management, DevOps, project
-  management, iteration planning, Git, SVN, code hosting, code review, CodeReview,
+  management, iteration planning, Git, SVN, code hosting, Pull Request, CodeReview,
   task management, document collaboration, continuous integration, Bug management

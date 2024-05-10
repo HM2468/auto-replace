@@ -1,7 +1,5 @@
 module SharedMethods
-  require 'byebug'
   require 'yaml'
-  require 'csv'
   require 'json'
   require 'digest'
 

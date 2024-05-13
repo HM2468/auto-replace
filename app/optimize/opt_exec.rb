@@ -30,6 +30,7 @@ class OptExecutor
   end
 
   def sync_corrected_content
+    @opt_yml.merge_values
     @opt_yml.reload_en_files
     @opt_json.reload_en_files
   end
@@ -39,7 +40,7 @@ executor = OptExecutor.new
 
 # 读取 gitee-ru-localization 里文件到 output/locales
 # 不用每次执行，按需注释
-# executor.read_locale_files
+executor.read_locale_files
 
 # 将校正后的翻译内容sync到gitee-ru-localization
 executor.sync_corrected_content

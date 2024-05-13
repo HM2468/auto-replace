@@ -5,16 +5,15 @@ de465967135d6e4c144e6cedf303594c: The applet is launched for the company version
   and faster research and development management experience.
 407e568e4cd78b876013c5abb8254b78: Basic management settings, security management,
   orders and invoices management
-2c6015d0d122b47c761f375a94d65908: create requirement type
-3480994aa2483780c4c246fb22aece51: create task type
-2c53c224777bdf7f8a997074d7186f19: create defect type
+b5937c57b446bc59149b279965beb6c2: New requirement type
+239922317366c199f081ae929ffaebf4: New task type
+d0773e6fc50b3de6dbad2103692b5420: New defect type
 c682bd47a6fee8cdae36cd3e31b3e0df: 'access path:'
 279b8a60f444fa8b6275687ce7e44363: added
 20d33f7c10ae6ccdfecf54a04f2c11db: confirm removal
 e7033ec1968cacb64dc494f8f210f664: 'new '
 d3eca0ee705c26dec02c3e8eb8501477: 'current version '
 fa64ea1e82e1206f828ab2a02917c7e9: expired
-f1234d75178d892a133a410355a5a990: invalid
 efe11f6c711d737a7724a4dd1163090a: 'Work item type: {{option_issue_type_title}}'
 5510b12a582a451593eb2abc01e25c13: this month
 326d83d3d43bbef39ef74f903b0cd7ca: next week
@@ -27,19 +26,18 @@ c1dc518a11b9afbfe5edb4d9f5ae2059: add team
 63d38855fce2d9f0ce536f8ac815d620: please enter...
 d7db380286228bd5ae00bb2ea333971c: select push
 18037d1a9aef9f6322f6cc4dbc62717b: repository, review, configuration
-139beb0a228edbd874310b5b9466861c: delete comment
+e43811a170283c8ebe08b698097e8064: Delete comment
 49e0134bab2cc5b4fefd7ecd381abffa: leave a comment here
 0e9ad68a2a2c93a67498ee0078ae4443: Confirm deletion? Sub-comments will also be deleted.
 21c0e17e26bf6b11a3c01e47e2469667: code comment options configuration
 103578e85d46097d452ae868ce858943: add subcategory
-b28017d415c7f8a54cb5b8fd1f108403: add category
+aafdf428fd0256ea3cfadda7cdd0d520: Add category
 ee919858c12b62f42d3ac9b56e4ccccd: Return {{title}}
 4198943ea70fdfe8e83f9ebb23a6d73e: No matching results found
-3660315a9af3df255d8f19ab077e4797: page
 0ebb429fa86d481c2630fac53db1c91c: task
 39a23fae70393741c017f1ab53eddcf8: No Pull Requests of this type available
 e622ff8bf2692fa32d953b5dbdcc01af: save template failed
-33292ee3a0bc63f9510c52e0140d99f2: my company workspace
+19bc3fbf35f8b8d0e4bcd5cd94ce7c2f: My Company workspace
 255541b1d8c6185596fd889e8dd40fa2: fold
 bc4a19c67690e57190e280541a9e4f50: data loading...
 '0869d2315bc4ad44e7cd0c3b9d8fd65a': Move file/folder/attachment to trash?
@@ -53,10 +51,10 @@ e19879fe08010c635d50dd48a9fb01a2: selected {{count}} files
   use, you can adjust the default editor of the knowledge base.
 d848cf86ad55208072d081d93b832c25: Sorry, the page crashed, engineers are fixing it
 7b74082eed7f99efed7285e3a88a2dea: please describe your {{type}} in detail
-076d5e3842596cd74ded0363f4c33d78: Reported a problem? Click to view progress
+5c50011c9f92ae0b804868e38d7b218e: reported a problem? Click to view progress
 ed1dc5413df1f480d49cfa148e546763: repository group ({{count}})
 '023964ff8cb28444978eef219deb1c34': team, repository group, repository
-d23dbf72df5910015f7edf647d44eba7: Internal open-source governance within companies
+bcc24c959a9da4d8ae32d760022e889c: Internal open source governance in Company
 b8fe3c180b3acb7adcb8173ddde1fe85: assign responsible person/collaborator
 f59f340ba54c730ba1a52fe13d58790a: Failed to delete attachment
 c92c0a81408453d4e6e6b1ba2eaf5662: work item ID
@@ -70,13 +68,12 @@ a25eb5f2d82ee8addcbdd794b8beaf7d: version and authorization
 c4c6ca3e9734b1566f45cecb18b319e4: user login
 f08053decd67c511cfcd57137160dc70: please enter an account or work email
 ae869bb05f215e918cfff71510b5b3db: login expired, please log in again
-22a3128f416d08b97f392cb9d1b037d6: You have been locked by the company administrator
-  and cannot access company resources
-f211ada82d44621e2a4c3b18b3460e6c: reset password
-b4a070a2d341940c4562c87640fe7a61: loading
+9c694458fb506d9c7b3a6f5b5483b469: You have been locked by the Company administrator
+  and cannot access Company resources
+4e70f1fd24babdea2ee43377e452e1a5: Reset Password
 86edc65e83d7576b2dff9f57cb0adcd6: Page {{pageNum}} / {{totalCount}}
-4d8726a481412ed5500296588bcfacd0: member does not exist
-5e65d2e29c0dd5b4aca42582530ea09a: member list, add member, remove member
+c3f7b167672ed4c706b259fe7297f124: Member does not exist
+e094be9e14e7a9086ebed2881e19a7ce: Member list, add members, remove members
 1f25e02c0ec52c32d49771d53ebfb082: 'Import count: No more than 500 rows per single
   import'
 a6e99b3ea20398c57512f16051796ad6: 'Template download: <0>xlsx template</0>'
@@ -102,15 +99,14 @@ dc8d74668ac596df41b825d4d95267c8: member activity
 600244f07202845f2759276a49187ef7: The project is undergoing a type change operation,
   temporary access to the resource is not available, please try again later
 19205d616d7366d2dc66a190defc6135: review status
-6197ca25e2c1f9de1cc12c566de897e9: please log in before proceeding
+e8a060e2a30ab761342f35600c99b24a: Please login before performing this operation
 e7c8077dab92b4c0280e28756be8dfc1: project ({{count}})
-4aa4737b134d568e010a8699eb2d9685: related to me
 d01555fb69d8b7ff43ab1fa035ef7d17: company project setting
 94aca4cc028cd06625886f1f68aa0986: weekly report, week {{index}}
 13592edd59232dac71eb4796769b8566: PR comment {{filename}}.csv
-891bea6fa5dc2c86eadfaf0682b52e8c: comment information
+725aec23f11182d3336eaf2704fdf43c: Comment Information
 b8ddf2fc09d7b76fb30d5077095834e5: please enter a summary
-0ee5c8f8e1df08284d4b74a4aebdf202: authorization time
+00c99c253a22620011033ccf32d5eda2: Authorization Time
 2214cfcbbb6d037799f24542f2daf0aa: change role
 24c5960a38e957e347b37222f2019a4c: must pass
 6d1d839bc5abf7275a5f8f3b1d7d7fad: no inspection info
@@ -121,37 +117,36 @@ e203137b0dd234b92372a88d888a24c8: "{{path}} lines {{startLine}} to {{endLine}}"
 5ed53ea7fd1b4bdf92e0feb47a8a7fd6: "{{path}} line {{endLine}}"
 8b2238e4fa871d605ea626598872b656: no company role
 ad2067ba49e6bce1554dc5ed32e71a27: test management - test plan
-2944692d975a7e25b7ff1fe7f4133b08: rescan
+ec4b3ecb7ae2ed8fae320f98e50d5e5e: Rescan
 41578188e00d959f36469feff3819abe: "{{count}} {{type}}"
 99580f66f8d7cb8b30535a5969ed1ca0: selected {{count}} items
 a11280b69ed96ffe6b6d54b694271452: External sharing enabled
 a485761edf7808a051827adfb6d3373b: sso
-76900f1bfd16c8d4dd3d25e6f46638d7: Back
 c6c1c9a9c8543f1e4cd980064cf1625e: next
 a7c6e183e8d5370f86ac146b636ce8c9: you have not created a private token
-f1efc4b0df7958539d318af35851e28a: create private token
-30bd3bf5c2aeda20cf324adf07d0ecf9: edit private token
+d6968c9089fa67244ed8aae7c72c1589: New private token
+bc90a3c4829eeea6bb9c6a20b4ad44e1: Edit private token
 d8689b306212262e9abcedf443fc65da: generate private token
 72e72d2328ddfc0b93bda5158d6e3e33: private token update
-bb84ba23439897b0e9f957cd8ba2189e: private token update prompt
-d0dd990a529203b4bf34c8b5d13ef929: private token generation prompt
+4dd2ca5f350e7bb173f71c42185afc6f: Private token update prompt
+9d57b56c336f1f22892d14067b1e2ea9: Private token generation prompt
 bfef71887ba71637a2a152971907a9c5: your private token {{name}} has been updated
 2011bc198bfb9486abd7b576733bce6b: your private token {{name}} has been generated
 6a925d45decae03996f0921ac532a8a3: private token deletion
 733f507d0c4d68fdc29cb6e3f218b99a: Please enter characters of length 50 or less, emojis
   are not allowed
-de8326cfc14e2b961c376a6b1bfec4f2: use a private token to access
-7156490b8c22da719af3dee387327c3a: regenerate token
+a490b796ba5301a899f96104ecb716c2: Can access with private token
+be83e6fcc400097d74abe38bde9a1cae: Regenerate token
 8252e11128ef05411b91f5bf8237f40f: If you have forgotten or wish to update this private
   token, you can click the button on the right to regenerate it. After generating
   a new token, the current token will no longer have access to {{name}}.
-2d5c84b723a7f7ca3e4602732c852e5d: using a private token, you can via
-e744ac19d2207d9b0ca6fc835127e711: access your authorized data, please ensure data
-  security!
-773a770ca639442b871ac997b18194d3: private token description
+b4457bf9d356d63d40911126e1376293: By using the private token, access can be made through
+fbb8ef3701ac183297adbcd84e24a032: Access your authorized data, please pay attention
+  to data security!
+8bdf094d56d34e53e6cb33d3c0ec1015: Private token description
 4e0ce71e862d7415369c29ba250869d7: please fill in the private token description
-bc0d07c6731ebdd09cdeda9627dd5dcb: Please select the permissions for the private token
-  you want to generate
+98ee48dfd7fb487ada2c8bb70efd0eb9: Please select the permissions for the private token
+  you will generate
 526a131e35504925ab530f2c01a05f47: 'added time:'
 403b83845089e6ef8cf3d387d1e7f527: 'expiration time:'
 3dd3e62a7f2949e61879a32ec9205c7f: "{{count}} days to expire"
@@ -179,14 +174,14 @@ bd40c83a685390b08473141d95e622de: view, deploy, delete your public key
 b176a00fbee7431f00ba0889d9ac3b9c: view, delete, update your code snippets
 a29c1369142104e4239d06c15cc9c7be: view, manage your company and its members
 c35d3b12c02c32d3528b84fcbaad70ac: view your personal email information
-f297d440301987f85ba1662144b9c98f: I am aware that the private token will no longer
-  be displayed in plain text on the platform, and I have copied and saved the token.
+672e882df7228fae8057d6658b52bc93: I am aware that the private token will no longer
+  be displayed in plain text on the platform and I have copied and saved the token.
 5214370c6938e129c5531ca2c67834ae: After this page is closed, the platform will no
   longer display the private token, please keep it safe
-1df4a526897e9f7ea9c3bbc389966077: confirm and close
+7a4fbfc0672fdf5085191e4c609c7f0c: Confirm and close
 531d9eaf8cb1f3eed95db4962a690b49: delete private token successful
 9cf2b8af77a1a6038544e073a15e807b: delete private token failed
-737c898c067f85c04966c63311c2c066: create private token failed
+df9d076280d42133ff5d75702e9670bb: New private token failed
 47886fd9c857c72eee427a747871d349: private token update failed
 b89d9167c2aad464fb5c870eb3e142fb: failed to regenerate private token, please try again
   later
@@ -213,7 +208,7 @@ a36fad6876db77a569ba1fd6b58059ec: 'result distribution:'
 1a521fe8ea6595e25eb7da8bb3acbf05: Update complete! {{count}} test cases updated successfully
 f53f3212837f3bf65b38370b03a1da91: deleted branch
 95c08a0342ade543dbd533fe37250e6b: no data meets the conditions
-c936859537beb2ea9cdb0e7a796f8b25: my activity
+5c0e69b348acbee53dece5a65ad7b6d4: My activities
 d1e300a5d8914179ad9940a2f3cc467d: Gitee Professional - Professional DevOps research
   and development efficiency platform
 884285d8f2bd77f70065bf2b822a35e8: Gitee, Gitee Professional, code management, collaborative
@@ -236,8 +231,8 @@ ecde127e2b6f195b4cdbbc9f381b3b8d: Gitee Go is a new CI/CD tool launched by Gitee
   providing continuous integration and continuous delivery (deployment) capabilities
   to help companies continuously improve the quality and efficiency of application
   delivery
-3e13e05cb3721a62a458713401c7ad80: no matching Issues found
-900b08119d799a6d4efaa7e9eac8e56b: create Issue
+def66744bc719c7b0d34d92de03022a2: No issues that meet the criteria
+0d2fb479b70335f0eaeec871bdda0978: create issue
 7a2efd69b2f674a9d1e14dec3eb03797: pipeline Gitee go
 d97d9baa9fcb0a7d0011026633f0ad87: Last 15 days
 c5f1c28c0d5f061dec6631d3442e2da5: Last 30 days
@@ -266,7 +261,7 @@ d438ba013b32af4fa9dd6025bb9a0f38: Mark all as read
 cb5d682bac3d1a2d0012ad9d472f3863: Reset
 a3030bf8f16dc63c6b277564c68f78a3: Save
 44ce7ae909bbb28bbbe3cbbba8d617b7: Search
-b5f15473fdc0fefe54938ded6af15868: filter
+b5f15473fdc0fefe54938ded6af15868: Filter
 ec1cd522a3b85c61ba35d9f9b4ef6d54: Add Deploy Public Key
 dfa0632dc85f297770f112c74a30bff4: Add personal public key
 2c0158ecbaa5125d3b25e2a73e930ea6: Add repository
@@ -330,7 +325,7 @@ d6981829142aa3dcfc386f4c2709a5a9: Phone Number
 c99f141c23ed549b59a2dec11e1ee619: Private
 d6a18bbb38528bd7e19497fcf5f29b94: Company Introduction
 a0def387a60afa6cf5f8e3c0fa416620: Manage Repository
-37090f45651676fc8358a66235df462a: modify
+37090f45651676fc8358a66235df462a: Modify
 fc792924b72d33c674d0f96fef6462e4: Modify Company space address
 d847e6d263c7c7235976d1f675b76de8: Modify the remote address of your repository
 fb1d40f1d0e65cf2fe827ae32300995b: After the modification is completed, the original
@@ -612,7 +607,7 @@ d1f21985ef1fe0a685d791694f0cd9e3: New type
 b50d003a086f36ea9229019d69a5cc7d: No Work Item type available
 a96c9a854190874dc5d97322bb9a1a22: Sorting
 2b91a7eab6bfb9d2a3bee4088726c45d: Delete from the Work Item page
-dc2ba467fc7ac96247845dffd59b5ee8: description
+dc2ba467fc7ac96247845dffd59b5ee8: Description
 b51669d3212a09c469416ed2f5b2ac5a: Status settings
 cc78ef682d995e9627c462d67cd6dfdc: Addable
 04a85b149bb5cb6c1dc4388120ef82f1: "<0>Completed:</0> It is the end state of the workflow,
@@ -686,7 +681,7 @@ cdcd9666ff7354e7972459d565db53aa: Edit tag
 1d0fd5f9336d9103b3ed62c663b44b84: Tag
 9f7697216e24a0145609863b4f228afb: Tag Settings
 d4ba3018e5039f47808cc20ae2428b33: Submit and add next label
-'040692852ad5432c9e66c3565012263c': Create tag
+'040692852ad5432c9e66c3565012263c': New tag
 edff85946b157f49c2d60ba3da8d9b77: No labels
 f7ba01d91c14c0bfb06a9b1335211162: This Work Item tag is already in use and cannot
   be deleted!
@@ -781,14 +776,14 @@ e1b7e7e6d6594413c1718f03617c142d: Remote login warning
 b55f19c53542522c9150fb5aa7ae946e: Daily Limit
 4bff54fdc0a38ccc0aa80ee239884a23: Today's Requests
 f906b855727b3d5b516feeca6395ce5b: 'API documentation address:'
-2cd0f3be8738a86cede1a1452f874f31: cancel
+2cd0f3be8738a86cede1a1452f874f31: Cancel
 0d012371d7b26d90518f27f0de393aca: Created successfully
 d88758e99c4bc6c00dfe065e807a9e5a: Remove third-party applications
 b30e0f575d8e47aa48ca72b032a8f8ac: Application deleted successfully!
 e6fd9043549320409ebce7a6fb825d60: Confirm deletion?
 3a5040b68abf75f96f27ffe441fe8876: Select All
-98fc221b10e87c214c6888b51bb8b8d4: Create application
-85234d55537cf5dba0d23b442a8ee370: Create Company OAuth
+98fc221b10e87c214c6888b51bb8b8d4: New application
+85234d55537cf5dba0d23b442a8ee370: New Company OAuth
 80005c9e438f15c6416fbe3588bcac3f: Delete application
 f9aa3562b630db7f79544fefc21629d3: Application description
 6b7291c1f313f730da8bae3e1db267e2: Simulate request
@@ -827,7 +822,7 @@ cf300d12f364f20ee0ad96a8931bc2e9: View, create, and manage Work Items for Compan
 6dbf87e21d3405e2604f7e68528891eb: The Company token is used to authorize third-party
   applications to access Company's data through the {{name}} Open API. Please be aware
   of data security when using it!
-2a1d6cd14d4ace1b30347aa9760a18ba: Create Token
+2a1d6cd14d4ace1b30347aa9760a18ba: New Token
 d66d3c708d62abacab5bf760db5067e5: Edit Token
 f46c86c0286a8fad05198f8e9f6fd417: Creator
 07ec86e0f1d44f910543d6f20a5745ca: Creation time
@@ -994,7 +989,7 @@ a0a46a86afaea0fc7b9960f457d6c5ff: Modify WebHook
 483b8e8f3cd2006db35b507f62d181a8: For more documentation, please refer to <1>"{{name}}
   Documentation"</1>.
 4c8df92b3944754ee4fbd882a091fc79: More details
-597753ddedcb209626cf97a20b479ae3: Create WebHook
+597753ddedcb209626cf97a20b479ae3: New WebHook
 4512df5ef73aee73731c6547ddd2430d: No request history
 2559035a9cdf8b9c83cc7f93b8b6e834: No WebHook available
 a621ab606db2a11f63edc576a729843b: Password
@@ -1020,9 +1015,9 @@ df8c45d51c61a88557499813aa2bd015: Select Event
 9dee388ad8b9608fcc79fb1448ab1bda: Signing Key
 75fc115398def91a604ac4877dac532d: 'Belongs to project:'
 0f4f7ae8c27160c9c09b0a05ac7a5ee1: 'Belongs to repository:'
-b2858065a7f0e860f600b7f716e52610: Create / delete tag
-cb2a4eafb96f4f80ab84f9a0aaad992a: Create a new Work Item, change the status of a work
-  item, change the assigned person of a Work Item
+b2858065a7f0e860f600b7f716e52610: New / delete tag
+cb2a4eafb96f4f80ab84f9a0aaad992a: New Work Item, change the status of a work item,
+  change the assigned person of a Work Item
 7f0d19cd915ade39446d4ea63be001af: Test request sent!
 8fb12c4cf024b272d41b16d5f98fcd90: 'URL: The target notification address to send HTTP/HTTPS
   requests after the WebHook is triggered.'
@@ -1037,20 +1032,20 @@ ccbfab5fd826521d7a7d1b4eb0e1a12c: Start Project
 21cc26e21731d303e1784208722472ae: Close Project
 5e1f6da2ed33a8697857693e25be80e9: Member Join
 2875c842aefd18cedde6e0acb39c738d: Milestone
-cc3c88c6cdc67363579a04249b68ef0f: Create milestone
+cc3c88c6cdc67363579a04249b68ef0f: New milestone
 881be34e1639c9a6b2bb6c67e0d73795: Start milestone
 0bdc8ea92097c34e30efd08b5b8cd596: End milestone
 880398f6f27a862d37ff747287869e0a: Milestone overdue
 6aa8f49cc992dfd75a114269ed26de0a: Test
 1398f6a99c049418028e7bf066ed5713: Import test case
-63619b726b837f658134770b5f49e3b5: Create test plan
+63619b726b837f658134770b5f49e3b5: New test plan
 0d9c1e576366814f44a77821b1e7ecc5: Start test plan
 72dd56e5ef47b58c4b3c61750cb189e1: End test plan
 5f76b2bf82dd2c5d820c26010d442466: Version
-cc9f484f249b7d1eaad919943d83be25: Create Version
+cc9f484f249b7d1eaad919943d83be25: New Version
 a4e87a4778ac2feac16817fe36a7b354: Phase Update
 eba15810a9cbd3246863a2031f515af0: Iteration
-783ad8c5ee0bb2a5f1c73dc548ad437b: Create Iteration
+783ad8c5ee0bb2a5f1c73dc548ad437b: New Iteration
 b6ae5a070247092c6baf6f68f9eb9be1: Start Iteration
 aad8afae65927541a1543b4d720efe0c: End Iteration
 a8fc288b99d702a67d045fe71359e33e: Push Code
@@ -1066,7 +1061,7 @@ b07ece27010021a8e34bbd8082fb463a: Merge
 eafcfefd2ee39551fe5fdd833f28adec: Assign reviewer
 76789a56ff3d4371e995e32cd34b108d: Cancel reviewer
 db287f7d3b1274ac8c86d3c37669d6fb: Review passed
-eb0ac88fcdb71f4bd7d62531d8630689: Assign tester
+eb0ac88fcdb71f4bd7d62531d8630689: Assigned tester
 e7f1fea75a0006b7f0153a74f54b262c: Cancel tester
 016bf26f13df5e4a83d3bfee3a514609: Test passed
 4a570ccc9b2c90ddef130dfc6848d9dd: Associate/Unassociate Work Item
@@ -1075,7 +1070,7 @@ e7f1fea75a0006b7f0153a74f54b262c: Cancel tester
 b8fa3801b5d59621325d41846692c273: Set draft
 79f17f228c256c18f47c7699720af8c2: Cancel Draft
 45afd3888e0a6b3f49cf50b929b81ce7: Work Item
-9eeba1f32eddb38da34e99c3160c24dd: create work item
+9eeba1f32eddb38da34e99c3160c24dd: New work item
 8c28919400ef9b738df48d78af1498ea: Import Work Item
 7aa6d0ef5feb745c45d2f52f85673904: Permanently delete
 ec58fef08f7b7da75c92e4741f7f25f0: Comment work item
@@ -1154,8 +1149,8 @@ f616e9cf900b46b7afa53b3db635a0bb: Requirement type settings
 a78c0871e912098a38d6b067d436b618: Task type settings
 '09975f5c05b40efc8da9dafdf94105fd': Defect type settings
 a5c02b813fb5ac3db2bbb9eb5c78cb6d: create requirement
-6bee2372805a2fd73ff12149f28844de: Create task
-b7c49c26528e77ff19242199e798b1bf: Create defect
+6bee2372805a2fd73ff12149f28844de: New task
+b7c49c26528e77ff19242199e798b1bf: New defect
 472db37af5acb12f57bbd9b026013335: Add requirement type
 9050807eae36a720e6722189c8f994de: Add task type
 c749ca726fd53527f7dcdcb08e5ed2de: Add defect type
@@ -1533,7 +1528,7 @@ ce50734f60809079f4af94247d171bbd: You can also receive exclusive discounts for l
 40dabfb12dc684eb81006b3ebaaf5c9f: Burnout Chart
 d2835b58dbcb166384faa2e8376f94fe: Cancel Option
 '0428aab4b4448b731c42104878cab7bf': Cancel Order
-8f1ac1c9d94fe02a54d5d701ac681e16: Cannot Be Empty
+8f1ac1c9d94fe02a54d5d701ac681e16: Cannot be empty
 53a566e7cb0accaedc2888eadb503b0c: Within the selected time range, the quantity change
   curve of requirements in different stages can be used to analyze blocking points,
   lead time, handling time, and other information
@@ -1632,7 +1627,7 @@ e6f04ffbaa424001e9716a18813eab4a: Code
 88de316ae8ef9b889daea74af6de6dab: Code Editor
 f5835a233b0301208457d7ab37e542d2: Code Health Monitoring
 e9c1e9b1a45763c13d580091fecd8f0a: Code hosting platform project
-59f5ff405e08dd1f549214064c0c208e: Code management
+59f5ff405e08dd1f549214064c0c208e: Code Management
 db678f14ea7514899f815fa4221ab7c6: Code Management
 a0a79f1048844edec3377fffa00457d7: Code merge requests will be effectively ensured
   by pipelines, scans, access controls, etc.
@@ -1650,10 +1645,10 @@ b677d787581582558834728f450363da: Repository - Repository settings
 8a9f6e9c9193f66328a7711e573759d3: Repository - Scan
 13dfde1fb1e308a4b39809bef05013b6: Repository - Sonar
 99b92615df08bd51193695645ebb5b80: Repository - Table view
-8ec2014436dfd0afa312bb77eedb5f14: Code scan
+8ec2014436dfd0afa312bb77eedb5f14: Code Scan
 35e1e2729b3dca3369a1f039ba376458: Company External and Company Internal
 9bbf579ed2e0d1d5f4dc5db067c1aaaf: Minor
-a1f029ff755311e4aaf2e697d8cf4a7a: Code standards
+a1f029ff755311e4aaf2e697d8cf4a7a: Code Standards
 17aa0a4f464114cadf63837a29887157: Commit
 cc436f1f7124eb075a008b0a5322d0a0: Statistics of code added under the current project
 9cf14acab10bf6fd8182c7445bac0171: Commit triggered
@@ -1704,19 +1699,19 @@ dfe843627c1cfa50e9851c808cc39ad2: Course created successfully
 313ad77f8adb21954688805ed9a4fcf1: Course is under production
 2ff25716733c6f0458715786d25ad203: Course Does Not Exist
 47cc8021ca224d8df11e7a63708695a3: 'yes'
-cde2cd071d25bbab4fab3c1956d3034b: Create
-4420e4a24964c30b1ee0ffef187a8a3d: Create assignment
+cde2cd071d25bbab4fab3c1956d3034b: New
+4420e4a24964c30b1ee0ffef187a8a3d: New assignment
 0a22918efb719842dd20959b3a8505a1: Create your first repository and start the journey
   of code
 1608751208d70e181c0a4c3c958e712e: Global create
-8df5d33c5b791c274ea155dc2f75ad36: Create Milestone-Under a Project
-975b2568f4469cc8cb5619f6e63ba184: Create assignment
-0e1a7040390fb03ef8f7c0ad13e0c3e6: Create Project
-38a44893864cbf7a6851b345874ed4e3: Create Repository
-26a74ee87e742dd6c0dec8ff7b8589f3: Create Pipeline
-43d7d2b51d75fa42d80c78b14b15b4ad: Create project
-b4f8c28af230102efb0c59556914c77b: Create Test Plan
-65ddd0f35f86a4397726c14f73563f0f: 'Create a new Work Item with owner: 818'
+8df5d33c5b791c274ea155dc2f75ad36: New Milestone-Under a Project
+975b2568f4469cc8cb5619f6e63ba184: New assignment
+0e1a7040390fb03ef8f7c0ad13e0c3e6: New Project
+38a44893864cbf7a6851b345874ed4e3: New Repository
+26a74ee87e742dd6c0dec8ff7b8589f3: New Pipeline
+43d7d2b51d75fa42d80c78b14b15b4ad: New project
+b4f8c28af230102efb0c59556914c77b: New Test Plan
+65ddd0f35f86a4397726c14f73563f0f: 'New Work Item with owner: 818'
 6d363f5a1d8c52262ae57fdd5e369ea2: Block
 dc6c074a86a9e77270ea7c2ea9a8d7d4: CRM Platform
 650a37a9d535c2c21b3d81e3e46b62aa: 'CSS Modules method:'
@@ -1779,7 +1774,7 @@ da896d568adbf176e3363be2b91d7bae: Daily increase in requirements
 355f7c075a49b437b98d882a3f9204c4: Daily requirement addition statistics
 4c272d9c91bdf962f7e39c79e946e3b6: Daily/weekly report
 d345d9a2fbf60ae0ac2bb0e84b35678b: Dancing
-f9e02d3c13aaa72c56da7e179699a092: Workspace
+f9e02d3c13aaa72c56da7e179699a092: Dashboard
 052ce036c51f3e8227876e5ebde012ae: Dashboard Configuration
 4291b8f19946bf25640e3652101a7973: Data is not real-time and has a delay of 5-10 minutes
 807710c9439571b748ab67489e04cf9d: day before yesterday
@@ -2173,7 +2168,7 @@ b7cf4fd1d03d7da867e7a9ce997c5718: Invoice Progress
 609221ebc007dfbcb15bf89fcc45f1d2: IP Blacklist/Whitelist
 f325fe0eb045dc2b4d0d81133052bf10: 'Company: Indicates that this duration package can
   be used by all pipelines under the current Company'
-c0b3fbff51ccc40b8bf1a81666e7ecce: Complete
+c0b3fbff51ccc40b8bf1a81666e7ecce: Completed
 1e3ea63e7c9e4db83203f5f84c415693: 'Work Item type:'
 11f28e4eb3ec5b56332fa728b1196846: ", which can help you solve some lightweight coding
   scenarios."
@@ -2261,7 +2256,7 @@ c53d302e7c9dfd1d32d717f9d3df3a53: Local repository's remote record
 676e0aa185a78e174cb2416f271efd5e: Lock reason
 e6328a26c871209ba06fe8aa7c12bff0: Login form validation
 a51b41b29d13cfd51db9346f1791b388: Login/Register
-27a7f42a0afb52f8eb3b17e85eaee461: Low Risk
+27a7f42a0afb52f8eb3b17e85eaee461: Low
 21cc62dcf662980424e6f10ca4253f6e: M month d day HH:mm
 6b49ad2cf4090cec5271eb850b1d67b0: Shipped
 2f8456717e20a49fce75467ad73fa771: Mailing address
@@ -2691,14 +2686,14 @@ bbab93b173e2452818016491c1e22fc6: Remaining days {{math_max_math_floordays_used_
 6f7a5a7d6c79ebecec1b2eb3b19ce045: 'Remaining quota: {{quota_member_quota_quota_members_count}}
   people'
 e34b8ef55906de5a3c9e7e4c76a874ec: Remaining {{count_down_text}} to automatically close
-a9f97448543a7937018e6670ff714241: Remaining hours
+a9f97448543a7937018e6670ff714241: Remaining Hours
 0d0cbac2eee541136ec2dbba11167695: Rename
 0a2a37d948a951baa9c2c2adf88f47f2: Continue
 1fbc2927d983b59e7b69262a81911637: Renew Now
 c3a456bb2a5fa8c914fa3d2b9acc6195: 'Renew Now: Buy Now'
 f897ecb6713a1188165505b53d37ad89: Renew {{item_title}}, please continue to select
   the purchase duration
-5f663f70a3f050ee89f4fa773f77acf5: renewal
+5f663f70a3f050ee89f4fa773f77acf5: Renewal
 3bad5c6e6e12b21695bad044b258b422: Renewal is in progress, please adjust the quota
   before renewing!
 9f24062367f05167fb5910e6e5de321e: Reopen
@@ -2738,7 +2733,7 @@ bcc83cb98bacc95bf118061eec8c5f01: Display requirements with a planned end time w
 cd17fae69ffbf03ffc7e977fa73fb0de: Reset filter conditions
 f2aa3f85041bc7b911f88bfcb158f9bf: Resigned
 b7aae49b52a386dc3cf3e7375b8e382f: Resolved
-a525346277ed54bd52d3cd3cd128174e: Owner
+a525346277ed54bd52d3cd3cd128174e: Assignee
 72cd94baff1cc8dabec0182300d94276: Review the code quality issues through Pull Request~
 5743947a7afa9b1eb0dc3d4226b81d59: Rich message notification, able to real-time monitor
   the pipeline running result.
@@ -2860,7 +2855,7 @@ a6199a87f4832ea0e4b99c585cd77a2a: Support Multi-user Collaboration
 f45f73270a9ed049c5a442b3bcda6da8: Support rich text editing, Markdown syntax, and
   code blocks
 31077cb75858670a9eab7ca40d7a1034: Support setting access permissions
-cb460fcb403b076dfd4f6c772dd4131b: Scan Complete
+cb460fcb403b076dfd4f6c772dd4131b: Scan Completed
 63d0e21802e705a0f8e937c8e3242980: Support Version Rollback
 383536ae26b8af1602d599b57b37c235: Support one decimal place
 7d3bfbb62e1d22dbb49b1f7d9c898421: Support regular expressions
@@ -3237,11 +3232,11 @@ d4dae45f3b4ba274e07ef9754db81e56: Add company member
 a28f237b12f21ae6b4a0db76a0de9b6e: You do not have permission to add company member
 0bd5f610068c0c23a01b93889ca0e34b: Manage Company
 451ccbdf4a8f4c01f6a3455031b1b04d: You do not have permission to manage Company
-b3b571351dfd8d413609bc748d9f326e: Create Work Item
+b3b571351dfd8d413609bc748d9f326e: New Work Item
 8bdffeceab0b2b6f44d8bfbc896d48e0: You do not have permission to create Work Items
 4054ee360e66c300f6e52b408937816e: You have no permission to create projects
 79eb2095486e50e9e22c99503e37251e: You do not have permission to create repositories
-80c63cd7026fdf147977f5b2dfad780f: Create Repository Group
+80c63cd7026fdf147977f5b2dfad780f: New Repository Group
 364ad02e709faedfd451d19ec3f92f9e: You do not have permission to create repository
   groups
 5ad316afaeca763eee031f2e13d596a6: View team list
@@ -3318,7 +3313,7 @@ a4ea7dceafc75f9ddf1a14e48ba17b33: You do not have permission to send private mes
 e9098749197b0f12087223eac992e8a2: You do not have permission to manage the company
   Work Item labels
 58b8a06f62497b1e3b706500a958c1d3: View project list
-f06f9b79cb30026c022e7db70289501b: Create repository
+f06f9b79cb30026c022e7db70289501b: New repository
 2bb6df3f1bc4b5dbd37df65260d4a63d: View project IP blacklist/whitelist
 c04e078ed8a7581826256f830052e65b: Please enter the comment for the Work Item after
   setting the trigger rule
@@ -3329,7 +3324,7 @@ bad6e882e38be8279bb6087bf2630377: All Rules
 101c0e0d41c12d93c212e302b91057d4: Set work item attribute
 '09a391e7b90084aa742d1b6c6ce83bab': Set associated work item attribute
 9a7947ee4d2523a6a07965646edcb4d9: Set parent work item attribute
-af89131d3056474f4688ee7a7dc05854: Create Rule
+af89131d3056474f4688ee7a7dc05854: New Rule
 7605c1d82eed69a5e7ad86a567828727: Delete Group
 d00b2a96c3b35930cc93433d2f68a52e: Edit Group
 140d4e992f45e0a4dcdfd7287c9dac06: Add Action
@@ -3506,7 +3501,7 @@ f2e197c03c88b65beba1970b26acfdb2: Odin Technology is delivering a large project,
 1e9fa0538d90287eaaa9d89219f9cb05: First, we enter the "Company Settings" and find
   the "Automation Settings" function
 02641cac1d5e39b5b9b7f355f925d509: After clicking "New", select the "Create Work Item
-  -> Auto Assign Owner" template
+  -> Auto Assignee" template
 9f516ccbdde90e46c3178cc35934749c: 'Define the trigger behavior of the rule: Create
   Work Item'
 61353f5944c836a53b1068cd58ad61c1: 'Execution condition for defining rules: Work Item
@@ -3585,9 +3580,9 @@ cf945e21ddefbb46e97ad780508b29b0: Reply
 657d9cbf45ec9e6a87298c9327dc6adf: Clear filter
 fb8adf13d39a332300824e036c2c57ec: Create and continue
 596cb413d92fd1d5946ba06eb9be98e0: Confirm settings
-e9d5ca6c140665da49176f67dbd3678b: Return List
+e9d5ca6c140665da49176f67dbd3678b: Back to list
 053365d7a0ee9c30217cf2a53c2056dc: Repository has been moved here
-8c84e205a562d93947276cdf57e9803b: My responsibilities
+8c84e205a562d93947276cdf57e9803b: My Responsibilities
 151d712244a2b9250942939a4e1a8663: My Participation
 324d4a921d44065694bc05461841a2b4: Starred repositories
 84f9e251ae6d455426ae9e0db8063eb8: Forked repository
@@ -3647,7 +3642,7 @@ bb36d50e4ce912d7358ff3ba83ffe531: You can call 400-606-0201 (Monday to Friday, 1
   or leave your contact information. Our staff will contact you within three working
   days.
 59c9ed95eb066804ec02751faee6d5d8: Please enter email
-4e992d96f947299cb1a8c515268b9761: Withdrawal can be made twice a month
+4e992d96f947299cb1a8c515268b9761: Incorrect email format
 210f59f137fd8456afdf3eb1bbcc136f: Gitee Professional
 ad73782e25184737f61456f1a1933ead: Please enter a phone number
 8c05933315ea39016d97a34a7c6143e9: Invalid phone number format
@@ -3850,7 +3845,7 @@ d5d40cf759142ff1a8ff7f2dea895121: Reset Dashboard to default view successful
 f7042606c6ec1fcca68d69b934edf0b1: Pull Request for all repositories I have access
   to
 80084b0b9c7a8599905c79dafb54296c: Renewal/Upgrade/Scaling
-8bfc704ed03f99d2829b733b36a99156: Configuration Complete
+8bfc704ed03f99d2829b733b36a99156: Configuration Completed
 664629abded5f8fa99b10707d2937369: discount
 1a519020b971e295fb03dd98cc96a379: Upgrade to Gitee Professional Paid Version
 ca7158c38cbaee75f35510071b7a7573: Completed, enter Professional
@@ -3905,7 +3900,7 @@ c0053e923812aaf3405f9ea8ec635aa7: Remove component
 34c15be889fa2ae1f026ef5b5892e378: Confirm to remove this component? You can re-add
   it by clicking the "Add Component" button at the top!
 16b31aa916de01e470f3d233fab599b2: Starred work item
-3e7777c3d54e9f8b9b5b8aee6a3a2190: My Collaborations.
+3e7777c3d54e9f8b9b5b8aee6a3a2190: My Collaborations
 7a2c2a0f778b2000f2f7b3e5c044333e: My creations
 abf7a99c270c8157af30e49494067650: Incomplete, Today, This Week, Overdue
 ac32f578d1a5a7ab0a21f0ee55f2ffc7: Assigned Pull Requests for testing or review
@@ -4014,7 +4009,7 @@ d3559daec88be7d6ba1e35fc43fdab8b: Past 90 days
 a54b2e0e5e5fcf8c27f3633ec1399332: 'Current selection: All commits'
 0d4a965b9b67d8d60fe3df8fb1506d7e: Collapsed {{count}} comments.
 fa5f0a3c17d7623fe762c58494421412: "{{count}} commits"
-0ae90ae5f0fa391abfb5a161ae1935d8: Submitted on
+0ae90ae5f0fa391abfb5a161ae1935d8: Committed on
 b97c49acb93028eccb8dd91826e71544: Copy path
 a2428d2c6fb9afe3c6816fa3e643d129: 'Currently selected: {{count}} commits'
 0f1505b6ad3fafe48456efa68ff7d6ea: Exit fullscreen
@@ -4083,8 +4078,8 @@ c86fb6cf15b8a8941eebf0ca65df30ca: Compare with latest version
 2e1d768a3612a74f8af5235c9ab7fc50: The link has been copied to the clipboard
 5d9acc8d580cab0f62d9f36656bf1657: New Document
 0f4e2177153eb9c2e0e88db92a960ace: Copy document
-84244abc71de03ac541c4488d9bcdfd4: Create folder
-f40951e6fe8a554b0bff26d159d1da4a: Create Wiki
+84244abc71de03ac541c4488d9bcdfd4: New folder
+f40951e6fe8a554b0bff26d159d1da4a: New Wiki
 85217f7aff77841438439fb3e7cf37bb: day
 646898def8cab5e8619213dbda60339d: Completely deleted
 a418f9dee597c6d48ba97a2dfba406f7: This operation will move the document to the recycle
@@ -4508,8 +4503,8 @@ a636f6b8ae215f79de7694ea72181e2c: Click the 'Create Repository' button to initia
 7aed3280cc085a6b738e244bce018100: Repository list
 0a27cacba1fc51364476d2e773ee3ab4: The "Repository List" helps you view the repository
   resources within the company. You can add repository members, create Fork repositories,
-  star repositories for quick access, or directly click on the function settings to
-  enter the repository function settings.
+  starred repositories for quick access, or directly click on the function settings
+  to enter the repository function settings.
 4c960ea456c0f02dd641ac58096b1412: Copy repository path
 56add7db18a1e4221a56185a162d158d: Copy the repository path and use the following getting
   started tutorial to add it to the local using 'git remote add origin https://repository-space-address'
@@ -4569,7 +4564,7 @@ e375b7bb61ed20096cef728668e25ee0: Inner-sourcing repository
 ad146a8000950a7dfa139ec4777115ef: Public
 fd4c868608ac0a908d8859c65d1dd0fb: No Comments
 49609a1ee25da2467e9795b396523d60: Latest Comments
-74bb404bfcfa91e1ded3f1ffb7c51e5c: Inner-source is the practice of utilizing open-source
+74bb404bfcfa91e1ded3f1ffb7c51e5c: InnerSource is the practice of utilizing open-source
   software development best practices and establishing a culture similar to open source
   within an organization. The organization may still develop proprietary software,
   but it opens up its development internally. This term was coined by Tim O'Reilly
@@ -4796,7 +4791,7 @@ a733157cb7f83fe8e93849bbaac1302d: Milestone end date
 b032931922bc3788eb3d8985f5343253: Work Item Content
 f20a48787962cf682805f38dee7370bc: Work item owner
 9f13362485f38619d310df9bb9f0d6fe: Work item collaborator
-db428783feebf7c4c871f5e6d1b02548: Privacy protection principles
+db428783feebf7c4c871f5e6d1b02548: Work Item creator
 823cb32dca84a29a80a9cb3043ca96dc: Overdue status
 e18f3bd9a580a9f24de28e5507547eb4: Work Item Path
 6a6080235bcb415bb89889376b849926: Repository Path
@@ -4838,7 +4833,7 @@ f578c407bd7fdae9c5ff6b1e01128645: Management Type
 0da984422a64cc1f8ecb5cb4d8a6dc05: Repository branch association
 d1ac86f27a13b083282ae25b4c8cb3ec: Select Branch
 0e5bbc7785730cbf51deec6d75bfa342: No branch available to associate
-31802424217f51b030512cf9a6a8392c: Deadline
+31802424217f51b030512cf9a6a8392c: Due date
 cbd329e672af0eb438b34e72de673497: Estimated Hours
 86ffbbfc5084e14cc5b4ac8a9b1210a9: More settings
 d30ec2c211f98c663bdad72ba698efcd: Related members
@@ -4996,7 +4991,7 @@ db818d8cd03c87738bec8d58e18924df: Please enter milestone name
 dbdccc3594d67854196b88d92c6e6b09: More Filters
 2ecef90ed1a3b2a790d2c8b4b0fee3b7: Move {{count}} Work Items
 9bf2f4113a181e07e2cc99e9a8dfbc91: New {{type}}
-ea582e1cd270fc293fe989993ded4695: No Owner
+ea582e1cd270fc293fe989993ded4695: No Assignee
 250f59b0ca6f984903161dd8f4e01f13: Unscheduled
 b9d58d9dfc70e2a12a4896abf22e40f3: Open in new window
 47a76f7d418a8d18e3d792da967447ea: Edit Work Item
@@ -5063,10 +5058,10 @@ c7b65959b52523ec7571d0e85529734f: If there are changes in display type, display 
   sorting conditions, filtering conditions, etc., the current button will appear,
   asking whether to save these conditions to the current view or save as a new view.
 490a793cac0680e436f4416bb57ac211: Filter conditions
-4cabaad3579bdbdd7f2ecd2d0a4a72eb: Select Page
+4cabaad3579bdbdd7f2ecd2d0a4a72eb: Select All
 d8b2d4a1bb9232d7f7ecc5bd43228fb4: Set Parent
 35b81ba9256c4cdf543add6b1985efb8: Completion rate statistics
-2bcdf764d3d139a144e569b44fe7e420: Assign owner
+2bcdf764d3d139a144e569b44fe7e420: Assignee
 e8f93d481a75f9239512ad6dd79f4f96: Please enter child Work Item title
 da68a8cfa787e72779f1b0ebf76f9167: Drag the Work Item to associate the following milestones
 f1a65347c7410ea4d545a259c5d6d20a: 'Work Item type: {{type}}'
@@ -5135,7 +5130,7 @@ c5893e3018da5721d2bdafc85357d513: Column header display settings
 d80bc2a61bf9e965f1243129222d2c36: Selectable attributes
 ca96ec649a877de7d3f858ef7dc154e8: Displayed attributes
 5514e490f897f6de8751e37635b03643: Fixed header above
-3a116815bc9da10d888ffcca7311803a: individual
+3a116815bc9da10d888ffcca7311803a: piece
 2b6a38942bad6443cf0e9b407920adfa: Up to 5 attributes can be set as fixed headers
 5f2f3886f1b2954f997595e40a703380: Registered
 d6822b04178d6929a0cc4d5cba6fbbee: Remaining
@@ -5409,7 +5404,7 @@ d82df103f8d3e97d48bf73cac582474a: Unlink document
   Item <b>{{issueTitle}}</b> and the document <b>{{docName}}</b>?
 3a06805e8d6c3ee7fd0ebed75e457495: 'Enter: Save, Shift+Enter: Add next, Esc: Cancel'
 015edb6a8f1aa449612a515fd621613a: Title cannot be empty
-417bb3633c7332c79505c4430a9a2a09: Create subtask
+417bb3633c7332c79505c4430a9a2a09: New subtask
 febfe1937a5e0a2508f9c2eff03d9b64: No associated document
 f87938e2edeab2fe4b84b9f9cde88b33: Version comparison details
 1f41bacb0618305997fcb4f7ddc43347: Latest Version
@@ -5418,7 +5413,7 @@ f8d9edc3914b6513e97fa0307b30340e: Version number already exists
 34e66aee8f29b19ea210de6b64b34be8: Cancellation failed
 eed0381b961cf4efa113c885b16f393a: Confirm to discard version {{version}}?
 761c77a7777aedb709fcce435b0c1a96: 'Attention: This operation cannot be undone'
-7e6a71efbf63fd6f98f5b9fc92e7f6ff: Create failed
+7e6a71efbf63fd6f98f5b9fc92e7f6ff: Creation failed
 59d5d9ae744093aaf074c29ed4f2d1f2: Invalid
 ff4b8b64af9de9ec42b219174324e717: Restore Successful
 8620a04e74f450b9c4cc16160daf6de7: Restore Failed
@@ -5496,7 +5491,7 @@ d3d233632afdbcadec9d0955ef588a44: These are all Work Items
 f2d7894766595a95edd0fed7ee9cda1a: No deadline
 6de061e1ce23c58d7c07284207b9bac3: Unassigned Work Items
 a8df545ba75e291ece3f0312cc9cd2aa: Search members...
-85d90ac4748bae6b34d7c6484f90fd23: Create Kanban
+85d90ac4748bae6b34d7c6484f90fd23: New Kanban
 9b1c833c5b2a50a0d5c0f4d5130228e1: Edit Dashboard
 3bef256a94127df1241d587ca714f846: Delete Kanban
 7ffc714b287a135b80f5264d0c3530d9: Add custom Kanban
@@ -5569,7 +5564,7 @@ d1fb1f8393135739e022804fdc46d7c6: Please select priority
 df11fee44c725389b72b8362de2f8663: Please select the label
 230a072be409ba1b9c49440f3869ba30: Please select a status
 7a82003550bee04596b1eb4ed0690fb1: Please select planned time
-'058e8a17c3a8ca0f325944ba347503be': Assign owner
+'058e8a17c3a8ca0f325944ba347503be': Assignee
 56122221684035e2bb521e4f252d4feb: Assign collaborator
 f0c594f200174c4d804911cec4b99268: Change priority
 62e50a514f38264fb2160113149e5d15: Add description
@@ -5645,9 +5640,9 @@ db6aa682dc451dd7bd74c398ed5e7229: Embedded resource
 515c03c1d2b4738bcfeac8f8ab82872a: Preview object
 982d7ed94a23c5d1e38ce8bbb4b6755c: Loading PDF document
 e59ae97924d62f018f528c74aea5f948: First Page
-c9b9ae7a61444ab7e3b9c2b7e9357bcf: Previous page
-8a8542f6964852dc4f7b840333d68377: Next page
-378bb0eec39fa8a29f5367634357f1c1: Last Page
+c9b9ae7a61444ab7e3b9c2b7e9357bcf: Previous
+8a8542f6964852dc4f7b840333d68377: Next
+378bb0eec39fa8a29f5367634357f1c1: Last
 7d5bab3e98c9f7a3a0edbd18d6fb7d00: No selectable members
 e0076a5701fa9fd213dfa0c566c0de44: "{{label}} (Resigned)"
 cc7eaae836e4a0aedb16d326b73e1a7e: Apply via the link provided by <1>{{name}}</1>
@@ -5812,7 +5807,7 @@ e4587a31d6cc742797fcfc6dc90a7b42: Position not set
 21dffbd46e2674c12456f24c342f17be: Ordinary member
 5d817d779342a1921807a11c97812d15: Participating teams
 db620f05b76c6e6ef9255695b060e60e: Participating repositories
-bc3c0420e12ec7d8cd26739586bcbf6e: Job Title
+bc3c0420e12ec7d8cd26739586bcbf6e: Position
 a6eb2beab414aa1c9349cfd01e2853ca: Pend Project
 4b624298515947cbce3bee7a21af467e: Terminate Project
 4d9f6fa1861278ff9f973a504654a6e6: Project type
@@ -6147,7 +6142,7 @@ daede9881787abe74c94e686be78a4ea: Remark
 32012fbf608d5ad87ece7921d9936318: Changing the node type will delete the current node
   and replace it with a new {{name}} node. Confirm to continue?
 d2ca42d4145bf8d44d19cf3bb32defea: Change node type
-7412a488a1572df6e5146617f3fee410: Create Company
+7412a488a1572df6e5146617f3fee410: New Company
 6d3ed39ae9a80f978660e51d2a1be3ce: Please enter company name
 6f2a56e547f6f2497b041338450682eb: Only support 2-35 characters
 b042c485bb5bad804a77307c68db9602: Company space address
@@ -6214,7 +6209,7 @@ b81cbbdbae211c2bf62af2de9cc37f81: Confirm to remove member {{userName}} from pro
   {{projectName}}?
 9d6d1dc36ca5fc1125ec8162aa50067f: "{{count}} Work Items"
 6cac27bf8c91cfe837fe22ce5f5305e0: "{{count}} repositories"
-ded5d76b67db90fd237467cabfac2eae: Create a milestone
+ded5d76b67db90fd237467cabfac2eae: New milestone
 2fd292989fe8bd9d80b23c4ca11f9e93: No Work Items at the moment
 d79fd0089d93cc112007c1e04cf99d96: No milestones
 a61646c9e019774290d3914ddd34724b: No milestones to display, please
@@ -6591,7 +6586,7 @@ dcdbc5ba8af7d2575ab845923bd25d6d: 'Submitter:'
 d140a6a7872d2de0b55f4c3814638926: 'Resolution status:'
 ad13268589f71285adf4ee8b58540230: Export attributes
 22573f7ee8a725fc6ae1ccb5fb422a52: Commit author
-39abfb2269375d14842c92c115e07564: Audit Time
+39abfb2269375d14842c92c115e07564: Review Time
 7f406ef11af9f8ed72b755d9f8aaf1ad: Reviewer
 215b0b5f0800edfffd61de27feb5f906: View Type
 '095608bf4aee7c4eef9bb132178bc34e': Please select at least one export attribute
@@ -6617,7 +6612,7 @@ fa250ea90e5200b38be1beb9ffe5c4a4: Insert suggestion
 108f47d2859b7240323481767dd5b7a0: Currently selected code has deleted lines, and inserting
   code is not allowed.
 4a168cb30bd125f25cf88f97ef3a3429: CODEOWNER has been approved
-cd0455955e7830e9956f64d7080afd78: There are CODEOWNER(s) that have not approved review
+cd0455955e7830e9956f64d7080afd78: CODEOWNER Review Pending
 2981b178ec19165092e05fbe1750aab5: All comments resolved
 457c746e50932f3643a8f87b9102eceb: There are unresolved comments, cannot merge Pull
   Request.
@@ -6628,8 +6623,8 @@ fe5ef6ecf2f5d42150e829dc5ca4fbad: Conflicts exist in current Pull Request
 228d34af68915c1721282a35a6bd2051: Configuring permissions will take effect on all
   Company resources.
 a9178539a72fcbdb4fef0c40d2eb89a3: Current Pull Request cannot be merged temporarily
-de634233d9bf92f4f8bca6d01555c3c8: There are still {{count}} access control checks
-  that have not passed
+de634233d9bf92f4f8bca6d01555c3c8: There are still {{count}} rejected access control
+  checks
 41101b9610b1f5a395d188b9aa198cca: Administrators with merge permissions can bypass
   access control checks
 966ee48ae0166db647597ca4646dba3d: Access check passed
@@ -6663,7 +6658,7 @@ d0672f0a18e3ae5715028e6ec23b324e: Some commits from the old target branch may be
 5bc07716cc42e34cd7c3d484bb8479b8: Failed to modify target branch
 d49a7609271292c09416f4f003558639: Not reviewed
 6a23b6e51f579556882999b521c6c791: Has been reviewed and approved
-ae5566ce2479f47056a90e3a2f0ce2d9: Review approved, review score +
+ae5566ce2479f47056a90e3a2f0ce2d9: Approved, review score +
 7dd612e09a58014f3327c2d6a90bab32: Not recommended for merge, review score -
 d67f593e315a47aa9fb1c83905656a40: No specific suggestions, no objections, review score
   is 0
@@ -6926,7 +6921,7 @@ dc21df2d1ff759304258a095eab3d20d: 'Change the visibility of {{count}} repositori
 0a3ef5e4705924c9f601d1903971d536: Transfer code generation failed!
 191e52b661abbbe05d69c2a6d7281df7: 'Commit: {{count}}'
 3eb916a3c27caba6af2bf2821419c288: 'Professional after-sales QQ group: 732702389'
-9db6bf44dee907bb3781b3612c3f3d9f: Create a new Repository
+9db6bf44dee907bb3781b3612c3f3d9f: New Repository
 c083d6c6fcce64303da2d4fae5bdf504: Transfer to Gitee personal/organization repository
 3c32282bab6c99b276859a8fdc85d962: Import GitHub / GitLab repository
 3b43b9e7980955ac60e397bb59832605: No accessible repositories
@@ -6935,8 +6930,8 @@ f9da77c3ee3ab1697aa70a6546753c4e: No repository with this status
 80e4103f3e3bddd0bc8860e07df3e9f5: Set the status of a Repository that will no longer
   be actively updated to "Pending" or "Closed" for easier management.
 f39c1c57f26522b16757efd5e5b6d8b6: Associate Repository
-2355b1ca3ec38e75c3165e1f5fd13b8f: Create a new repository group
-b18de8916bfbe83217ce9be47bcc5a21: Create a team
+2355b1ca3ec38e75c3165e1f5fd13b8f: New repository group
+b18de8916bfbe83217ce9be47bcc5a21: New team
 0a774f0068b596d2ca839f90cad378b4: No accessible repositories and repository groups,
   you can
 51bf058084e8d6f55b45edb7cdba6660: No accessible repositories and teams, you can
@@ -7545,7 +7540,7 @@ ab559689cd9f871a2662986960930f7a: Please select or enter a branch/tag/SHA as the
 78255ef52e8992f7b7ae706d9c2f7fff: Enter a valid http link
 bbc1f7e7eee900fd0bbd5701a8c90b55: Suggested within 10 characters
 310a07b3a57ed84527ed43f3a998a805: Assign reviewers
-ee18b93a9f0d1a7046f4a55fb29971ed: Assign tester
+ee18b93a9f0d1a7046f4a55fb29971ed: Assigned tester
 3bccb585a00bbad19d63ab7ce81425f2: Initiated by me
 177c147b12233afa7c90704eb7d9e8ea: Tested By Me
 4dedd849afe69c5aabe6185703f98537: Cannot be automatically merged
@@ -7616,7 +7611,7 @@ bfa953e085f590ef586002227447492a: At least {{assignNum}} reviewers need to appro
 59a1de32308a8b8e8fb73c4daea703b7: At least {{score}} points and {{testNum}} testers
   need to pass before merging
 9ced4dbc73fcb3436271f0aedb6b6df1: You need to score at least {{score}} points to merge
-ce3683655dd669572b5b8e297c549936: Assigned personnel have CODEOWNER not approved
+ce3683655dd669572b5b8e297c549936: Assignee Review Pending
 2bc5ab9be9beb2ff5ed87dd2e6f55b51: How to manually merge this Pull Request
 3bece63d75210160c5e7bb7ea1cbb293: Merged
 72fb823d6858e82715525dda10d85b8d: Merge Time
@@ -7633,18 +7628,18 @@ a3f1b0a7341500b832ef1e4aaf675e77: Request for Pull Request
   branch <3>{{targetBranch}}</3>.
 f31100420646b4b32cad6b2e0211bb17: All commits from source branch will be merged into
   target branch
-f9c1865580fc8e6412a5ba27f227f815: Repositories I Joined
+f9c1865580fc8e6412a5ba27f227f815: Joined Repositories
 a125945967e7eec16efa8739f27aab90: This Pull Request will be performed by
-e1d5eb31c49f2756433f2d15fea68532: Reviewed by me
+e1d5eb31c49f2756433f2d15fea68532: My Reviews
 df2ec260df05276d44a43e59279f5a90: Related to Me
-cdaa7fffd8d123aca27a4184eaafef56: Review Approved
+cdaa7fffd8d123aca27a4184eaafef56: Approved
 e9248e6bfa02dab18669940c8c2eca6a: Suggest merging code changes
-a9ed26a847c75df20be48d7ba8f44ae3: Review not approved
+a9ed26a847c75df20be48d7ba8f44ae3: Review Pending
 a50c865d7fe40fe885060c4e0ccca0bb: Not recommended to merge code changes
 518b1e77363c2853d936e6221bb14c39: Neutral
 672734ac5a25c359593762c49bc5bced: No specific recommendations or objections to code
   changes
-2bc7465ee4beda7654c56a9a53c76aa3: Approval passed (all)
+2bc7465ee4beda7654c56a9a53c76aa3: All approved
 843028366a08dc883cefdefa622b58f0: Reviewer
 d94067777aa968d60370af5e74e5ffd4: At least <1></1> reviewers need to approve before
   merging
@@ -7818,7 +7813,7 @@ d022ee6ed2613fc037a46b8175f1bef1: Comments ({{count}})
   message to 72 characters and briefly describe the content of this change in one
   sentence.
 5f689a873bbae6d8eb4d91bca692b774: Commit
-3c57850bc8e07c8001c7fc407979ffee: Create a new folder {{name}}
+3c57850bc8e07c8001c7fc407979ffee: New folder {{name}}
 50e1b62ee5322196121783baf2ea8306: The changes in this commit are significant, please
   download and view locally
 7964d3069dc1777aa86e415e42c0a50c: Contributors
@@ -8131,7 +8126,7 @@ ec99e5c45d648fd6275b440b548f67e4: Update failed
 99311bc08fa133a191354c9137b7424e: Set {{name}} as the default branch, continue?
 cfb6c6019e7b51af4795414787bcb22f: "{{name}} branch recovery successful"
 041cc916d54b9fd6b8b3818a89793a11: Put your files here to upload
-a05b5fab6f63247ab4dfc48a9a258f21: Inner-source is the establishment of a culture similar
+a05b5fab6f63247ab4dfc48a9a258f21: InnerSource is the establishment of a culture similar
   to open source within the organization, using the best practices of open source
   software development. Internal personnel of the Company can access the code and
   any other form of resources in this repository.
@@ -8280,8 +8275,8 @@ be064f3cefaba47136be6cf213fd846c: Failed to create a repository. The number of r
 d44e0d633b14da12c154ba552f0bebfc: Team settings
 44dc5e9bfc0e0a23da588a311bcfbe77: Hierarchy view
 ac3ebbe75b2faec0e1b9fc833a3f8d80: Tiled view
-58b9fd8f6f45bf777036508d4f606e02: Create Repository Group
-c1c3a539f96aeec7779523b74cbf0b04: Create sub-repository group
+58b9fd8f6f45bf777036508d4f606e02: New Repository Group
+c1c3a539f96aeec7779523b74cbf0b04: New sub-repository group
 eb0813cdf8b34dbc7e1c17b928b26a05: Member/Authorization management
 6d9c2415a9221796a28a2a60927b0aa5: Confirm deletion?
 d846847cc6c4305b6e7c2be5f9479a56: File list
@@ -8339,10 +8334,10 @@ bb429d0227b7d9d6c5298844921dff92: Syncing
 8c38ca740c6aa65db135da974d18501e: This operation will create a new commit to restore
   the existing changes
 bcce272553d6aa71e68fc94985d05bec: Revert on this branch
-542ed1a66d60e2e9f7a2372275ab7fa3: Create a new Pull Request
+542ed1a66d60e2e9f7a2372275ab7fa3: New Pull Request
 577da48e19385f773622e95a4a6a9589: Revert Failed
 b62fe26b5f273fce79673550e0034c09: Revert successful
-62ede1502d13641862b89defa74fb59d: Select the previous label
+62ede1502d13641862b89defa74fb59d: Select previous one
 6f7a572cc1f152645661885251304c31: Generate Description
 8a4ba3b599b3d4b674464a9f079966e6: Select a tag to automatically generate descriptions
   for version differences and contributors' Pull Requests
@@ -8643,7 +8638,7 @@ dbd3db198bdca2a6c69c02afaef11f8e: When initiating a code task, if the Repository
   next time the code scanning task is executed
 e5cd2ef21e120670ab5e31fc7f9cba96: Maximum size of Repository files
 e7cc4dfad4beea4cdfce09ac1e569075: Quality control failed
-89f2a551e10ddb38516c6675f6411985: Quality gate not passed. If you are an administrator,
+89f2a551e10ddb38516c6675f6411985: Quality gate rejected. If you are an administrator,
   you can skip the quality gate and force merge this Pull Request.
 d5f596827e82d0ee91dfd1ae6ca01aaa: Request succeeded
 a53212d885657eeb65702a1c781419a2: Scan code quality access passed.
@@ -8955,7 +8950,7 @@ e05422c0ff780c921f6ef17423062b08: Please select visible users
 9fe9b46f763b874813bc219815c75596: Delay in statistics about 15 minutes
 958632af677095727b2d15f00608f111: Confirm deletion of <0>{{name}}</0>? It cannot be
   recovered!
-c11330b85234f9c0ad4090462673fec3: choice
+c11330b85234f9c0ad4090462673fec3: Select
 3ee6711ae37aa760885594a6db288b02: Delete Metric
 4bb4577e6877761949a29c90fcc9f270: Dashboard deleted!
 e3c0b6b41c1b2404148c1f17856986fd: Dashboard {{name}} has been created!
@@ -9567,7 +9562,7 @@ ce5d2a0a4e9be51a9497615b192e0c30: Submit deadline
 7ae15f830d6e0cd97e652900b030f30c: Deadline for submission
 155c47d3486f7dddfd5ef2f714f31074: Submit deduction
 c7084aa8932627ecd36fbe8b1aeaf270: Enter Deduction
-e34caa6314681a5c644166575006c77c: TAs need to complete and submit assignments
+e34caa6314681a5c644166575006c77c: His/her need to complete and submit assignments
 cbf900c076e7e0dec19ecfbb298561c6: Uploaded images cannot exceed 2MB
 70756ded3e543a47e456555d661a7840: Commit List
 20c9c9ae5341c0a8e9c1af239db959f9: Assignment settings
@@ -9977,7 +9972,7 @@ b07620dc3e664a4e1e875f1347165523: No organization yet, <Link>Create now</Link>
 30010d320ee6985f4c569b260ed2d5d5: Or import from <Link>Github</Link>
 8d9585db8f982e1e234d182a6ac6ad00: Import repositories from GitHub / GitLab
 227eef9cd7b1d5ba62acc48fb0746806: Profile
-e48cee3992882152f3bdc42882b57c9f: My starred collections
+e48cee3992882152f3bdc42882b57c9f: My Starred
 259022e856f6bf2f66ef107478327101: My starred
 a16bf4c8ff559fd4ac98599f79ef9ff0: Users I follow
 065773ce6e3d6352fbdd8809515e68f5: My Code Snippets
@@ -10039,9 +10034,9 @@ d5683d39b599fb0ba22efb0a2f730d66: Private code
 eb137dee4c0aafccd798e1c3f323fcdf: follow
 4e56466fff3246af1954548d02feffc3: GVP - Gitee Most Valuable Open Source Project
 186738348425b280fad791da07420123: 'Successfully starred, added to the following collections:'
-cdfbf109edf69a33d13b14d40d54315a: Click the button below to create a new Star Collection
-5d16cea725606100b3c7a2c68930e9e0: create star selection
-02a9479c332252fa7aa2aabdb51bda64: Please enter the name of the starred collection
+cdfbf109edf69a33d13b14d40d54315a: Click the button below to create a new Starred
+5d16cea725606100b3c7a2c68930e9e0: New Starred
+02a9479c332252fa7aa2aabdb51bda64: Please enter the name of the Starred
 dc6ccc00bfe907d1268b8e81e4c32f75: The email associated with your account has not been
   activated
 98590075852d877fa8d3b58561167627: The email has been sent to your {{email}} mailbox.
@@ -10167,7 +10162,7 @@ b2cbce25651211fde15d945023ee56be: Recommend to follow
   you are interested in
 03715137ff8772ec48b16216b8baf785: You have submitted code to the <projectLink>{{projectName}}</projectLink>
   branch, <refLink/>
-9fe75ec3e137fdecf9acd896531e53fa: Create a Pull Request?
+9fe75ec3e137fdecf9acd896531e53fa: New Pull Request?
 f136c37dead380ac9a7c07c7d58785e5: Welcome to Gitee!
 e9d9f259d7080f965c4b5305bfb9ca81: Gitee is a cloud software development collaboration
   platform that helps developers/teams/companies better manage code, projects, and
@@ -10285,7 +10280,7 @@ dfac7e46b8879f8fdcc9dcf8169dbb96: Trusted choice of numerous Companies! Help Com
 75b34bb138dd26b0877e6a5d7d6fb2be: Help Company quickly complete digital transformation
 4e5e43e2c70f6427ba988346d382b3c5: Define Company's own agile collaboration method
 c82c6262f3a293beb65b55ab33e785f9: Private Deployment Consultation
-2f890ffe5ef6d4e085b7b9b2f00462e3: Create a new company for free
+2f890ffe5ef6d4e085b7b9b2f00462e3: New company for free
 c1bdfac407714eb71f69b6b83907ac13: Enter Company workspace
 bd35f91801f4a84adf1d0d45164e14c5: Select and enter Company
 fadb2a9ebb4b84868a9624374fe6195b: Gitee, together with numerous Chinese companies,
@@ -10294,7 +10289,7 @@ fadb2a9ebb4b84868a9624374fe6195b: Gitee, together with numerous Chinese companie
 2d9801c466a2f699db934e3de9c60177: Number of Companies
 38c0d0afd56836b8572eff974130c614: Number of pushes
 da11a47c4bb9383ad726d75f2ee30bba: Number of projects
-3a4078aa4cc13ada79f3c1381b7c0893: Number of tasks
+3a4078aa4cc13ada79f3c1381b7c0893: Number of Issues
 6777d9e2ba5e1280521c1ee6a774dbcf: Build Minutes
 7d0bd1bc84c543b873d13fc6b8bbffe6: numerous
 b113a4497f476e25519ca7e608cae1a8: "* The above data is from the Gitee DevOps R&D efficiency
@@ -10628,7 +10623,7 @@ ccbb1c2bb9156b2fd194d71c994fb4d5: Support both cloud and local, multiple migrati
 1e6c0127a27a8621da0e749fb6184fc9: More resources, cheaper prices
 53f7ef0bb6ba37381416e0d60a2b5ad0: Clear and personalized task management
 9285eb7418a6e2506308e2d3344a3f5a: Multitype dashboard
-'08bd446c5f114b1a6dcee7aae10d647e': Brand New Milestone Planning Feature
+'08bd446c5f114b1a6dcee7aae10d647e': Brand new Milestone Planning Feature
 ec663318b12391dca31213abd880b972: Exclusive project documents
 7ca33fc2098cbcc4f0098e99c7d1e590: Mobile collaborative office
 6f2d4fdfbba980b4d423702b6a95030d: Multi-dimensional data measurement system
@@ -10986,7 +10981,7 @@ b4398761a0acde685ea5954f71776fd3: Repository space information
 f734fadb2179c6bfe66768113bd78987: Upgrade to organization
 3e934f6462f39c825974bc2c8fba6aee: Upgrade to Professional
 cd9fb60fdab2860a780ec040dd75ae27: Donation Management
-6f3c8011b0eb0880f6c676bc96688631: This is a university repository
+6f3c8011b0eb0880f6c676bc96688631: This is a educational repository
 a564ef53b9ba46c74bbf6d4a56e0debd: This is a Company repository
 3928ff8c7700024184d4dc56f87327e2: The current repository is in {{statusText}} state,
   with some functionality restricted, please refer to the <linkTo>Repository Status
@@ -11535,7 +11530,7 @@ e7793242fe6ce32155101f6912d4d6cc: "{timeago} commit code"
 d57f837f898ef459e691c221673bb1c4: Repository Author
 9244c72a6dbce3a6495d952d9a359b13: Not Submitted
 bc37a6110a07493f21d0bc20e3d1ec9d: Submitted
-68aa2fe72b21b48366bd1ea93ff51266: Acceptance Passed
+68aa2fe72b21b48366bd1ea93ff51266: Approved
 fe67582fc10968fa5f300366f0c47e03: The other party has submitted code. You have {checkTime}
   days to review
 44edc2d73e659f771a9e7e3300ac4aee: Remaining {checkExpiredTime}
@@ -11854,7 +11849,7 @@ c4ad291ca9967d45524430b9eeea4b11: Bind mobile number
 b1ebfd4641fe97f80152e1d3cea62140: Pending image list
 056f513249307567a552bd0f60ba9fba: The following images will be saved to the repository
   after clicking 'Submit'
-21390959fdea84ed7e1674d80300767b: Insert network image address
+21390959fdea84ed7e1674d80300767b: Insert network image URL
 27ba66a62caf18bc99ee72d903e05575: Please enter network image URL
 4268493cd34f6f480df93fbb89a81c92: Insert
 2611b6087578ed2c99af2510f56a264d: Referencing images within the repository
@@ -11921,7 +11916,7 @@ e80575ccaedc4d72f550fcddb2eea4dc: You are operating to delete the repository gro
   branch. It will be automatically deleted after the Pull Request is merged. Please
   confirm the selection
 12404a0b638172406b8776fd1e1a36bf: in
-241ecec7655d02ed2f0b7171e5ecb1d1: Assign Owner/Collaborator
+241ecec7655d02ed2f0b7171e5ecb1d1: Assignee/Collaborator
 1f8732f1de5491b2392fffd8ea4cd81f: Edit task
 9065ee827f5e062a8779981f65369011: You must select a project
 9f53519e3bb260f4b677629d78ed0b5d: This repository is not available, please choose
@@ -12027,8 +12022,8 @@ d06bc6efdd8cd7e239f4867542dd3bbf: View results
 bdb6ad0c763db8600473e9e19558ef98: Selected %d tasks
 3f1e6d78a349ec45b68917b0dbc86d57: 'Bulk modify to:'
 c93d0726b6409c087626148d00e700f7: Please Select Tasks First
-90dda601d23ea7b1c65f22f3bab02716: "+Owner"
-a49ebd7d4836fb0f95a973ceb6499f4a: "+Collaborator"
+90dda601d23ea7b1c65f22f3bab02716: Add Assignee
+a49ebd7d4836fb0f95a973ceb6499f4a: Add Collaborator
 c6b88434c2c4d1368e46045316a95db5: No other states to switch to
 6fdec0ca6076ec011d695beddaf6514f: Unplanned tasks
 b48e4a31d1710f174e3d2c875667e25b: Unassociated repository
@@ -12292,16 +12287,16 @@ e905b3859077727cdb6ceacc2b4de1cd: Reviewers
 01fc606e64e2d67799a51058a1ac5a23: API reviewer
 11df288fe33dfef2ff2c7d58bb7378b2: 'API review:'
 443c59f2169faad3759e0090b126ff23: 'Review:'
-42200ab5c83743c4342949c073e50809: API verification passed
+42200ab5c83743c4342949c073e50809: Approved via API
 60a3c231339ec8d2add4374d4720b76a: Approved
 f789abf672ef509f8c90d9d8372ebbfd: API not yet approved
 8562a12513312bdf117dc3310899c33b: There must be at least one tester!
 6119b246fde2421e707bdf45ff262232: There must be at least one reviewer!
 '0344479fc2d02c77dc2bab5d7f446c4e': Can be automatically merged
 5c7876a75982ea8a8504fb1f76de7a53: Cannot be automatically merged
-32a14c03890d1bc00da2c02b96396694: Review passed (all)
-0af55bc31f89b4155eba692ccc225bde: API approval passed
-42248686467d51f6d2d58ce0a03066cd: API Approval Passed (All)
+32a14c03890d1bc00da2c02b96396694: All approved
+0af55bc31f89b4155eba692ccc225bde: Approved via API
+42248686467d51f6d2d58ce0a03066cd: All approved via API
 d7d7b0edc7aa1948f9bbc2d920163336: The current PR target branch is read-only
 7b17e671269f7e2ce2566be5bfc27473: Failed to update Pull Request!
 d8a7195557b916af49a529eac64711a2: Close Pull Request
@@ -12354,7 +12349,7 @@ dc2268d5086b74abd0e1456f9c24ef9f: Submit comment and pass
 afcec890ef92a7ae5f69fdb529a0ef4b: Submit comment and approve
 60a5972bc7e3c15e471ade1cc342da72: Submit comment and test pass
 4cc0f05118740e45d4273c7912665d04: Review is a comment annotation on the issue
-83240f14e1b3d8a644fa3a872ed15cb3: Review / Test Passed
+83240f14e1b3d8a644fa3a872ed15cb3: Review / Test Approved
 d65b48e11c23c8ac2748623a2555027a: Submit comment and review / pass the test
 bb6b135bd5c1fe8f28f3aa8cbf03f62f: To be submitted
 c979f2161952de5b0dbf1094c3c86e02: You are about to exit review mode. Unsubmitted review
@@ -12492,7 +12487,7 @@ be9ca3ecda8193c5c34ca37e39da999d: Private token description
 f558b4b46b1201297c82fc6b9b634ed3: private token deletion
 a74e5bed70a49f9eecdbb267d2e0fc34: generate private token
 9215830f92392edeea2cb6a58c32307b: Edit private token
-01e7595856511eabd2da66de909125a0: create private token
+01e7595856511eabd2da66de909125a0: New private token
 5bcba388ca260789df5b06ff42e7c5b3: no inspection info
 c7f021c9b88e14e64aaea018d877907e: powerful planning capabilities
 4814f62c108d82de42a65c515d56fc22: Webhook
@@ -12517,7 +12512,7 @@ ba56172735ba493765103718649715f5: test case created successfully
 7961317fde71c9967a5e68e1aacc6bd9: loading ...
 a31e5f4d5505ead5136d5bc55d37aabf: test plan created successfully
 00ae9823377908881b651120e80f2fcb: private token update failed
-dd9cd175fcc0a66d9e37e6adddffca56: create private token failed
+dd9cd175fcc0a66d9e37e6adddffca56: New private token failed
 6564d3c4650a2baae48f9f141718bb8d: test plan updated successfully
 535b0752a954422d38bff95b8a4fa4f4: delete private token failed
 4e42951ea71c9aa6f6d2aca6c8984c8e: delete private token successful
@@ -12595,7 +12590,7 @@ b8f3f7925a1770b666de638b4d02058e: your private token {{name}} has been generated
 5f01402a5c66528d328b4367c0694bae: successfully deleted test plan {{title}}
 74ee29e91153f8a91c9ace0c3d858279: Professional DevOps efficiency platform
 297713d08133b8af7a8b39ff3d936f78: selected {{count}} files
-6b3fdd36f010402f5961c17b459b3a08: company disk, document collaboration, WIKI knowledge
+6b3fdd36f010402f5961c17b459b3a08: Company disk, document collaboration, Wiki knowledge
   base
 bbdd6269099ab02cc0b932f08e665feb: selected {{count}} work items
 56e4667ac2b0bd13c9eb9f857a2959ad: Pull Requests
@@ -12689,39 +12684,25 @@ e72ec4c53f5af9e634b7fd490958aa79: Import complete! {{successCount}} company memb
   task management, document collaboration, continuous integration, Bug management
 79d668840afec0259a51e722e992249e: Access Token Revoked
 5876a77b8858ea246081bd7fb93144fe: Invalid Access Token
-9d57b56c336f1f22892d14067b1e2ea9: Private token generation prompt
-4dd2ca5f350e7bb173f71c42185afc6f: Private token update prompt
 bb6e0f371142bee1ae46e10e1a7550c1: Your private token %{description} has been generated
 94b9a053af9cb587aed75d43431dc041: Your private token %{description} has been updated
 963b0df8618d75b37e281c81e3a688b7: You have successfully deleted the private token
 5db00e8e240be4de416cd0f6b228370e: Generate new token
-a490b796ba5301a899f96104ecb716c2: Can access with private token
 1183cb9082f7908d4f2aad05c09acc63: Description cannot be empty
 8dbce89ff4f649477ece0551f338a800: Private token does not exist
-b4457bf9d356d63d40911126e1376293: By using the private token, access can be made through
-fbb8ef3701ac183297adbcd84e24a032: Access your authorized data, please pay attention
-  to data security!
 4d08878aadabbc9f13d8edb8caa12aff: After closing this page, the platform will no longer
   display the private token, please keep it safe.
-672e882df7228fae8057d6658b52bc93: I am aware that the private token will no longer
-  be displayed in plain text on the platform and I have copied and saved the token.
-7a4fbfc0672fdf5085191e4c609c7f0c: Confirm and close
 036cacaa51922a4fc54e2975b10dba76: Newly created
 1651031bf58d8eeac8dc9c3e3d5eba20: Regenerate
 d6a5ec5559e03b359072aa06284e17d9: Description already used
 5e39bc10e6daad0ec70e26ab247821fe: Verification error, please try again later!
-8bdf094d56d34e53e6cb33d3c0ec1015: Private token description
 41acd367c5053c735ff3a3ad6d3fdd53: Please enter a description for the private token,
   maximum length 50 characters
-98ee48dfd7fb487ada2c8bb70efd0eb9: Please select the permissions for the private token
-  you will generate
 1be2c6eb58b5b37915e5b4407a51bb65: If you forget or wish to update this private token,
   you can click the button on the right to regenerate. After generating a new token,
   the current token will no longer access Gitee OpenAPI.
-be83e6fcc400097d74abe38bde9a1cae: Regenerate token
 7d199c070f108e6e9947775a25a16a8e: Failed to update private token, please try again
   later
-bc90a3c4829eeea6bb9c6a20b4ad44e1: Edit private token
 9ba59987075c70bb2a61af138171b6dd: You have not created a private token yet
 362849acd18b220d9e84e3cda271aaea: System application does not exist
 72f29897ca363e5948f88d406bb4e118: New private token prompt
@@ -12733,14 +12714,14 @@ dcdc589f9fbf115bb980dfe6217100e2: Your private token %{description} has been reg
   visit %{index_url} for more details.
 e857b8c8026b06eb1820c3101d99383a: Your private token %{description}'s permissions
   have changed, visit %{index_url} for more details.
-935574e1089d976c85bbda593d977a32: After %{frequency} consecutive failed login attempts,
-  lock the member's access to the enterprise
-18403d14d4ccfb40a16f3172be9e3b17: Change password every %{frequency} months, otherwise
-  lock the member's access to the enterprise
+fe8a6d30cdeee028ae577d8e0506d658: After %{frequency} consecutive failed login attempts,
+  lock the member's access to the company
+bc53281f1d5f0aa5b5a7e3ae203b66c0: Change password every %{frequency} months, otherwise
+  lock the member's access to the company
 e62c6601992f47c2b41297d4a8d40f21: "%{frequency} minutes of inactivity will invalidate
   the web login session"
-d2613b1f2d890962d91dcee36590e83a: Only allow access to enterprise resources within
-  the IP whitelist range
+c53f03c371d8bc5e1b15b6b6c92ac487: Only allow access to company resources within the
+  IP whitelist range
 25d8d09814860fdc6ccbd8d94168cec1: Maven repository address
 1478af6efa7adaddefe51dada039c149: 'Tip: Currently supported frameworks include:'
 8c282f39590edf6074211f2777355721: Enable Demo
@@ -12835,8 +12816,8 @@ dfeb5c9e33417e1da3debd1d2f3099b7: "%{get_user_nameactorreceiverreceiver} has suc
 791e84e3836ddbdcd1196a5d4fc65292: "%{action_text} failed, you do not have permission
   to %{action_text}"
 71fc827d12ae4606190d126c024326c2: "%{action_text} failed, you have marked this PR
-  as 'not passed'"
-fcc72c1d85ef814837f438188a912d7f: '"%{action_text} passed"'
+  as 'rejected'"
+fcc72c1d85ef814837f438188a912d7f: '"%{action_text} approved"'
 33b4b1b8459d1d364b2c9df8f3fd64bb: "%{action_text} failed %{pull_request_errors_full_messages_join}"
 07ad45d72b028463b1d4c0b6a76e6c09: "%{action_text} has been completed"
 be51a982b27e73503d68b0f4e4773e15: "%{commitid_first} is a merge commit and cannot
@@ -14480,7 +14461,7 @@ beb7dcbbaca11ad6a1a8d81c81977a9a: Gitee Company is not just a code hosting tool,
   is also a project management platform with a deep Geek culture. In
 656f9d9eb4e0912fd8b326cf4217eef8: Ended, please look forward to the next activity.
 71ddb91b7dd03648783f77190b9fedaf: Trial + Pro edition
-81538071fd10c8ff7dfe7ffa9af2b998: ', click <a href="https://gitee.com/Inner-source"
+81538071fd10c8ff7dfe7ffa9af2b998: ', click <a href="https://gitee.com/InnerSource"
   target="_blank">here</a> to learn more about "Company Inner Source Governance".'
 29a4182967ca178cbab9a6a51a449ade: Issue/Task associated branch
 0231bf5aa33d319f657fa50ebfcd82ea: '<span class="ui basic mini red label" style="margin-left:
@@ -15529,7 +15510,7 @@ f0db1f084459f9e136abba2132971522: Confirm save configuration
 ea7995531e575885c514b10588fa32f9: Please fill in the IP address in the correct format
 01dcfb5922586cc1c6c496821e71dfda: Upload All
 8783e02403bae1672f928d5b894138a9: Remove All
-652e91d5d19e2afccbf0e8edd4ca6cd5: Mobile display image address
+652e91d5d19e2afccbf0e8edd4ca6cd5: Mobile display image URL
 59c99991841dbbc563df4400e58c38fd: Used to control the img address of fifthjumbotronimage
   class in PC interface
 96d63c08195c941faf46a035c9fbcaec: Used to control the img address of fifthjumbotronimage
@@ -15546,7 +15527,7 @@ fada4dfc38e3f489e26330cbdf2bb0bd: Cancel modification
 664a77b5fe3e01b3fa843097c93e30d2: Ban Date
 a252f691eb08b8b104c58ec9cef24e0f: Prohibited module
 80b1b57c583f1c9aa84d6ab1331261ed: Access Full Site
-f45886408a20ba26c1225d7a9710e4c0: Create an issue
+f45886408a20ba26c1225d7a9710e4c0: New Issue
 1c820225bdb75744daedd6b785075abd: Create wiki
 aa1271d415700414b87a5427bb9417fb: Company management about to expire
 345d87617f674d6a4cfc51539b91e5dd: To
@@ -15661,7 +15642,7 @@ e76a831fe8e97a9c92991f43f69d7c79: Please enter the card image link address
 3ed637e5794ce3013409cb2dc756d772: Launch Time
 76671f2a571c78ce6d7afe9d66817f28: Update Release
 61d2ab401421ee00d3fa1f4eec2d520a: Function update log management
-cf6b37794c982f5aa2e1b6671479fed9: Create a new feature update log card
+cf6b37794c982f5aa2e1b6671479fed9: New feature update log card
 fece8ce1c5829e69b093f71542b77ac5: Activity widget management
 55cf0db5fea9f69b325e1e2787aff773: Enter the target address of the link
 ac80bf04b6c11a4eee20bf439eeae5d6: Upload activity widget image link
@@ -15806,7 +15787,7 @@ b53d2ccbe6f02403e1067054276855b0: Target project
 5231b78c229016a1b7c3dade15c019fe: To Fix Position
 6206c208f4a06a74ea7655b603a6faf6: Valid Time Period
 4b6c8dd1ca2ba45c4fb457f2da8a44ae: Project display fixed management
-b849071db7f91a8d183220e2f1683694: Star selection list
+b849071db7f91a8d183220e2f1683694: Starred
 02baf7f7b780e5d90b13dbc4b224d85d: Recommendation status
 1452deafc6d96546b7ab40acde3d9302: recommend
 853a55f3eea0fb10e4ef056a4703d0fc: Public status
@@ -15886,7 +15867,7 @@ ea711bf458d599666414c01966e7d3b4: Full detection of issue content
 b68bf34986b6730e824b2cd8ef96b401: Service name
 f28943faa5fcf08f811d9c05c555a705: Price
 4a54c770c7ebccb0499e295b1fd3e664: Setting failed, please try again later
-546a389ad61c17cbf45fa8fdbd1f20fc: Cannot Be Empty
+546a389ad61c17cbf45fa8fdbd1f20fc: Cannot be empty
 e6604efd9aafdf06914feccd775b4aae: Queue synchronization started
 2ccddb87fc5c767f28e2f415b28bcdd2: Issue list
 5520241422b4ef6bf329b745f8fa9641: Issues of non-blocked users
@@ -16032,7 +16013,7 @@ fa836eddac7333a6082b9b2d31da9bc7: Advertisement Management
 5b738e48ae61276bb8f52bbe6770ca87: User Report Management
 25442b3a662bbe39d48fdbf25a1207a2: Repository Report Management
 a2527ec1d63a153d874fb9e8f89aefd3: Comment Report Management
-542c8b69e9c100c8c38902fb12d2c703: Star selection management
+542c8b69e9c100c8c38902fb12d2c703: Starred management
 dea5be8bb155e0e49f9c1d85e2e51610: University Application
 608844ee289e57c33a9b48aab2d93547: Invoice Management
 fd58eb0b8f1cee2a652f80a6a73206d6: Purchase Consultation
@@ -16193,7 +16174,7 @@ c2a2f8293dc670ef203395840344f017: Friend links
 230cda98cb7ee1aef529affaaa7a8a21: The smaller the value, the closer to the front
 aea01abd04207a3d0eb145dbfed54d70: Operation management - option configuration
 f79473b17739a17ca7c6470525f9c636: If it involves image modification, please browse
-  the image first, then upload it to obtain the image address (maximum 2M for a single
+  the image first, then upload it to obtain the image URL (maximum 2M for a single
   image)
 2fdc7fc63c066602530714baf79318e9: Dim (Weak)
 f5350cbc2147802d93e5353539f4256f: Only light up (in progress)
@@ -16207,8 +16188,8 @@ c4e9d59c743b78e9534f0faac8994544: 'Please enter the reason (cannot be empty stri
 9a428b89eea9ff721ccf62263fd71554: Activity widget close image link (bottom left corner
   of the website)
 4875211bc0d08ebd959243a942430779: Link image (recommended png transparent image)
-074203a7647829551e7b998486907e53: Click to upload or fill in the image address (must
-  contain http://)
+074203a7647829551e7b998486907e53: Click to upload or fill in the image URL (must contain
+  http://)
 659cad26853c1141af218f89b37f17f0: Link categories
 1bee26265fb8d39436e2304fd468f275: Please fill in the link address (must include http://)
 5ab31dc0347111f72264954dbeb70334: Please fill in the exchange link address (must contain
@@ -16218,7 +16199,7 @@ c4e9d59c743b78e9534f0faac8994544: 'Please enter the reason (cannot be empty stri
 1f4cfd11a9028b3b778a536472294d01: Order of placement (the smaller the value, the further
   forward)
 95e21848f126d584c0abef43668e79f8: Click to upload, automatically fill in the address
-  or fill in the image address (must contain http://)
+  or fill in the image URL (must contain http://)
 88b816aa7457d9b687ba28561b3003e8: 'Cup mailing number:'
 041a4a3096564273a3248e29f38b88a9: 'Gift mailing number:'
 204540d5cf467c7f941b576d169dc37b: Project, phone number, name
@@ -16448,7 +16429,7 @@ af8021f5252659467f435d4f54304ccb: Cover character sharing thumbnail
 '09f2f242ec31f123257bffec2c15b7f2': Continue to Set
 d54ad280eaa2f0cb5c1c1ddc20f6232f: Remove activated phone number
 78bb6262099e1fa688fa0911a3e4e94e: Comment Time
-4f30396ac2d6b688dc4effdf84ed1844: Star collection list
+4f30396ac2d6b688dc4effdf84ed1844: Starred list
 6514ca7ef5e072eff2b3f34f7f9ab0ec: Select project and fill in report
 d04841466c452eaccdcb2cc5e7e3b872: Total number of repositories
 ff9bd0ca6ec6619576c76f7da3062966: Public repository list
@@ -16493,7 +16474,7 @@ e56b245f093998e86ff51387e0478943: This cache needs to be cleared manually when u
   the template
 eadec5911f4ab0ffca68b49ddb680821: When modifying the homepage
 81b8ec598e71f20f2e3c627ad9c57c30: When modifying app/views/layouts/
-5221a3824fbe7f9c358c3b9f3029815a: Star Selection Management
+5221a3824fbe7f9c358c3b9f3029815a: Starred Management
 39aef1a78cf1e5529b40a313865d991a: Unit (GB)
 c1718057e8a20ad12bf2ba6707515988: Unit (MB)
 444a87c5a78b373078edea452cf436aa: Unit (individual)
@@ -18185,7 +18166,7 @@ c7217929daa63e9ac1d5681e15b2a2be: Repository Space (G)
 0a80308d5b20c5efa681c5b6f943b7dd: LFS space (G)
 aba5bb41f5f511b55ca13808be46c1e6: LFS single file (M)
 ad994f5479ad47a1b0d3ff9025eec14a: Attachment Space (G)
-5e49cca9b96d78523b43f26309b1efb3: Create a new company account
+5e49cca9b96d78523b43f26309b1efb3: New company account
 da75e70fd9a6cc262935c774e521363d: Add Return Visit Requirements
 c632cc44e83646df68646ea7390d92d4: Follow-up requirements
 8b4607ca3403c7b9d387b891945c4088: Last events date
@@ -19064,7 +19045,7 @@ a7a8b08a618300d2c818f019579a4e18: Sorry, your Gitee vault balance is insufficien
   %{vault_balance} yuan, which does not meet the withdrawal amount, withdrawal failed.
 6f61a3325f8da4c729d87d093a9c6849: This operation is not allowed for repositories in
   the %{project_status_name} status. You need to %{change_project_status} first.
-69912155e4536bee7eafe7ff89c549b7: 'Repository audit: not approved (reason: %{reason})'
+69912155e4536bee7eafe7ff89c549b7: 'Repository audit: rejected (reason: %{reason})'
 dac2721649b0b13e3602e510dab09930: Pull code from %{parent_project_human_name}/%{parent_project_display_name}
   repository (mandatory).
 27e9a76bc0b1df75df97b1f10a0cd34a: 'Violation Project id: %{project_id}  Violation
@@ -19222,7 +19203,7 @@ dfc4426d3d3757355b5ded541cd06068: Project %{project_name_with_namespace} self-re
 72331a5d260a97aa4d71638c9bd2fb39: Your requested GVP plan project %{project_name_with_namespace}
   has been approved
 5cb5eea8606b45bcdc1c65f65d408875: Your application for GVP plan project %{project_name_with_namespace}
-  is not approved due to %{reason_desc}
+  is rejected due to %{reason_desc}
 4d17c9c5c31a3bb86643df05bc9305cc: Your GVP plan project %{project_name_with_namespace}
   has been revoked %{reason_desc}
 b66abfe45386be1d3d4996a163828476: Your repository %{project_name_with_namespace} has
@@ -20699,7 +20680,7 @@ a56e78dcae15ea2a2e2fa862fc7f468c: Whether it is set as a draft
 fade1c6369cac82e80245953305387c1: License template
 f0e272987bc5fb26b9734182e92f137e: List all repositories authorized by the user
 395bda79d8921f103638e5fa7173fe03: Search keyword
-c772c81d1220032f17edaa7f59dedd77: Create a repository
+c772c81d1220032f17edaa7f59dedd77: New Repository
 21965e63e188011300f2ac8fbed18774: Currently only supports private
 ef497ea7d80c11771316dccf498bfd2c: Get the public repositories of a user
 6bafda927736f0fbe0a30e53b0a514b2: Get repositories of an organization
@@ -20805,9 +20786,9 @@ a0e3951ac1298f14a01adc8db76db531: Push code to repository
 c747b7881f6881f0fcb2270e2618aef9: Merge request and after merge
 9e5de7e0c216cd9ab3c0814da52deccf: List WebHooks for a repository
 98639f0d2814e1e9a7aab74f4a75ded6: Get a single WebHook for a repository
-a01ba2ea4e83549751c5478c4ac66094: Create a repository WebHook
-cc69e7b91ef77f5c586b61e221364073: Update a repository WebHook
-5a2045a923aa76c9cd51b6c7650e2417: Delete a repository WebHook
+a01ba2ea4e83549751c5478c4ac66094: New repository WebHook
+cc69e7b91ef77f5c586b61e221364073: Update repository WebHook
+5a2045a923aa76c9cd51b6c7650e2417: Delete repository WebHook
 db4bec0067673bc741b529b353fb7490: Test if WebHook is successfully sent
 d963ad598f61ebd64d4b88f395a51059: Test send success
 576ae4e17ffd81e496c8d226d8ed7de6: Get all branches
@@ -20899,7 +20880,7 @@ b7e4371113ebc99a0f3621e6637bd94f: Company nickname
 6c76c93add86faed367e4dd3128265e7: Whether it is a recommended repository
 82137571fdd6f138532fa0c6214b3871: Is it a GVP repository
 9445638f360c79e11e028f790af036b2: Fork count of the repository
-1c9273a3a771086af6d9da57d4fda768: Star count of the repository
+1c9273a3a771086af6d9da57d4fda768: Starred count of the repository
 8adee7fabed5052ed0e7295984005d64: Repository watch count
 033e80863ab4118b1b84ed692c30536f: Number of open issues
 2211878bbe41cfc234b890e60069f813: Is issue functionality enabled
@@ -21470,7 +21451,7 @@ dcaee444048536b0c1486cb8a0d976a3: Target Value
 d29a884aa8790570c6e3a2ec9e3f5fcb: Automation rule ID
 0415734710502ed72c34acac9f6c10e5: Event log ID
 5b2f51cbd219f7753f66b21074c7aacf: Sort Location
-f08ca7d9924c86a56dafbcd83c31f736: Automatically assign owner
+f08ca7d9924c86a56dafbcd83c31f736: Automatically Assignee
 6cb5c10191c6476b7a73182e08241f12: Auto-fill fields
 89acf86b2455f0e0fae1b0f80c8459ba: Automatically change status
 f41acac857d36d1a824cdd5e5d8233cd: Automatically break down work items
@@ -23347,7 +23328,7 @@ a2abe15901e691a39b3460877f77406b: All
 57786dd4e25e98321f77c5cf99b1c0cd: Personal
 97cb8f5037e5238884a35ad5cf8cf115: Exit this repository
 4270f049f1eaa86496c7cc2bb783cfb1: Are you sure you want to exit
-e788e0e76f34b4e94ca3f56955851a16: Created by TA
+e788e0e76f34b4e94ca3f56955851a16: Created by him/her
 34259fa6c3366dc29837dfb915db23ba: My Company
 98d57ff6b8e650357ac3017d826aeee0: Company creators please go to the Company management
   background to delete the Company.
@@ -23369,23 +23350,23 @@ ad187c7f38fd518dff1d58ceb153d6b1: Length exceeds limit
 9256e6225b85a7f1921ee05874dfec96: Invalid Weibo format, please fill in your Weibo
   profile URL
 71ad32522ddff4ba41c367f869445400: My Followers
-96451a0fd5ad199fc785bff8414ac6e1: TA's followers
+96451a0fd5ad199fc785bff8414ac6e1: His/her followers
 46be40c1fde82f84d571ef384193139e: Person
 4f3e4bd27b3f41a919ece5201914625c: 'Last updated at:'
 4419d9a1f6f01d51ae7a0c45f63bfc01: Latest Star
 fe86167e0615413d29a831eb930b24a6: Earliest Star
-648be8827d7b08840cab1666411dbe0b: TA Star repository
+648be8827d7b08840cab1666411dbe0b: His/her Starred repository
 86940c704113a7910cbe551219736ef1: Starred repositories
 a64390cba9372757d6c0a7e65853c5a7: People I follow
-134bde83769da50638e8a7f21af9c58d: People TA follows
+134bde83769da50638e8a7f21af9c58d: People His/her follows
 df3c489c1760aa3707b50eb2dd07496e: Repositories I follow
-732c54c657541fde5eb570b5a116a355: Repositories followed by TA
+732c54c657541fde5eb570b5a116a355: Repositories followed by him/her
 a98f07c364a8e8a5bf5783ece8d3f729: Login to Watch
 bbfd790b813730e9b05126c2e4072842: Login account
 872145d017f1c1c016114eca23e796be: OpenAPI Login
-2f10cf75a521b62a9aa5b8db21446a29: TA's Star Collection
-e8c73c8d0c4e624efb53ad262e849231: My starred collections
-328e9b306a1591dda2519d843f5f5a59: TA's starred collection
+2f10cf75a521b62a9aa5b8db21446a29: His/her Starred
+e8c73c8d0c4e624efb53ad262e849231: My Starred
+328e9b306a1591dda2519d843f5f5a59: His/her Starred
 f124240c90916567cfea37039a77954b: "(Created by me or assigned to me)"
 2e182ade911307ccccea848292aa506d: No related issues
 7bb9b1676e5d12711aad8666b496f67c: Pending tasks
@@ -23402,7 +23383,7 @@ bdca3fb03f39dfbd822aad2ec2a0b45c: Code pull failed, it may be due to insufficien
 f943419497fe71f6e05d9fffe12ee453: Shallow repositories are not supported
 5588fb81faf04a898f2fd3cc354956c6: Repository import address is incorrect
 03d1e6d57331381bd3cd36bd8cbbaecc: No permission to fork this repository
-a6f3f9f9992faaf64853b6269510815a: Create a new
+a6f3f9f9992faaf64853b6269510815a: New
 b10d00fcbb7711dc43ec47dbaabf4b25: Operation failed, please try again later
 afdeec6187df8400738840ba94c7494d: Operation successful, have exited the selected repository
 075022013015467a9955d3d66fd95e1d: Selected %s repositories
@@ -23443,9 +23424,9 @@ ca0ee5488c2d820b185ff4b0640cc5b3: Batch pushed to
   at any time.
 60434e939cfeb3345381ca65a729b0b9: OpenHarmony component library
 9125167b155018a3664db8b429278f23: OpenHarmony popular projects
-e66b2cc4025b144d888edf769b81c58f: OpenHarmony Star Selection
+e66b2cc4025b144d888edf769b81c58f: OpenHarmony Starred
 2618bcf239acf9f34a397410f20fbf7b: OpenHarmony Hot Articles
-a05ee088f225e0a1aaa0885396939adf: Star count
+a05ee088f225e0a1aaa0885396939adf: Starred count
 8da9012ec00176b640390c6fbfbe9d9b: Fork count
 ae72b532f4b8f09e179cb9ed5c523d67: Scope
 ed1b8d7bec9f0b007d23831b88e7aa88: Latest recommendations
@@ -23915,7 +23896,7 @@ b7e999083ddf0ccd550d92fd9b0e80d4: Reset Filter Criteria
 728a091b73abab440623b1b4db0ab25e: Search issue
 d48ed326c755a6b3f4a45284d70149e9: Please login to perform search
 0c29341d669051240cd9dabac8e96ae3: Search creator
-2090abb48392e32de75f439ec5879cc0: Search owner
+2090abb48392e32de75f439ec5879cc0: Search Assignee
 7a9e7cb94821544c0f3f427a5e7e9623: Search Testers
 b7de899542a9324c4cf5a18cf9bac229: Search Reviewers
 3067f0908e88d8476a14d08597f14ce8: Search API reviewers
@@ -23940,7 +23921,7 @@ e07f58cd028dff73fcc893a68a49c924: Are you sure you want to delete milestone "%{t
 6833f16231a723ff648814ced83a278f: Before using, please
 0753a3656de42e8431c7bf32ee82af44: Issue opened
 3867e5a7efa0a9422b4c54c6dbef891b: Issue closed
-8ad78cd651d99b61014b7ae05682d2e4: Assign owner
+8ad78cd651d99b61014b7ae05682d2e4: Assignee
 628f680cee4a05fe01c1b75f51dbb471: No Creator
 8328a00f5080e4889a0f92019d72ee36: 'Testing: No testers'
 8a50a1c6988e9bd13fa6a85d89a6e9f7: 'Existing tags:'
@@ -23954,7 +23935,7 @@ b744a065fadae514c903299019166fcf: Issue does not exist
 0d0c92e7ebf17d12d932c2fbe517d519: Welcome to use Issues!
 c1311f24f4f87627ed359135c4d44e4f: You have successfully deleted the organization %{name}
   (%{path})
-c5385864359b1fd2f8f6bbfb07bfcd4a: Create an Issue
+c5385864359b1fd2f8f6bbfb07bfcd4a: New Issue
 a729ef3628cc0d5b3e3362095f27142b: Associated Pull Requests may be closed after they
   are merged
 4daa455444cb401826b1b02e0650eb3e: Search Pull Request
@@ -24057,7 +24038,7 @@ c12f9fde1239608cb32abf7d18f2ab4d: Reviewer
 e7c8a37b09b58fea73be28ccf1666231: Review completed
 9589e682ef74954ed6b3d5b3bbbe68c3: Review score
 b79ebbd9f60da731334e3c0746d0ed4d: API approval
-25774baf1b98c0e9df0bccd473001be0: API review approved (all)
+25774baf1b98c0e9df0bccd473001be0: All approved via API
 ae7477230caf72640fdfab4041cf3f05: Participate in review
 d997f4f194480b50d264bac50a9f6b04: Review assignment of
 19a387d0fade5451fa1096fa479056db: Is set
@@ -24100,7 +24081,7 @@ b54ddcecf7b7e1b65838b77b320c7fde: Please enter a valid hexadecimal color value
 408dd1f03ec972c7e4bc5241bae190e3: Welcome to use the Kanban!
 9762ce953d18425de076d948468075ab: Kanban provides a concise and intuitive way to track
   to-do items, issues, feature requests, and more. Before using it, please
-26504b8e349f5b24b690d2e6cf792ad3: Create an issue
+26504b8e349f5b24b690d2e6cf792ad3: New Issue
 49c6a5f98e3a155c2e4339ca29a9dd32: Please select the corresponding template and provide
   a description of the changes made in the Pull Request
 d88c343509804d6ef5f9f6eb70f13594: No suitable options
@@ -24113,7 +24094,7 @@ b6d694ca86b31db5b31ba583d2f2d3fb: Pull Requests can help you collaborate on code
   with others
 3077aab64deb01e7c8607d385b4afe7d: Pull Requests can help you collaborate with others
   in writing code. Please
-94891268619212498568a5834b6439d9: Create a Pull Request.
+94891268619212498568a5834b6439d9: New Pull Request
 cf639a284fbe0f143efffe6063351717: Permission Prompt
 fe29351be67ff0bab30703a9154c0262: You do not have permission to view this Pull Request
 4402d5dd5c666ffc1f334b3c32a6d23c: This repository has restricted access to view Pull
@@ -24165,9 +24146,9 @@ fd6ff0fa740fcedcb6e634a230a4074c: Unable to check if you can create a repository
 465a86e71317817ec51dcc5ec567641f: SVN access is not enabled for this repository. Please
   go to [%{link}] to enable it.
 5ebf1d176cbb2ace83425aea7a5ccd8b: Company security settings
-c657136394f1d745d79fa4f774398c98: Inner-source is the best practice of using open
-  source software development and establishing a culture similar to open source within
-  the organization.
+c657136394f1d745d79fa4f774398c98: InnerSource is the best practice of using open source
+  software development and establishing a culture similar to open source within the
+  organization.
 1a2c4e37aa300947dcea8b09e8d4d6bb: No permission to push code to this branch!
 cbd09d7e2e7c1ed82be9a31a95044274: No permission to enable Gitee Go!
 3ea0c535b8dafe0b481aac47f57d59f8: No Gitee Go related permissions!
@@ -24392,7 +24373,7 @@ e3722df557b85c6ce01fa63b94cfdcb3: Please enter a valid import address
   for Company. If you need to open source, please create the repository first and
   modify the public attribute through the verification code.
 bde442de2c1ac2bfe0e92017ef9b7254: Company internal personnel have access to the code
-  and any other form of resources of this repository, click <a href='https://gitee.com/Inner-source'
+  and any other form of resources of this repository, click <a href='https://gitee.com/InnerSource'
   target='_blank'>Company Inner Source Governance</a> to learn more
 e5f71036dfab0e5a26ae985dfa4c5053: The number of private repositories is full, please
   clear unused private repositories and try again if you need to configure
@@ -24867,7 +24848,7 @@ cbb3eaf1dc85f7ba5d285e29c6cbf229: The created project group can only be visible 
   private or public
 77aa2f7ca83435cdc3cfecf30d95a34b: You can assign existing projects to project groups
 b1602bb6d77c9fc6eb209c3fc50f1aed: Need to create a project?
-d06be1e4879e2e692b3670aa91016829: Create a Project
+d06be1e4879e2e692b3670aa91016829: New Project
 9f6300252f280e4107ff336e8b47a0f4: 'For example: oschina'
 c96e12f29ae2b575dfe6fdf3139b2f9e: This tag has been signed with the submitter's verified
   signature
@@ -24953,7 +24934,7 @@ dee29d61a234e2c19f88ea255f138993: "%{count} seconds"
 '0839e2c7565771878750bb6b28b3e69c': "%{attribute} %{message}"
 72d883a4ba8899258f4fa45eb8843312: Must be acceptable
 6512b244ab09a8b4dba0bab61a76e4d4: Does not match confirmation value
-f97c7e838009d27fe485fcf26d633e49: Cannot Be Empty
+f97c7e838009d27fe485fcf26d633e49: Cannot be empty
 1332cb586cae76273b19e60b518c4168: Must be equal to %{count}
 '09b1c6c2c64b1c95dfd09410abc1ab72': Must be even
 52c22b6879b398a13f7362d46dcaca1b: Is a reserved keyword
@@ -24979,8 +24960,8 @@ c32677dcd04fb27d20109b5c802e538f: Not in Company
 fe5c0c3aee8e6ac0dbc5e93e934237eb: Name cannot be duplicated
 f974fe2102b810a993f84e8dc2f4a58c: Description cannot exceed 250 characters
 207e5323242674a0ce51e8c4f9655bc7: The name must be between 1 and 35 characters
-'09a21500368d5269f0820e6b0c07372f': A star collection can contain up to 100 repositories
-423494a28f000c92af70c80cb257c3a7: A user can create up to 200 starred collections
+'09a21500368d5269f0820e6b0c07372f': A Starred can contain up to 100 repositories
+423494a28f000c92af70c80cb257c3a7: A user can create up to 200 Starred
 7816508c15b9ed14eadee20150096774: Cannot modify work item properties
 e83bc2c13bec8a115a156e15710790ec: Text content is too long, allowing a maximum of
   65535 characters
@@ -26340,7 +26321,7 @@ c56d162dd9a0d4f10e1abf9a93644f52: Add comment
 7893301efc6724ac3fe15bc10bf2ed4a: Add reply
 6821880c9887f03ff559ac1421e4dc26: Add comments to this line
 19197afb24509c6068b1e1a2f75a2a37: Are you sure you want to delete this comment?
-3e49d4428e94156f105d1e268f0988ef: Operation denied, you may not have permission
+3e49d4428e94156f105d1e268f0988ef: Operation rejected, you may not have permission
 155d8d7d6ac5163b551809221c5fe241: 'Priority: High'
 9c816b91f9c5f92d6a0a171901a6bde4: 'Priority: Medium'
 1dc7e07bc9e08f64cd502e770db6076f: 'Priority: Low'
@@ -28056,7 +28037,7 @@ a76ce476f5a8b81133abfff40cbacff8: JavaDoc documentation
 5e27cfc83e54373686d2eab0cbeaddef: Before generating the document, make sure that the
   pom.xml file in the repository includes the maven-javadoc-plugin plugin.
 75c64decbf52ad25cf871f44caa9e22c: Document generated successfully
-c0b989cb4e5bcca71fed81c35620b78e: Branch Cannot Be Empty
+c0b989cb4e5bcca71fed81c35620b78e: Branch cannot be empty
 d369666053dc9f41c9e502db542d7687: Relative path of pom.xml file
 80f6e40cdaab50f074bb73d9aecdb7fa: Profile parameters
 fc3050ec26143e0b6649ffe668d0cee0: Projects parameter
@@ -28810,69 +28791,67 @@ fe25291df129fc2b27c7e75abcb418f8: Want to enable the reward feature for your rep
   have been approved by someone and a reward has been posted. Changing the open source
   property of the repository will affect their collaboration. Are you sure you want
   to continue?
-64b911a19041216838c3251ea2a15ae2: Star collection does not exist
-f095e6ebe0b71cb243858856792b849d: Only Star repositories can be added to the Star
-  collection
+64b911a19041216838c3251ea2a15ae2: Starred does not exist
+f095e6ebe0b71cb243858856792b849d: Only Starred repositories can be added to the Starred
 6b9f39f9d303c9b48ba2040154de6554: Remove from Starred
 7f75408c5efae28132c9f4b8c0837fef: Repository is private, cannot be starred
 52472b5be78c57d833fafb1befa655e5: Repository starred successfully
 f1af797d5ba472c359c9386682439ddf: Unstar repository successfully
-2035fbf0a081eee441edfec1c831ba8a: Added to starred collections successfully
+2035fbf0a081eee441edfec1c831ba8a: Added to Starred successfully
 d0a21061fad3b33a64696125cbf91d01: All starred repositories will be shown here. You
   can create different collections to manage them based on your needs.
 255c57215576b5de083bc9120918a0b3: Exit batch operation
-b36f2554c472d0e79cba156b66ec2e7f: Add to starred collection
+b36f2554c472d0e79cba156b66ec2e7f: Add to Starred
 d85d61346b0ccc7e85cb61b77e46333f: Number of followers
 46ca0c83f49af2b7b82e7a90fac8cbdd: Latest join
-cd3ec823e33606a3942f64f8eddb16e0: Starred collections can be used to categorize starred
-  repositories and can also be publicly displayed on your profile for others.
+cd3ec823e33606a3942f64f8eddb16e0: Starred can be used to categorize starred repositories
+  and can also be publicly displayed on your profile for others.
 24b11765a89f358a3e31c267daf46fb1: Starred
-b231982a0aa4f2ef03699b35c7f8461e: Starred collections of interest
-5e7ef2443b86f1fac2caf6b0fc2cbcfe: Tell us about this starred collection...
+b231982a0aa4f2ef03699b35c7f8461e: Starred of interest
+5e7ef2443b86f1fac2caf6b0fc2cbcfe: Tell us about the Starred...
 54276be3a9a1b0624fd30b85f542ba19: Add to
 f3d717f55911acb8a74a5406dac5b476: Move to
 7455bfc022191be3fb7d3f4298345e01: You are removing
 cd627d007651ec880902762eb6e87ad3: Starred repository
 7c43a18d329eb0570b1f9e0b6cb93926: After removal, this repository will not lose its
   Stars
-d31772a539dd873f59a7aab952dbbc56: Edit star selection
+d31772a539dd873f59a7aab952dbbc56: Edit Starred
 4b546d1239ace917dcab6dc2eee39493: Please select the repository to remove from starred
 82e13f5089b1357c625463e544af893e: The starred repositories you follow will be shown
   here.
-8c661fdc8346eb8aa21a3e3f09197953: Invalid star selection
-'068b32c0196bfb59aa524a1d2b780ba3': Unpublished or deleted starred collections will
-  be placed here
+8c661fdc8346eb8aa21a3e3f09197953: Invalid Starred
+'068b32c0196bfb59aa524a1d2b780ba3': Unpublished or deleted Starred will be placed
+  here
 3a8810d15c8b362e16f05b5ef4b4da9b: You are adding a Star repository to
 1d56f0deb64656abcda4fc38a295f072: Add Star repository to
 4f16a8ed81db0306376f257309f54a4c: Now support classifying and managing 'Starred repositories'
   through 'Featured Collections'
 a67069a53862e4c8fd72f6caae6fd015: No starred repositories yet, go take a look
-02efb4d61e6222c5381a0da50eff290a: No star selection
+02efb4d61e6222c5381a0da50eff290a: No Starred
 ecd72958dcd342032ae64515dc9aba74: Please select the Star repository to move
 807e9699c0f3e23877d407e61c875b79: Please select the Star repository to add
-ecd8e34449ae96cd5b78c88e2925b488: Please select star collection
+ecd8e34449ae96cd5b78c88e2925b488: Please select Starred
 0b219ed8ac425f24e7310fd5c0a44bc0: You are adding
 2bdc888cb7baf1414e283b948eb72bb2: You are moving
 4b0e213a1e4ed00ee025b0d013dbc4ce: Star repositories to
 f681e56fa7e868dc2a7fd1c6326c7514: Please enter a suitable name
 e250d06b7ee464a3567cdfbdec00b909: A proper description can let more people understand
-  your star collection
+  your Starred
 333cf22bac9e6281e95f7f5101614ab3: Public, allowing others to view and follow this
-  star collection
-a944fb7d0b41f17e566828699cee8b35: Delete starred collection
-ff7b955c8ad34014172b9da358246ccc: Users who follow this starred collection will no
-  longer be able to see the content of this starred collection
+  Starred
+a944fb7d0b41f17e566828699cee8b35: Delete Starred
+ff7b955c8ad34014172b9da358246ccc: Users who follow the Starred will no longer be able
+  to see the content of the Starred
 ef95bea544b08a1d652b2d16b6809929: Repositories in the selected collection will not
   be unstarred.
 e983139918410e47909bf701158a8de2: Cancel public featured collection
-4a803ae48d6604d4033ea634bd06ad1b: No starred collections for now
+4a803ae48d6604d4033ea634bd06ad1b: No Starred available
 f947c13947494b3ff8020e7a7e579770: No repositories found
 5646ca6f962d1ad2a7887f75b6a77acb: Go to 'Star' to add
 05a1fa6e5e9ccf2fc7f431fc0f19baf7: "+ Add repository"
-d904c985325fa150902abd7c76e2b4fa: No favorite star collections, check out the official
-  recommendations.
-b2a35c182c92f39132e707450dcc524d: Cannot follow your own starred collection
-836f1f68e9561abeb60d022d42a3f53d: Follow starred collection
+d904c985325fa150902abd7c76e2b4fa: No favorite Starred, check out the official recommendations.
+b2a35c182c92f39132e707450dcc524d: Cannot follow your own Starred
+836f1f68e9561abeb60d022d42a3f53d: Follow Starred
 62942e395d648e2d30f5cc12ddde2589: Starred repositories
 cafabbae9e0833cd9b5a62c707d04646: Gitee is a cloud-based software development collaboration
   platform that helps developers/teams/companies better manage code. You can easily
@@ -28983,6 +28962,7 @@ e33eb0a20e706fad034eff0b75744373: Reference Link
 347db2f786abeb02032fd06c31007e0e: Content loading...
 848112e693f73c6ecaa6a444502d4cf6: Comments may contain prohibited information
 2aae9fcb8fb3d7bb602d4d2fd6342d4f: Path may contain prohibited information
+c2e5543e465b26d9c8477cdfc50686f6: company_%{id}
 caf28e6a3ecc54e9db0baceccf3f1e1a: The label name may contain illegal information
 663e3db1462330f9975c991e05c41d7a: The current repository web page is only accessible
   to logged-in users. If you need to support anonymous access, you need to <a href="/profile/account_information?utm_source=repo-public-apply"
@@ -29159,7 +29139,6 @@ bd05c7458b058c29735cb317379b0eee: namespace_%{id}
 92157d0b8b82a76be9550637d2890faa: OAuth2 Provider
 3abc5145d6052f1f8e832d047be17b13: collection_%{id}
 9cd9d2fd4c33f74465608830a62a997e: issue_type_%{id}
-c2e5543e465b26d9c8477cdfc50686f6: company_%{id}
 fb4a437450e782354ea18f8f05247816: attach_file_%{id}
 34a1851611d0efa4d99bd1f453ee3144: "%Y-%m-%d %H:%M:%S"
 532a339bc6dce07dab0a81dea786760e: project_tag_%{id}

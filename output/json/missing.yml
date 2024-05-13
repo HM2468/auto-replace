@@ -78,9 +78,9 @@ f2a52a525ecde66a6f14be73563977b0: work item description
 c5e67512d6bed6e559bfcf5a59b8131f: No description
 156d1110a789b3f52247ba581d5bf61e: private token update
 db53be5c5ff7f68700e18055fa1b2e34: no company role
-7d873caaf96d3c33e0ff6498395b1f64: create new requirement type
-47efa4e122411f8ad5144998de2daee3: create new task type
-6f72697888b34dabe36918a65a311447: create new defect type
+7d873caaf96d3c33e0ff6498395b1f64: New requirement type
+47efa4e122411f8ad5144998de2daee3: New task type
+6f72697888b34dabe36918a65a311447: New defect type
 deebc1a80645c0eaafd45bbcb82d946e: please enter...
 83313f5a41053a2928bbe1dde87ad73d: leave a comment here
 '09b2dfc1f2b11e63de29e8e744971def': add subcategory
@@ -93,7 +93,7 @@ be9ca3ecda8193c5c34ca37e39da999d: private token description
 f558b4b46b1201297c82fc6b9b634ed3: private token deletion
 a74e5bed70a49f9eecdbb267d2e0fc34: generate private token
 9215830f92392edeea2cb6a58c32307b: edit private token
-01e7595856511eabd2da66de909125a0: create new private token
+01e7595856511eabd2da66de909125a0: New private token
 5bcba388ca260789df5b06ff42e7c5b3: no inspection info
 c7f021c9b88e14e64aaea018d877907e: powerful planning capabilities
 4814f62c108d82de42a65c515d56fc22: Webhook
@@ -113,12 +113,12 @@ cc1d3b0234846714b0aeda6cc34b057b: license
 661219d5ef4c64a721c6c5728dbbc26e: private token update prompt
 8db13af8fed61c12fa9b83bd989b454a: "<field/>"
 7c72ed2e8a366a83766613fe8a594317: No matching results found
-695ef3a8a11c06dc8e867cbc6b0c27de: create Issue
+695ef3a8a11c06dc8e867cbc6b0c27de: New Issue
 ba56172735ba493765103718649715f5: test case created successfully
 7961317fde71c9967a5e68e1aacc6bd9: loading ...
 a31e5f4d5505ead5136d5bc55d37aabf: test plan created successfully
 00ae9823377908881b651120e80f2fcb: private token update failed
-dd9cd175fcc0a66d9e37e6adddffca56: create new private token failed
+dd9cd175fcc0a66d9e37e6adddffca56: New private token failed
 6564d3c4650a2baae48f9f141718bb8d: test plan updated successfully
 535b0752a954422d38bff95b8a4fa4f4: delete private token failed
 4e42951ea71c9aa6f6d2aca6c8984c8e: delete private token successful
@@ -195,7 +195,7 @@ b8f3f7925a1770b666de638b4d02058e: your private token {{name}} has been generated
 5f01402a5c66528d328b4367c0694bae: successfully deleted test plan {{title}}
 74ee29e91153f8a91c9ace0c3d858279: Professional DevOps efficiency platform
 297713d08133b8af7a8b39ff3d936f78: selected {{count}} files
-6b3fdd36f010402f5961c17b459b3a08: company disk, document collaboration, Wiki knowledge base
+6b3fdd36f010402f5961c17b459b3a08: Company disk, document collaboration, Wiki knowledge base
 bbdd6269099ab02cc0b932f08e665feb: selected {{count}} work items
 56e4667ac2b0bd13c9eb9f857a2959ad: Pull Requests
 

@@ -3172,7 +3172,7 @@ a0ecf153a4190737cf9ca9a893a0e41d:
 - 68f35dbc3a5fafb8c28e647d48a1c6bd
 22264ae5121743168df0114e6317dd7c:
 - gpt_translate==models==associate_code_review
-- 371b432d462d29f6281d73b17233739e
+- 1e5788ad09558c70b395a5eba8659a37
 63e4ecc4b1da387a795a3bc5a8eb3228:
 - gpt_translate==models==click_to_read
 - 5c766e139c98466bfc7aab939432cb38
@@ -4234,7 +4234,7 @@ d548569873c67547535676f59a1404f1:
 - cd412c834b2093f2447b434e1e8ba9aa
 1d5e51b07f6e2b756dd2dd9b2fe18075:
 - gpt_translate==api==optional_tester_username_can_be_multiple_separated_by_commas_eg
-- cff98254f98e37aa663bbc826ee33293
+- 42e43cbcf09170cf75cd1344959dfafc
 6df567a898180b258a3d328c0be7132a:
 - gpt_translate==api==tag_name_1
 - 1ace926bc7cdee5323e297d439d2d268
@@ -4294,7 +4294,7 @@ f1b87e5d72249ad2ab3f78282be4a00a:
 - d749b8c707c7ddc76581e39ed8939440
 87d107064eb97dfe3906c5da926533a9:
 - gpt_translate==api==invoice_type_invoiceinfotypeslice_personal_electronic_invoice_personal_required_corporate_electronic
-- 1b4616977cd43fe8bd08bd2d5eec8b5a
+- 9699883b656c3ed31864ce0301a5b690
 afd1c204b8852a41b20beebc95872ab3:
 - gpt_translate==api==invoice_type_invoiceinfotypeslice
 - a8e5064f938ed36754cec8730f971e27
@@ -4741,7 +4741,7 @@ fbeba3e07b37dcfdd755fbe41508e561:
 - c34fd5746ddf7a5ad28cf24083a41524
 5194d96608f074ff077074f3e89172cd:
 - gpt_translate==helpers==pull_request_code_review_and_testing
-- b54a8c1099f973389d9bc5e95b5e9c0d
+- 23c94df433cf88e13138e69272cc2598
 eb3915b701d9d6db673e2c99c058c883:
 - gpt_translate==helpers==supports_push_webhook
 - 1b029210988948d907fb9e9aae7b9710
@@ -7108,7 +7108,7 @@ c6f121b8718f5d1cb34a3a2cca50c1fd:
 - e6362ecc1a8f4d30134c8e1adc2aebde
 5591af4b725a71b0cdcc7ede59ae41d1:
 - gpt_translate==views==online_code_review
-- f4038a17ff7f4df5e20ffe3a4bf64f02
+- 8b9f389a20614b1f688fff2104e9720b
 0ee3497e12ed08611f82cfb7f1703167:
 - gpt_translate==views==help_businesses_improve_code_quality
 - 5ad299485915b908f88c3b177a24e3a9
@@ -15874,7 +15874,7 @@ d1d488dffabf2e44677fbd5c4e72b37d:
 - 4c8bdc26a86781a27b6e4b0e1ad05a83
 8da8177af66db047d85c90c2db5b4546:
 - gpt_translate==views==also_for_the_convenience_of_code_review_gitee_has_a
-- d31644a74d214b41eeda49c57bb88d92
+- 105b989443c0a469089c964a8ef9bae4
 0df49d47e91eb31934bbb5f829ce5e7d:
 - gpt_translate==views==in_a_pull_request_you_can_directly_add_code_annotations
 - 9808fe8afef28261c339d643957904b1
@@ -16279,7 +16279,7 @@ ac3dd3ab9e9a025bf78689fa5ce28fe5:
 - 036b85c33b65bf46407940b52dd7eb85
 931694d65b0ae48c4a4b021349e405d9:
 - gpt_translate==views==gitee_is_currently_favored_by_many
-- 151f1b0ad4592985aab7263415aa5e6a
+- 34fd314cae5aabe57facafba52d343b8
 a98354cfaa850c298aff7012614c375f:
 - gpt_translate==views==the_invoice_application_process_can_refer
 - d64fede9e3469a03eb29523f21d6c2ea
@@ -16297,7 +16297,7 @@ baad73233d8a9e24007a35cb43f0e689:
 - 8aa694baf4559cfb221122ba4325b8c9
 d3345570ac8a1b3015e5ca62bb10891c:
 - gpt_translate==views==builtin_code_review_and_code_quality
-- dfd93f85cb67a2a031f492a34fb87c52
+- 7b820ccbcd4802fecbba8de7b3d80917
 455a9ca51934e6928e70a9ae7d6b910d:
 - gpt_translate==views==a_href_targetblankteam_management_featuresa_to
 - c02cf2b2079a88423e4b0748ee936202
@@ -17617,7 +17617,7 @@ c3a2c550c4214564295be54fc2677024:
 - 4c186c50db21aff5fd2f8ff4aacd3b85
 101c480f3c2b81855cc1dc5d8b447803:
 - gpt_translate==template==invoice_type_three
-- da18b89bfa46ce4c338360dc5e2ebdc0
+- 3ae0cff271d9078f0093f50b4778813f
 847a5086464950f777fb663bdd2a1a9a:
 - gpt_translate==template==invoice_type
 - 8f411d2cc22a5c6f8fbeafe89cfc2ebc
@@ -18283,7 +18283,7 @@ d3933f9655169121226ec3b509453f16:
 - b8ba9a29b1a9290c0424c7f26cda29cc
 1cfbfd89171fccbf124206092b66319f:
 - gpt_translate==template==regular_use_of_code_review
-- d190a803f01873e0e1016d23b1c74995
+- 117b980d34d7b03597c53959c3da2e0b
 8f67436c3e4ef74f3f791d8d018b4130:
 - gpt_translate==template==task_status_code_depth
 - 9589651696354f60fa9ab641ad00f433
@@ -21997,16 +21997,16 @@ afb3ea64df85d2c543d6534132f79300:
 - 6f2cd0e2383a76cb343af86f27939447
 7ca2e6fdcd6dc113578c233631e43b8c:
 - gpt_translate==code_review_settings_number_reviewers
-- 5580ec3defec244c08c2b12f885c38c6
+- 45feeef4025860832371697457cc7785
 dc3c83c72a77dd1841da70c51169a6c4:
 - gpt_translate==code_review_settings_number_testers
-- 5196a27dd4a9f53c9385e75bee04c118
+- a3d0772a1000a8e5a07c95ec8b3329bd
 3cde4036ba42798e24403d35bbe32e66:
 - gpt_translate==code_review_settings_reviewers
-- 68a9f0032c85162645ca8f329c5fbd4d
+- f86b39d6c1e820f49db958821aa46ac1
 d5591087d02299ec1725e35249946089:
 - gpt_translate==code_review_settings_testers
-- 3d32979ca500ede36d7107e27b46414e
+- ed6daf29c948edb931eda2e271227963
 69268f1bcc967c8ae4cb1a7ae8486eb6:
 - gpt_translate==repository_status
 - 89a6b61f4347e88bfe3c8d8924c88ee5
@@ -22192,10 +22192,10 @@ cb7f7bcb1244b812236e4cd8dbcc7ec3:
 - bc845895516f8e2f2f6ade563230ea5d
 '068c8b96a7fe67a8d963aa5c945e847a':
 - gpt_translate==code_reviewer_name
-- 2284dbed0886e6f44a4d6ac9e8095c84
+- ff12df70b1f00fa4dde0abc17524ee3a
 8672b16d3e5618d903039725223e1f88:
 - gpt_translate==code_reviewer_email
-- ea1d0535224714b732ab98e410daaa3f
+- 60d39f06b91f9abd0f5ddacace83db2f
 6e6092b9f616472c12c02f020dbc86e0:
 - gpt_translate==code_change_added_lines
 - f560792991a469b4f7bada1768d8a201
@@ -22543,7 +22543,7 @@ d990818a2553756aa3304ab1cedc7a80:
 - '069a9c95840a17600730b326b887fa02'
 b25cb49b2c68e3edc050d891cc32899d:
 - gpt_translate==modify_code_review_settings
-- 147f0b29c993128b90e88aef47b89002
+- b08db715e4f2a604cba42c0e0114c8d3
 1e966f6695732c000173c6844a80bb58:
 - gpt_translate==minimum_number_reviewers
 - 25b7b0f35203b07c11c9f7283ffd5ce5
@@ -22894,7 +22894,7 @@ b1c1f0c3682e69baf3f81eda767da101:
 - e21758dde0bd06a6a56166b3226b4c2b
 cae94815d43a9a82296ddfd8095f0ab6:
 - gpt_translate==modify_code_review_settings_api_version
-- 9806f44cdbc47aed095997c980409a60
+- b6cfdeb067ee6e5f0b1eeef4f1879a60
 b187ea2dd1ebebcf183150733afd4205:
 - gpt_translate==api_reviewer_usernames_can_multiple_separated_by_commas_such_as
 - 60c0910f73b6f55c65bfda5aab820def
@@ -23245,7 +23245,7 @@ de8d0dde69d99fe326492902fc760eab:
 - 482160b047e1960b5151e7b83cc6974b
 2ca3d72b63445ed7513d02049ddd7068:
 - gpt_translate==optional_reviewers_usernames_can_multiple_separated_by_commas_such_as
-- 91456081e7e2f840e8be26b9be7232de
+- 9c9a664ba0017dee076bf1aa280b3cb6
 0d7aca3c4bb702add204caf06cc6d3c1:
 - gpt_translate==fork_repository_url_default_source_repository_url
 - e368de1b3238da17a24795ec5e77eac5
@@ -27041,7 +27041,7 @@ f02506ecbd2d002709bd1344d1e4e9b1:
 - a25004903fc695568551e6d67e36e5c2
 24f18066ad149805b070cdc105734f24:
 - home_index==feature2==description4
-- 1d32e9d003d6f4051f7bdfa37b32f1ef
+- a051b89386be3a1ccafb7de9a0bb4a5b
 12ebef229325c43e109ac84cb7f3fa3e:
 - home_index==feature3==title
 - 91eec022ff5f250f34baa2434233150e
@@ -35615,7 +35615,7 @@ b3378105f219f79d426e090e2deb4561:
 - dd167905de0defcaf72de673ee44c074
 4006f3e19799ba2a030f0c127b056049:
 - activerecord==attributes==program_component/ident==pull_requests
-- 3d2006711d4cf0010ce16f31a49a5a2f
+- 38f685bf4738b294d67a2afce3f959d9
 2dc612df9d6c730c2237ea9f3f73d4f9:
 - activerecord==attributes==program_component/ident==code_repos
 - 04f8fff39f1786cb63d73bd8032ffd51
@@ -37220,7 +37220,7 @@ fcfef1f92cb826858726b6b8c830a13e:
 - 03f21aa96b530c6d263d62be4c3a5a33
 5f4bbeabf6416640d07619e20a0b9286:
 - setting==menu==set_pr_assigner
-- eb13fa20b266206e6e5dd77145a5caa3
+- 8aa1060dc41af6835130645c25e5ade3
 7247d7e87b7b98707530a2e5ef27dcb0:
 - setting==menu==env_variables_settings
 - 73203602c0b673f5f8fc5c073996633e
@@ -37415,7 +37415,7 @@ c42e818a39df476b1296acd7804d4da3:
 - 0376ac50d084b7d9b32503723d06c674
 8f21b069cfd79d9260a4b41ae5da3a25:
 - setting==basic==pr_master_only
-- 867390b8688bf3ceefe5bb77c7217e0d
+- 75c21faaf840223a5f2f126948f9b60a
 06d4d07910248df8169dc8fc616faadb:
 - setting==basic==pull_request_merge_way
 - 035fc74c9f817ef575d8c585da36dfc1
@@ -37751,7 +37751,7 @@ e16baed8cac6aef62df7177a8a8ea6cf:
 - 19fd6b4cb223db40a0b66022097bfd9c
 62706bd545ffdd28e0920a18e8fbc9b3:
 - setting==git_gc==confirm_cancel_message
-- 7e08cfce0112676e4989485a8e251c61
+- f2ae69eaac796ed06e834658078b3ff3
 b6015e6baa07e2615690b2ddd7ba7947:
 - setting==git_gc==descriptions
 - da506ba2b14fa7fa287459c30dc77a4b
@@ -40519,7 +40519,7 @@ bd79e2ae9992d46b19979cc6dc5669a3:
 - 64900440a8c9a5eda335b124b9824aa4
 655dc4bdcc2ac0b49232361cd4b8ae43:
 - pull_request==merge_panel==code_review==code_review
-- 3d2006711d4cf0010ce16f31a49a5a2f
+- 38f685bf4738b294d67a2afce3f959d9
 1fe315f2899678c2e6ebb80cf49932cb:
 - pull_request==merge_panel==code_review==under_review
 - 9941c51821eb2aaa51861d65c464f831
@@ -40981,7 +40981,7 @@ f5d6e0ead23fbf9820354dd0c06730a7:
 - 217e627e4fb409cffe40495c3fd635bc
 0c8b5a5ee95adcb33f18ea0de7413b5a:
 - pull_request==must_check
-- 2b277803acf6231cfb97853da421633e
+- d2bfef29f5949c22e66b855ef6b534eb
 13cc3f362a7802a5fc9d8379a3247651:
 - pull_request==must_test
 - f9fae361558ab53c5f8d93640f70bc2a
@@ -41233,7 +41233,7 @@ c38b3ff09b6e80c1dfb698d6504f7cfb:
 - 7486b701c93fd4a3822a8decb7959b07
 acbc8a3abccbaa213de4fc4072f5bc9c:
 - pull_request==file_codeowner_tip
-- f8a1e21f00431d15caea92ba08d7e24e
+- df659ea9486b48922815e24c6fddc9c6
 ee8150543a74fd3ec0c245db5185c33d:
 - pull_request==file_codeowner_tip2
 - 218197693424e0154cefc0af31aed96c
@@ -41293,7 +41293,7 @@ a0d990e740f312a55b2a180e20fbbf73:
 - 4b9475683b2094afd4ef9b942ae7a659
 c65feac480fe5ec1462ff31711e20e6e:
 - pull_request==sidebar==tooltip==reviewer
-- 8d92e26430e7dc4eca47b58c07039eb6
+- 2ac0901c15ca3ff6e93555e8c2022464
 cc26bbc51d42fe41b83e84a7fb88d523:
 - pull_request==sidebar==tooltip==codeowner
 - 641994f244acf907a50ea78a5fc96512
@@ -44053,7 +44053,7 @@ b34162b82d428799d8040a9cd19b741e:
 - 8fe596f0234cb2c88779e3fd07f1961f
 c06e755d16e90cdf232bd1ae99c0475d:
 - enterprises==features_1==title_2
-- 1d32e9d003d6f4051f7bdfa37b32f1ef
+- a051b89386be3a1ccafb7de9a0bb4a5b
 2342fc7a94f491fae74ef2fff60941d3:
 - enterprises==features_1==title_3
 - 71e80b0b8890e1f30c5759ae4aba419b
@@ -44062,7 +44062,7 @@ e6076908edfebbc9a9b8bc8c033d2607:
 - fcdaa99d71ac95a0ab52e4ad322fe109
 fd7debfa88433bfe96c0ace05be30ce7:
 - enterprises==features_1==content_2
-- 78ef47cc08bab91f8c41c918fa3677b6
+- 569915afa7658eb4b4f98a3198f8f8dd
 dcf48232a1fc1966f46109c041af0ac6:
 - enterprises==features_1==content_3
 - fb0ebdc06485f2706a1f60f07a60af76
@@ -46286,7 +46286,7 @@ ce5769c9ea1d7596c502445739df2075:
 - 7feb6ad2544dfa7a76f7b8f1b45478c5
 64e1ea2530a7ab58d52a5cb5ba50acfc:
 - enterprises==toolchain_2_1
-- 3d2006711d4cf0010ce16f31a49a5a2f
+- 38f685bf4738b294d67a2afce3f959d9
 151373f3c9ecee88df98f7a4684a4161:
 - enterprises==toolchain_2_2
 - 635e2ebd36242aa70eb2463ccee81896
@@ -46448,10 +46448,10 @@ f930d5640a940ecffb92fdd97e7d58d2:
 - 953948438079196af7f281e3b530aa17
 33091a36e50f3d3e67bfba9c88b374c2:
 - enterprises==feature_1_0_title
-- 1d32e9d003d6f4051f7bdfa37b32f1ef
+- a051b89386be3a1ccafb7de9a0bb4a5b
 bc0987bf6def8119e58d55cf97f70990:
 - enterprises==feature_1_0_desc
-- 6d983862eb6cd03c8d8c020a482968fd
+- aa9d87dabd00c2cd6920f54ced711ec1
 d45d6cc775ce3e29c58f1110637ce520:
 - enterprises==feature_1_1_title
 - 8fe596f0234cb2c88779e3fd07f1961f

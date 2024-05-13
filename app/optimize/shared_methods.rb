@@ -155,6 +155,17 @@ module SharedMethods
     @en_keys_hash = {}
   end
 
+  def merge_values
+    output_root = '/Users/miaohuang/repos/scripts/'
+    yml_path = output_root + "output/yml/en.yml"
+    json_path = output_root + "output/json/en.yml"
+    yml_hash = load_yml(yml_path)
+    json_hash = load_yml(json_path)
+    res_hash = json_hash.merge(yml_hash)
+    write_yml(res_hash, json_path)
+    write_yml(res_hash, yml_path)
+  end
+
   def read_ch_files
     @ch_files.each do |file|
       puts file

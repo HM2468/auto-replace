@@ -7,7 +7,7 @@ b0d3c9cfa0e1ef6799ec266c5467a1dc: ";"
 f114611cd61000bf57db19a6dab8057d: ":"
 c4a40ea8fe35627476f7f8cb9e1fc7f8: ","
 a318c24216defe206feeb73ef5be0003: "+"
-b0dff016ff17d665f4c60411ca7cefcf: homework
+b0dff016ff17d665f4c60411ca7cefcf: task
 92d9be0a0e94eb16ca28037399f9c5b0: switch
 2c1bdb2ae6a3c1dc5d39716967e9c79f: invalid
 96a66ef34079a5195591632bf867a51f: this month
@@ -24,16 +24,16 @@ b9d8853e0ce7e6ea079c61e611224bf3: expired
 c01a484d49b935c4a056ad9ed5739b11: registered
 fc0024fcd10d9ea42e9a9076f9f2f147: 'total '
 '09d3faa803b4131663f08af5f652b1de': "tested:"
-a898d7c3d78cb1c00d558551fc40cd6f: next one
+a898d7c3d78cb1c00d558551fc40cd6f: next
 ac0562bba4a57c6841cba10249e90ffc: RAW
 48205ac9977f6dfa9d82232c41bb2353: review status
 f020e4630a54d32202cdf29b31ef512f: loading
 d70928debc2e80cdf099d55b89103a85: reset password
 1625ef5292cf33ab6263d81016526a05: add email
 2b23433d17a02b745b37ead3fb95055e: user login
-412a339e29d1c11ae5e6faf859dd7cbe: all members
+412a339e29d1c11ae5e6faf859dd7cbe: All members
 5fae8485fa3b47506700ceb8813d6f47: add team
-37601cafeed893dd9792981b60f1f0c5: code review
+37601cafeed893dd9792981b60f1f0c5: Pull Request
 aed14c36b7601e2567c4cf24ed5fc40a: must pass
 626c02a44911e6b2f253e485d18c928a: select push
 dd75eaf740e691db2420e274c6a9a2cb: delete comment
@@ -45,7 +45,7 @@ c6f37061bf42d40cb9f59463682bf720: add category
 b211034fa613d7d01a39e9db3eda1003: authorization time
 4948800ce892418bcc408f7f775cb658: confirm removal
 d617f8ad97aee02a25e518a72164ea79: comment information
-f7c4743ceb99a953b0c1fbbae4fb1c96: related to me
+f7c4743ceb99a953b0c1fbbae4fb1c96: Related to Me
 2c60316d5ea6b49c5a42d82d148c086e: never expire
 63ec69fde300e6d6040089df9d6f27ab: Wiki
 954bf7b1291ecaa8bc1eff0c7618b4cc: my activity
@@ -55,7 +55,7 @@ f7c4743ceb99a953b0c1fbbae4fb1c96: related to me
 c5b596f58a1f8565172868f2d8503edd: member activity
 cddcd389078c7127f4c049e40021ebb6: version and authorization
 e7c315210a393aaaaaa0148dd2906ff5: Work Item Title
-946f1a378a999b4e65fd56e09693354a: enterprise project set
+946f1a378a999b4e65fd56e09693354a: company project setting
 5625785c72a313ab82dcccb65ef83da1: "added time:"
 426e47c6794e40a90a5675ffa755ef7e: "result distribution:"
 94fc3cf2a235dadad9ca5f0302f0f060: member does not exist
@@ -69,22 +69,22 @@ f9d89544413a3455b6b4527fba209255: automation settings
 456b36a820f273f05624c0cb8c01b82f: deleted branch
 9046da16aea909ba75a36cec13b56cb2: Pages
 035e2fb1aa0d98b5063c3a7e495d9c38: Gitee
-a9948ff0140d59edafbbe4a7f0e830a7: go back
+a9948ff0140d59edafbbe4a7f0e830a7: Back
 f4f16d00806f799214fcc3e9d1861400: 'current version '
-95b4ff9fd3b50813289c2e8405691f89: confirm delete?
+95b4ff9fd3b50813289c2e8405691f89: Confirm deletion?
 881a1cf2205b26dd0bd6dbb0e81540c0: work item ID
 8f7aab769ba84c4cac9c67cab9337157: please enter a summary
 f2a52a525ecde66a6f14be73563977b0: work item description
-c5e67512d6bed6e559bfcf5a59b8131f: no description
+c5e67512d6bed6e559bfcf5a59b8131f: No description
 156d1110a789b3f52247ba581d5bf61e: private token update
-db53be5c5ff7f68700e18055fa1b2e34: no corporate role
+db53be5c5ff7f68700e18055fa1b2e34: no company role
 7d873caaf96d3c33e0ff6498395b1f64: create new requirement type
 47efa4e122411f8ad5144998de2daee3: create new task type
 6f72697888b34dabe36918a65a311447: create new defect type
 deebc1a80645c0eaafd45bbcb82d946e: please enter...
 83313f5a41053a2928bbe1dde87ad73d: leave a comment here
 '09b2dfc1f2b11e63de29e8e744971def': add subcategory
-443723b73c1b1e53d42443693801a29c: no description
+443723b73c1b1e53d42443693801a29c: No description
 651705b10f0e12ee2fd93c851218c016: save template failed
 3ebadf1ed32f1fa331853c7bf6b97c6c: delete test plan
 efd5c9cd9dfedc5a1f7cee0af1fb4fe3: reset time
@@ -95,7 +95,7 @@ a74e5bed70a49f9eecdbb267d2e0fc34: generate private token
 9215830f92392edeea2cb6a58c32307b: edit private token
 01e7595856511eabd2da66de909125a0: create new private token
 5bcba388ca260789df5b06ff42e7c5b3: no inspection info
-c7f021c9b88e14e64aaea018d877907e: strong planning capabilities
+c7f021c9b88e14e64aaea018d877907e: powerful planning capabilities
 4814f62c108d82de42a65c515d56fc22: Webhook
 '09e1ecbcda70299c5871be39b120e0b1': please enter plan title
 71ccbded003070b41048007b4876cb43: WebHook
@@ -104,15 +104,15 @@ a7e205d9edd9d4919db05dc212b6e1c5: multidimensional project overview
 557e40d0ddc7e48af825f5b3aa9ab354: please enter the case title
 f5752a695b6c61c6667de5f7811f7fa7: please log in before proceeding
 16c23445620e2723eeb63da8949b5103: customize expiration time
-4a81ecac9cf77360e45b226738487325: sharing enabled
+4a81ecac9cf77360e45b226738487325: External sharing enabled
 cc1d3b0234846714b0aeda6cc34b057b: license
 44efe416e2be62ffd808c892b527f224: Load work item failed
-43838e1bbeec6f3ceedb8db73fab7b8f: my corporate workspace
+43838e1bbeec6f3ceedb8db73fab7b8f: my company workspace
 3f565392471c4a1b5725726b0eb68212: Web IDE
 6a844b83e104b40f4119141eeff97d1f: data loading...
 661219d5ef4c64a721c6c5728dbbc26e: private token update prompt
 8db13af8fed61c12fa9b83bd989b454a: "<field/>"
-7c72ed2e8a366a83766613fe8a594317: no matching results found
+7c72ed2e8a366a83766613fe8a594317: No matching results found
 695ef3a8a11c06dc8e867cbc6b0c27de: create Issue
 ba56172735ba493765103718649715f5: test case created successfully
 7961317fde71c9967a5e68e1aacc6bd9: loading ...
@@ -122,36 +122,36 @@ dd9cd175fcc0a66d9e37e6adddffca56: create new private token failed
 6564d3c4650a2baae48f9f141718bb8d: test plan updated successfully
 535b0752a954422d38bff95b8a4fa4f4: delete private token failed
 4e42951ea71c9aa6f6d2aca6c8984c8e: delete private token successful
-bc64282aa624dff065be07342caa1499: this token will never expire
+bc64282aa624dff065be07342caa1499: This token will never expire
 9c171c4f6926f8d1c9f10289078fa542: code comment options configuration
 107996a47ff5d293e71a7ec156c80160: change plan status successful
 bed617884b187e86348937fa48bf5172: change plan status failed
-ce88efd937b70e30b63f6e164fefabe9: internal open-source governance in enterprises
+ce88efd937b70e30b63f6e164fefabe9: internal open-source governance in companies
 67bb0b6d6a903b1455ef7482d10de0ca: please select a repository...
 8e01bd5785ce6a643e0415a148c5e9c4: you have not created a private token
-93f1fae89ab28452ba8346e6ba753c18: confirm deletion of this file?
+93f1fae89ab28452ba8346e6ba753c18: Confirm deletion?
 f4137804fc55a967df4b22f388ea017b: API Docs
 872324f0b1ded4f886aa9560685f7de9: private token generation prompt
 f5b169d098a3f68b6bb1b03c794503c7: WebHooks
 678d8f45d73490236ef48fa5495db822: no data meets the conditions
 dcd0a91db786a9dca1f495329495c474: Gitee LFS
-63a08024a987e8edb622f4b6d47637fa: Confirm to delete this comment?
+63a08024a987e8edb622f4b6d47637fa: Confirm deletion?
 dc7d7ce62fff8866c9173303c73421b5: assign responsible person/collaborator
 81bb3c007084be121d3e6728e2358c31: please fill in the private token description
 07a920b29785be902d73988fa68a3e1c: load case details...
-d466fa5a958c9e7a6a486e09a51cf239: code repository, review, configuration
+d466fa5a958c9e7a6a486e09a51cf239: repository, review, configuration
 006be60e87fc8285d365b5a0b711a43c: please enter an account or work email
-dff8263c710697937ba40ee03dc318a0: load work item details...
+dff8263c710697937ba40ee03dc318a0: Loading work item details...
 473b2fdc929db292fec4b27d64c2ea7b: view your personal email information
 81e47b07fc4454562f1c8288fde3372d: KubeConfig
 e23501a5ee242e149075c14e859c244d: access your email and phone number
 a9c278b3ddf2e4a26a76c208b7db36e8: Default knowledge base editor settings
 18d236887d7eee7d7a34ca6b9114601a: No Pull Requests of this type available
-e89c6163b7151ee912da5430c3adeb54: can access using a private token
-6abeb191738e37235815b3ca9761971a: team, repository group, code repository
+e89c6163b7151ee912da5430c3adeb54: use a private token to access
+6abeb191738e37235815b3ca9761971a: team, repository group, repository
 e7828c002a8e52e038613520297f0bf4: using a private token, you can via
 a66d2b1158b725dc110e4ceb53c4420a: test management - test plan
-aa7d0b1e9d68f2524e575f8c217438aa: return{{title}}
+aa7d0b1e9d68f2524e575f8c217438aa: Return {{title}}
 fd9c4074587515a208b0433ef4252f92: update license successful
 7bcf5bf8bd64f8b6f4d2a83a9feee949: New module_
 b303e9cacde51c801fce8a4d76d47c7e: AccessKeyId
@@ -166,7 +166,7 @@ cc38ae6ac364ac92861df392ff019524: pipeline Gitee go
 80427f6072718fa9fa75edc4eea50bac: view, deploy, delete your public key
 ac6aa260c6f849a5aec12bdd85ab9a55: "{{count}} days to expire"
 f9d53b57a6359bede7af617c5072fb54: no matching Issues found
-e31d1f95a950c9256827fabd5493c19e: view, manage your enterprise and its members
+e31d1f95a950c9256827fabd5493c19e: view, manage your company and its members
 6fe9765daafaa3e18255ef09072a8f46: project ({{count}})
 d56153a5d40ea82170fd23072622fcf1: view, manage your organization and its members
 2fc5f9e901941e91ce0484b6ac40b88b: milestone ({{count}})
@@ -180,11 +180,11 @@ c4d7c8e56493b58afad13a1c8dafc526: "Fork: {{count}}"
 adc925f41ef0fb88e77ab05bdd3725d0: view, delete, update your code snippets
 5c57b5da2d9449a2d14e4ae8fecdd4e4: John, Jane, Joe, Jessica
 b9366507c27206eaab207fd9cdc124b2: there are unexecuted cases, confirm to end?
-062f475d39b411fdbb59904c3e9c9b01: this token expired on {{date}}
+062f475d39b411fdbb59904c3e9c9b01: This token expired on {{date}}
 7fe846632c4afbe20c62d9558bb27d70: AccessKeySecret
 7216ef43ff87d1ab32115dd2267f150b: please describe your {{type}} in detail
 82d29e90365c9678dde210f70776b48b: view, publish, update your Issue
-8ece40b94b53201121151cc824e985d6: this token will expire after {{date}}
+8ece40b94b53201121151cc824e985d6: This token will expire after {{date}}
 5aacf68b921d541686bc5e9f6f24bff9: Sorry, the page crashed, engineers are fixing it
 ce7542e57dbf3fbad70e332f7ef80305: failed to regenerate private token, please try again later
 ace614693fb3978e586ed516e6979898: reported a problem? Click to view progress
@@ -193,11 +193,11 @@ b8f3f7925a1770b666de638b4d02058e: your private token {{name}} has been generated
 81156d9b8e9f60f7f6c2971c3b895234: access your authorized data, please ensure data security!
 05f41c010769321c6a2f169de7d4c225: "{{role}} {{name}}"
 5f01402a5c66528d328b4367c0694bae: successfully deleted test plan {{title}}
-74ee29e91153f8a91c9ace0c3d858279: enterprise-level DevOps efficiency platform
+74ee29e91153f8a91c9ace0c3d858279: Professional DevOps efficiency platform
 297713d08133b8af7a8b39ff3d936f78: selected {{count}} files
-6b3fdd36f010402f5961c17b459b3a08: corporate disk, document collaboration, WIKI knowledge base
+6b3fdd36f010402f5961c17b459b3a08: company disk, document collaboration, Wiki knowledge base
 bbdd6269099ab02cc0b932f08e665feb: selected {{count}} work items
-56e4667ac2b0bd13c9eb9f857a2959ad: code review Pull Requests
+56e4667ac2b0bd13c9eb9f857a2959ad: Pull Requests
 
 fcc70394d7683b0b7812ae94341da3cc: View, deploy, and update your Webhook
 b7e6023068620602406f927831042760: "{{name}}: {{value}}"
@@ -210,10 +210,10 @@ b8dd12b15f0a20e70229d7cd51e0baf9: You have successfully requested a rerun of {{c
 bb066e11e7da29712b354f8585887d80: Access basic information of the company (name, company path, etc.)
 bf5fdd5477fbacd95e805b145c50a960: Start-to-Start (SS)
 af5703b3ca22bba6650223d64e1bd071: You have been locked by the company administrator and cannot access company resources
-0f64a8efb80c52f02e9eaf9859111659: Confirm to delete the test plan {{title}}?
+0f64a8efb80c52f02e9eaf9859111659: Confirm deletion of {{title}}?
 bdcdb83617b627ccbf8f533d2ef825cb: Start-to-Finish (SF)
 9146466775c2e09eb994bfd13ff9512c: Finish-to-Start (FS)
-7a276101ba9a526ab8f0d6c499b571ed: Confirm to delete this comment? Sub-comments will also be deleted.
+7a276101ba9a526ab8f0d6c499b571ed: Confirm deletion? Sub-comments will also be deleted.
 665f758780a4cb7e80fdd767ed894df1: PR comment {{filename}}.csv
 a647ee50a9089d12c400c12b0e02aa8b: "Import count: No more than 500 rows per single import"
 d30d0a3a3a1fa7910d4f58e8df933b2d: Finish-to-Finish (FF)
@@ -228,7 +228,7 @@ d661d73049dc263af850b4137178f5a9: "{{text}}: {{percentage}}"
 7f664faa053b284171bdf911e0082331: Update complete! {{count}} test cases updated successfully
 d2ae5247ec64faef081991db71cc8e8d: "{{path}} line {{endLine}}"
 6474a7164d02db52a546feb8a52d472e: "{{targetName}}: <target />"
-f16b2c8e7a104161e6cf05e8d8d96ea1: Gitee Enterprise Edition - Enterprise-level DevOps research and development efficiency platform
+f16b2c8e7a104161e6cf05e8d8d96ea1: Gitee Professional - Professional DevOps research and development efficiency platform
 41922ee557904eac207bc6b9a3c7abaa: You have successfully requested "{{action}}" on {{check}}
 1aad1fb21cebcd11c2f3d00279b1755d: Single import of company members must not exceed 500, please split the file and import in multiple times
 8672ecda318519c34eb2ccef061c157b: Import complete! {{successCount}} company members successfully imported
@@ -236,20 +236,20 @@ fc695ba48da7d503594a6a3773a78d19: Verification complete! {{successCount}} compan
 1de5c18baaa17eb73b32c4e424966970: Page {{pageNum}} / {{totalCount}}
 2cf421a2c9a443e381e24e43f3f1aa84: The project is undergoing a type change operation, temporary access to the resource is not available, please try again later
 '090719ba171addea4a081f60382053cf': I am aware that the private token will no longer be displayed in plain text on the platform, and I have copied and saved the token.
-95cf1fe3126b9636dc9f9a1725d17b59: Gitee Go - Enterprise-level CI/CD pipeline - Gitee.com
+95cf1fe3126b9636dc9f9a1725d17b59: Gitee Go - Professional CI/CD pipeline - gitee.ru
 efd71b53faeb6f8edbf27e6f26398753: If the editor does not meet your usage habits during use, you can adjust the default editor of the knowledge base.
 bc9d7cf70aec0c0331ce3e6f4cd16dd8: "Work item type: {{option_issue_type_title}}"
 8a60fb56ea09b0ce845ea054ec0e86ef: "{{visibility}}{{type}}, {{description}}"
 878d55c61faf23b11828ce3d5b70fa0b: "{{path}} lines {{startLine}} to {{endLine}}"
-909792b8a1b7394a137fc5f35389c191: The applet is launched for the enterprise version to facilitate work item collaboration on mobile devices, offering a lighter, more convenient, and faster research and development management experience.
+909792b8a1b7394a137fc5f35389c191: The applet is launched for the company version to facilitate work item collaboration on mobile devices, offering a lighter, more convenient, and faster research and development management experience.
 dd3022583516bf9e8c2f9c5c6daa7c26: If you have forgotten or wish to update this private token, you can click the button on the right to regenerate it. After generating a new token, the current token will no longer have access to {{name}}.
 c497d544430ed5683d5375cc7ab7ef90: Verification complete! <1>{{failedCount}}</1> company members failed verification, please <3>download the verification file</3>, make corrections as prompted and re-upload
-57decf200a41838264e65e89337a4ccd: Gitee Go is a new CI/CD tool launched by Gitee, providing continuous integration and continuous delivery (deployment) capabilities to help enterprises continuously improve the quality and efficiency of application delivery
-7d03bec2a5e50e3682071cf5b352f71e: Are you sure you want to cancel the association between the test plan <b>{{testPlanTitle}}</b> and the code review <b>{{pullTitle}}</b>?
+57decf200a41838264e65e89337a4ccd: Gitee Go is a new CI/CD tool launched by Gitee, providing continuous integration and continuous delivery (deployment) capabilities to help companies continuously improve the quality and efficiency of application delivery
+7d03bec2a5e50e3682071cf5b352f71e: Confirm cancellation of the association between the test plan <b>{{testPlanTitle}}</b> and the Pull Request <b>{{pullTitle}}</b>?
 89421ff68eb82b5066961c254da08665: CI/CD, continuous integration, continuous deployment, continuous delivery, pipelines, devops, gitops, agile development, continuous testing, automated testing, automated building, code scanning, artifact repository
-953b9155a9140a31e2f1cad2965d5f55: Providing a one-stop research and development management solution for enterprises, including code management, project management, document collaboration, defect management, continuous integration, etc., helping enterprises to plan and manage the development process orderly, improving research and development efficiency and quality.
+953b9155a9140a31e2f1cad2965d5f55: Providing a one-stop research and development management solution for companies, including code management, project management, document collaboration, defect management, continuous integration, etc., helping companies to plan and manage the development process orderly, improving research and development efficiency and quality.
 2f7312e1563aeec4c51d5f5b165ed541: Verification complete! {{successCount}} company members verified successfully, <3>{{failedCount}}</3> company members failed verification, you can <5>download the verification file</5>, make corrections as prompted and re-upload
 e72ec4c53f5af9e634b7fd490958aa79: Import complete! {{successCount}} company members imported successfully, <3>{{failedCount}}</3> company members failed to import, you can <5>download the failure diagnosis document</5>, make corrections as prompted and re-upload
-6078c29637fdf3a267c20302cf120d2d: Gitee, Gitee Enterprise, code management, collaborative development, agile development, research and development management, DevOps, project management, iteration planning, Git, SVN, code hosting, code review, CodeReview, task management, document collaboration, continuous integration, Bug management
+6078c29637fdf3a267c20302cf120d2d: Gitee, Gitee Professional, code management, collaborative development, agile development, research and development management, DevOps, project management, iteration planning, Git, SVN, code hosting, Pull Request, CodeReview, task management, document collaboration, continuous integration, Bug management
 
 

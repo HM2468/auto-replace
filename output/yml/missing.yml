@@ -36,16 +36,16 @@ b5769c591da945fec7940a13d3247c3a: Failed to update private token, please try aga
 81156d9b8e9f60f7f6c2971c3b895234: Access your authorized data, please pay attention to data security!
 f9b5b1da7b9918a777382131a8c90060: Access Token Revoked
 a5f00e84bbd6c51b27025531cf88c7fe: Please select the permissions for the private token you will generate
-a082c71cd0c33a9adb742051ab24f9d2: Only allow access to enterprise resources within the IP whitelist range
+a082c71cd0c33a9adb742051ab24f9d2: Only allow access to company resources within the IP whitelist range
 f53b533ce89355045506d77585dd0ba1: Please enter a description for the private token, maximum length 50 characters
 acf82b1d12c7609a53f81df48e49cb78: Your private token %{description} has been updated
 46479dbaee43895cdd3d7ba1e747cf22: Your private token %{description} has been generated
 68f76797faac931c83010a342cac7773: After closing this page, the platform will no longer display the private token, please keep it safe.
 662cedf4b2f4d71986cf8a7e54e33a1f: A non-closed pull request cannot be reopened
 19aba41a6f78904e21bec77d5761692e: "%{frequency} minutes of inactivity will invalidate the web login session"
-9aa58e4cc745ebb4d34299277f5bc483: "Change password every %{frequency} months, otherwise lock the member's access to the enterprise"
+9aa58e4cc745ebb4d34299277f5bc483: "Change password every %{frequency} months, otherwise lock the member's access to the company"
 '090719ba171addea4a081f60382053cf': I am aware that the private token will no longer be displayed in plain text on the platform and I have copied and saved the token.
-2ecc86a2053401b9372fa26f21fcf426: After %{frequency} consecutive failed login attempts, lock the member's access to the enterprise
+2ecc86a2053401b9372fa26f21fcf426: After %{frequency} consecutive failed login attempts, lock the member's access to the company
 344b3d6e7130beff1d0b96bf379d1e2d: Your private token %{description} has been regenerated, visit %{index_url} for more details.
 a5e7fcc3c3e9076aebba484621a01a58: Your private token %{description}'s permissions have changed, visit %{index_url} for more details.
 00cbd321e922fb06b32c7c48891d0bce: A new private token (%{description}) has been added to your personal account, visit %{index_url}
@@ -161,7 +161,7 @@ bd05c7458b058c29735cb317379b0eee: namespace_%{id}
 7fe846632c4afbe20c62d9558bb27d70: AccessKeySecret
 3abc5145d6052f1f8e832d047be17b13: collection_%{id}
 9cd9d2fd4c33f74465608830a62a997e: issue_type_%{id}
-c2e5543e465b26d9c8477cdfc50686f6: enterprise_%{id}
+c2e5543e465b26d9c8477cdfc50686f6: company_%{id}
 fb4a437450e782354ea18f8f05247816: attach_file_%{id}
 34a1851611d0efa4d99bd1f453ee3144: "%Y-%m-%d %H:%M:%S"
 532a339bc6dce07dab0a81dea786760e: project_tag_%{id}

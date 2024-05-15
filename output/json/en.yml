@@ -305,7 +305,7 @@ da60bae243397af9d28d4b12a2751446: If you want to perform write operations on the
 89b2ecbe1f09ad70cd5eb8a6ec2e00f0: Repositories
 b5cc45e17e3d6d63ac71ada1c340af65: non-company members are allowed to browse the company's
   open source repository list. The address is
-20138aa6386b86d9419172dbd3014163: Company attributes
+20138aa6386b86d9419172dbd3014163: Attributes
 e8df058725699a17c279f209cc6b3748: Basic Information
 f4b8d6d89e12b26b4d085c0cceda29d9: Sorry, function deletion is not supported in Gitee
   Professional Paid Version.
@@ -323,7 +323,7 @@ d6981829142aa3dcfc386f4c2709a5a9: Phone Number
 4940c14c8f0f0f4a01353cf0658dc2d9: It will become changed after modifying the address
 11252da5caa95e13adf5c4fe7c3f24c8: Modification Failed
 c99f141c23ed549b59a2dec11e1ee619: Private
-d6a18bbb38528bd7e19497fcf5f29b94: Company Introduction
+d6a18bbb38528bd7e19497fcf5f29b94: Introduction
 a0def387a60afa6cf5f8e3c0fa416620: Manage Repository
 37090f45651676fc8358a66235df462a: Modify
 fc792924b72d33c674d0f96fef6462e4: Modify Company space address
@@ -746,17 +746,17 @@ cdbc2f4cd2db6872669240eabf5c3bf5: Paid Services
 c1920ea23cdcbefb254714b79d898dc7: Security
 d63c909c395bbe7a66ea5a00ee3b8d16: Feature management
 a2b33bcfbf2ffc5736bb343df274fda5: Resource Management
-124eac34ba571de82fce2bbbf5b05381: Cancel Changes
+124eac34ba571de82fce2bbbf5b05381: Cancel
 58dbe7d4cab6814ad0ffd786c4c44609: Customize welcome private message
-fd4cda665baef23552c41bd52c5adc21: Clear private message
+fd4cda665baef23552c41bd52c5adc21: Clear
 c33184657f765cec8de11d02040788dd: Failed to set private message
-64ef3a02f0758eac5d931bf6cba845c7: Set private message
+64ef3a02f0758eac5d931bf6cba845c7: Set
 9bef040e8a03b395455f296efa58141b: After successful setting, you will receive a private
   message when a new member joins
 712f266a2c2b6996abc055e35998ad28: Set private message successfully
-ff1400590b0a8a4aace67491f63b6c35: Clear Announcement
+ff1400590b0a8a4aace67491f63b6c35: Clear
 dca1627b546eec0bb4f0aabddc231992: Announcement publishing failed
-d78a6a9cd0304a6645f6e4e69138a605: Publish Announcement
+d78a6a9cd0304a6645f6e4e69138a605: Publish
 e779bb5aaff11b1374428868d62952cc: Announcement published successfully
 e2da7087582f2463276315425799955d: Announcement and group notifications
 fd915da4bf400595a2ae872cf55d0844: Email notification template
@@ -3583,10 +3583,10 @@ e9d5ca6c140665da49176f67dbd3678b: Back to list
 053365d7a0ee9c30217cf2a53c2056dc: Repository has been moved here
 8c84e205a562d93947276cdf57e9803b: My Responsibilities
 151d712244a2b9250942939a4e1a8663: My Participation
-324d4a921d44065694bc05461841a2b4: Starred repositories
-84f9e251ae6d455426ae9e0db8063eb8: Forked repository
-3701651f3483c4f633104f0563def0e9: Template repositories
-380d5defb13f2a262e13ab154f449fa8: pending and closed repositories
+324d4a921d44065694bc05461841a2b4: Starred
+84f9e251ae6d455426ae9e0db8063eb8: Forked
+3701651f3483c4f633104f0563def0e9: Templated
+380d5defb13f2a262e13ab154f449fa8: pending and closed
 123edc32525c4c74288a6372b167a78b: Company Repository
 73dd00b325a4d1b53f701a0aff02d468: Personal Repository
 4d9d077a11f7fbf45a67217dff8b9bce: Open
@@ -6375,7 +6375,7 @@ b98c2d77e7513394d045ff4563cf2781: Deleting a project will also delete all relate
 d6c97ef5577ae5a9307eb7cc4b841dd4: You are deleting the project <1>{{name}}</1>
 f3f905f2853a4dbaaa4857833dd957d8: Basic Settings
 60469cff9b6ede778d8b3080b7688cbb: Switch Type
-4ed43b57ba91c0954f4ae19757f080d2: Confirm Switch
+4ed43b57ba91c0954f4ae19757f080d2: Confirm
 9fef453ec41fca18e13569d063fff9ee: Show closed projects
 ae5a2d12ee3e01c2bb0214e8fcfee633: Show pending projects
 d2862762d51b7de0a0cf97adf04e1d02: Number of Work Items
@@ -8817,7 +8817,7 @@ ec6184d6c59ee7880fa47510dff343e4: Not your certificate? Click to upload again
 11afd2a534395b181392145ea7dd3441: Valid
 3078e9cc03b862990e1439545a1b22da: Informal
 3af18b340c2eaba9530e9b32a175a4f2: Creating Company
-bf09dcda8157ebeac94309bba96c6061: Company name
+bf09dcda8157ebeac94309bba96c6061: Name
 a4ee04baec0a695f30fd03ba9a504d23: Supports only 2-35 characters
 552dde672899c75cac759c8b830c4279: The Git repository URL consists of the (Company
   / Team) namespace and the repository namespace.

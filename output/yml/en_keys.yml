@@ -5929,7 +5929,7 @@ bc175330154478e92a6d4f0cf04d67f9:
 - e0aa99403c892a4e51a02bd184cc5634
 5f94c2cf451b3bedb42fdc58cbc4e786:
 - gpt_translate==views==enterprise_name
-- 6dfada13d2f4b97e46847aaec3e20204
+- dcd1d5223f73b3a965c07e3ff5dbee3e
 18891b6f0960001fb4811fbda7003fde:
 - gpt_translate==views==use_repository_size
 - 3ada35168ccf8d2599c75cca210cfd9b
@@ -8497,13 +8497,13 @@ f7dc2ff91841780aa651d8fdc9348de0:
 - '087f6e9469952b93122f7f0eaefb9ad4'
 34c06ef00e9f10d1e691eeda5a2f5a95:
 - gpt_translate==views==publish_announcement
-- 143134a647204231e7c34097f58238ac
+- 859390eb495b2ead7f05f0f799546c71
 952c966c6baf435e2e25e1a41befa803:
 - gpt_translate==views==cancel_changes
-- ba58e97d7a4c5770ef3b21d4720798ca
+- 19766ed6ccb2f4a32778eed80d1928d2
 1abc53075a78c49dc23d5633b67368a2:
 - gpt_translate==views==clear_announcement
-- 1fdc9a3bf6108d083b32c06b328af3f2
+- 83b12c2216efb4fdc924e1deb5182e90
 fbac6f639b9a935dea54c7017c0060a3:
 - gpt_translate==views==announcement_content
 - 32647e087ffad9b8e728290910c08dc3
@@ -14386,7 +14386,7 @@ b6b6665759a0100469bee5e59c080b4a:
 - 3cde290e1d015f5107f0d38bf6019410
 aa79795def0da26c3e74f3a6328ad76d:
 - gpt_translate==views==enterprise_name_2
-- 6dfada13d2f4b97e46847aaec3e20204
+- dcd1d5223f73b3a965c07e3ff5dbee3e
 5ef8069b51062ecc1d95097ba2f7c924:
 - gpt_translate==views==all_type
 - a163e7877f5ccb1018d279ec88c98bf8

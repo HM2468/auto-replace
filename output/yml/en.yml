@@ -55,7 +55,7 @@ d848cf86ad55208072d081d93b832c25: Sorry, the page crashed, engineers are fixing 
 ed1dc5413df1f480d49cfa148e546763: repository group ({{count}})
 '023964ff8cb28444978eef219deb1c34': team, repository group, repository
 bcc24c959a9da4d8ae32d760022e889c: Internal open source governance in Company
-b8fe3c180b3acb7adcb8173ddde1fe85: assign responsible person/collaborator
+51212079e4e2b6a83f70c2bd120733bd: Add assignee/collaborator
 f59f340ba54c730ba1a52fe13d58790a: Failed to delete attachment
 c92c0a81408453d4e6e6b1ba2eaf5662: work item ID
 32bb5bb566b9d9131c649adae666b1b3: work item description
@@ -185,7 +185,7 @@ df9d076280d42133ff5d75702e9670bb: New private token failed
 47886fd9c857c72eee427a747871d349: private token update failed
 b89d9167c2aad464fb5c870eb3e142fb: failed to regenerate private token, please try again
   later
-85d99ef29579b84f0635be1d93bd33e4: loading ...
+c95a3d447dec9f31336fad0c96e0d2a2: Loading ...
 ce074c27306bf87582d4fd57a5c63e32: add email
 fdc9af7cb9e344f3d2caad9f48240191: load case details...
 c1e14ebdf75aaba092b0ac14776f24e7: please enter the case title
@@ -243,11 +243,11 @@ c6b9b9d3747255691cfc6a876d797852: Exception Alert
 5c55a67935af8f4508ba05d6d81c9eb2: All
 584f17e980397ab9546388e21634239f: Filter Time
 70d0c1b33626ba4be4e1d36dd7caaff6: Date
-b1c27820fec23edbd70cecde2f968ad3: high
+b1c27820fec23edbd70cecde2f968ad3: High
 d0704ab6e155c7fbc752c4645beb8251: Keywords...
 aa9e366f68d3d097d4890b65882090be: low
 1b4bc8cfe06cb40551d1269b92eba6d7: Mark as Read
-a567bdaa11367f260f0708391f4d1076: medium
+a567bdaa11367f260f0708391f4d1076: Medium
 10fafbeaa7fddd33324b0cfd01272476: No logs
 d5e74de3449e745884e38db298875d2a: Processing status
 efdd1a47e4beb2f97c1f8aad71f7aa51: Read
@@ -255,7 +255,7 @@ efdd1a47e4beb2f97c1f8aad71f7aa51: Read
 4d0680f9efaef147a78da7266585c431: Unread
 8b789d9279a6b7b1c1d647afc5a43f1e: Please select members
 0066ab93dcbdc426ec9ed6438d27e29e: Automated configuration
-7a8a11ead50742a2a0a7258309a42663: add
+7a8a11ead50742a2a0a7258309a42663: Add
 '051836569928a9f91145a70e00b212b6': Edit
 d438ba013b32af4fa9dd6025bb9a0f38: Mark all as read
 cb5d682bac3d1a2d0012ad9d472f3863: Reset
@@ -302,7 +302,7 @@ a4709ccb6a9bec05cb850f49fbeb6cad: Support starting with 'ssh-rsa', 'ssh-dss', 's
 c3405f8c7d9d392aa3e2d073d5793bce: Title
 da60bae243397af9d28d4b12a2751446: If you want to perform write operations on the repository,
   please
-89b2ecbe1f09ad70cd5eb8a6ec2e00f0: Repository
+89b2ecbe1f09ad70cd5eb8a6ec2e00f0: Repositories
 b5cc45e17e3d6d63ac71ada1c340af65: non-company members are allowed to browse the company's
   open source repository list. The address is
 20138aa6386b86d9419172dbd3014163: Company attributes
@@ -333,7 +333,7 @@ fb1d40f1d0e65cf2fe827ae32300995b: After the modification is completed, the origi
 b7a37fb4900b86832b19e076f35448d1: After successful modification, the repository address
   under the company will change, and you need to
 69211530fe250a6c2b5a9de726a2c4b3: Company name
-484d55613910eb8c0917fe308b499d47: none
+484d55613910eb8c0917fe308b499d47: None
 adb99d3be28b40aaf2a37f9a9512268b: non-company members cannot browse the company open
   source repository list page.
 8960d42317ec072360c7e99c5e61adb3: Namespace
@@ -391,7 +391,7 @@ d929c286985cd43c2e033cd03d02e8f5: Number of builds
 56e940e09b47dcea5e27957153727ec7: Please check that you have read and agreed to the
   above terms
 7fcc5492dd4f9e6663ed1498458d5280: Select build duration package
-3fd47edce45b3603d4192f61dbf3e511: Close
+3fd47edce45b3603d4192f61dbf3e511: Closed
 1478597618bc8c04cb16ebaaf0223224: Confirm closing this order
 '0710910b1cd637cdcb595306b8a04cb2': Accumulated build duration (minutes)
 979a332955c855bf1b800021f3e645b9: Details
@@ -708,7 +708,7 @@ b1cecd79191ae0a9a7296a93dfa33a17: Priority Description
 ab72067844c7b6d19d72130939900b1f: Switch succeeded
 e3153316109162d2f26ff436d9083fe8: Solution {{name}}
 0545f5b1d42ce4c4013770401f114bb0: In use
-65eb99dd0c541f54586d1559e02031bf: Usage scenario
+65eb99dd0c541f54586d1559e02031bf: Adopt
 '08a65e9f562b673b552755a0b8295b95': Set priority scheme
 75e64b68706438c78d6cb505c39ce9ce: Confirm to use {{name}}?
 c9734b6d2f1b235173dba623c9682097: This operation will affect the priority description
@@ -876,9 +876,9 @@ dc450a706027f8ec329352010e18e693: Observer
 b059a0fd5c46ac6867d78d186daee426: Order Service
 2f132af0464c3d31be005bb1d36c234d: Pipeline service
 63d204da9ef6ec5312b1800f542f973d: Order and invoice management
-f7ad5fa3512eff9e6193edac9edcffe5: High security level
-c3cc3c0846fca01751ffc9a4a673c55c: Low security level
-d52d3787313da277e4125b30fc8c759d: Medium security level
+f7ad5fa3512eff9e6193edac9edcffe5: High
+c3cc3c0846fca01751ffc9a4a673c55c: Low
+d52d3787313da277e4125b30fc8c759d: Medium
 b15f23bdb7afcb9aaca05130e51ba17f: No notifications
 46495ab21804cf0cd5b469c65fd63462: All warning messages will be recorded in
 1e33c72abf2d7ca3136f012f2e9fa8e1: Warning messages sent to notification email
@@ -886,7 +886,7 @@ b15f23bdb7afcb9aaca05130e51ba17f: No notifications
   email and mobile phone
 90647825b50d2bdd8865ecc7b696cd3c: Bind account to receive notifications
 e25fad1d2527dd620abd1601c5afffda: Warning notification method
-73075237fd0f05f024dfe25d9b5289d7: email
+73075237fd0f05f024dfe25d9b5289d7: Email
 117c1d23c3b2564d9dfe77e44e5a4709: Follow WeChat service account
 74db7d9f074a5841abcd6ba2878c1143: Please enter an email address
 22630d797f10ff4e94c452a2fa4901e2: Please select member or enter phone number
@@ -1028,7 +1028,7 @@ b07e5088eafa92c2f0a47848ed209011: module
 a5375435a925b897b3abfd13ece366fd: Please fill in the URL
 f6dc6a110d09321f2f0f2b64e2577c2e: Delete Project
 ccbfab5fd826521d7a7d1b4eb0e1a12c: Start Project
-03fc7b21137680112b34234d4ddd3348: Pend Project
+03fc7b21137680112b34234d4ddd3348: Pending Project
 21cc26e21731d303e1784208722472ae: Close Project
 5e1f6da2ed33a8697857693e25be80e9: Member Join
 2875c842aefd18cedde6e0acb39c738d: Milestone
@@ -1116,12 +1116,12 @@ bf16ca53b4d39eca112ac7c37c426bb3: Select Attributes
 0f59b2657fbbf761237040c9b0d4bb48: Single-line text
 85948100fe2c5393b7225394156107c3: Multiline text
 67e2bb6ef67be910516091cb54fa2609: Integer
-a91f87ae6534aff1808395dd16c73878: Floating Point
+a91f87ae6534aff1808395dd16c73878: Float
 4b096643d969b6fdf0e4a81ae0c4c3ec: Date Picker
 e63f8b8d4ff2baa4ff9ac303645529fc: Single-select menu
 bb47c27e13f3d55a349f3913533333df: Multi-select menu
-7b193ff2732a1c9d49604f7b0b9ee597: Single Choice
-74fa3fb11956ddb3ba3760513bd3c941: Multiple Choice
+7b193ff2732a1c9d49604f7b0b9ee597: Single Select
+74fa3fb11956ddb3ba3760513bd3c941: Multiple Select
 6ec66938288e8b41d9aca451cb09f642: Single-select member
 0b154ab707d60f5559e1cae51f931784: Multi-select member
 91da7cafc8e75d8bfc7419583576cf33: Set as required
@@ -1140,7 +1140,7 @@ c35a7f1db43ebc65ddd3f74a47694a83: Start free trial
 341c8c41b015eb2178fca3ca58ed9cc6: Welcome to use Gitee Professional. You have obtained
   a <1>30</1>-day free trial of the advanced version, and you can fully use <3>all
   paid features</3>.
-647561e6ad9e003036d6435d4e7ec1b1: Data Migration
+647561e6ad9e003036d6435d4e7ec1b1: Migrate
 f87aab5f18203f84daa8e9be50990f4d: Migration in Progress
 35cda8a7052dec20e7c6d6361d5d4c78: Migration failed
 3c183f6549ca03d8fd71823e2e998e1a: Attribute Settings
@@ -1148,7 +1148,7 @@ f87aab5f18203f84daa8e9be50990f4d: Migration in Progress
 f616e9cf900b46b7afa53b3db635a0bb: Requirement type settings
 a78c0871e912098a38d6b067d436b618: Task type settings
 '09975f5c05b40efc8da9dafdf94105fd': Defect type settings
-a5c02b813fb5ac3db2bbb9eb5c78cb6d: create requirement
+a5c02b813fb5ac3db2bbb9eb5c78cb6d: New requirement
 6bee2372805a2fd73ff12149f28844de: New task
 b7c49c26528e77ff19242199e798b1bf: New defect
 472db37af5acb12f57bbd9b026013335: Add requirement type
@@ -1167,7 +1167,7 @@ e9ccdbca9e62ba37853fa1155f1f952d: Projects using {{issue_type}}
 1645fda32c795a34a5eb429c754a4472: It is not supported to set {{content}} in the project
   settings. If you need to change it, please contact the company administrator to
   make changes in the <1>Company settings</1> - <1>Work Item Settings</1>.
-19577c4887a430784c030fea4803e505: Set as default role
+19577c4887a430784c030fea4803e505: Set as default
 1ca489cc23e223deb925622651be06b1: Successfully removed
 a24bf1f5275fc116229638a144ca2063: Remove Work Item type
 ded5a561fe9d12f96d75744deef9921d: After removing this type, Work Items under this
@@ -1191,7 +1191,7 @@ b6539437be28b56fa2742832ef2068ac: Work item configuration
 b78081404f14aacf1689c2f8aa424ff5: After using the content template, when a Company
   Member creates a Work Item of the current type, the template content will be automatically
   filled in, standardizing the description format of company member.
-8e3f974f4c315b2e52c7c4012c9b6594: Configure type
+8e3f974f4c315b2e52c7c4012c9b6594: Configure
 1e7e7c8916251a5fadcd2207d245174f: Number of projects used
 ae53d11a425874a286c708bf7c4fec30: Please enter type name
 54a39d4fde45de6a227ceef7b9fb54de: No description exists for this type
@@ -1262,8 +1262,8 @@ f2dbc216acec5a2adcd72a9f04cf3847: Product version update reminder
 3ad1fbeee828fe2ae6d30c21da61a563: Service upgrade announcement
 c944c392546ed72d1f4064a970779762: Do Not Remind
 348f1cf1243e74bc40ca0788530d6e72: Got it
-4b6ded8a7f181397121cbfa64c684d5d: Notification
-'0449b3a89a3a216a16ade62b74a531f7': 30 Days Free Trial of Premium Version
+4b6ded8a7f181397121cbfa64c684d5d: Notifications
+'0449b3a89a3a216a16ade62b74a531f7': 30 Days Free Trial of Gitee Elite
 dc3399b10f94244a7175982aa04a3447: Unlimited users trial
 8e7acfecf99dd87fc436008e5cba7fab: Enjoy capacity to meet your team's needs
 0f7246f5df67fa8e34b0cc1c65b005d6: Contains more advanced features
@@ -1275,7 +1275,7 @@ dc3399b10f94244a7175982aa04a3447: Unlimited users trial
 54d1c42e35ec1c90b2c02966da44850b: Start 30-day trial
 1ccd3b05e15bc7e732327c27466d2dc3: Try Now
 4bc48d979f5b32d0600deb4f5d6a9ca3: Let me think
-2751e24a7ad3e8ae3c9cb0686f41f777: Trial of premium version
+2751e24a7ad3e8ae3c9cb0686f41f777: Trial of Gitee Elite
 a7f23b7bac4751048734b6496d265787: Each account can only participate in the trial once.
   Do you want to start the trial now?
 064e4506767ec2f889cf5b8adba21052: Project attribute settings
@@ -1398,7 +1398,7 @@ d61c557154b425152c0df8228a9e52e2: Added ${addRepoSpace} G
 68d5015f0cf49186528c4372724e2506: Quota Adjustment
 e19796712f1cf0de97d54a6617d8e8fc: Administrator
 59c6a0f2cdf94e00a02b6c5109b7bb15: Advanced Course
-1f33440de213dfe066aeb2dc06351592: Premium
+1f33440de213dfe066aeb2dc06351592: Gitee Pro
 979af86df6e1efcc6e559dac356c9251: Advanced Form
 60be66d61586b95cdc62727089607e75: after
 1b66807915a8d4c42c5d9f3a2d75af43: Once enabled, it will show you the guide and instructions
@@ -1631,7 +1631,7 @@ e9c1e9b1a45763c13d580091fecd8f0a: Code hosting platform project
 db678f14ea7514899f815fa4221ab7c6: Code Management
 a0a79f1048844edec3377fffa00457d7: Code merge requests will be effectively ensured
   by pipelines, scans, access controls, etc.
-401d607fd02115b1d8b4db066a89f374: Repository
+401d607fd02115b1d8b4db066a89f374: Repositories
 677542b22c2a35a864299110a15a3f09: Repository - Calendar view
 77f6d75d7e9190ca5ee23065578c3ede: Repository - Code
 f42d1b4a28b1ec33cd5b8e3d893e316a: Repository - Pull Request
@@ -2017,7 +2017,7 @@ a8d3596f0a8d9a23e1d99d096182d423: Free Exploration
 2f3b654bafd73f7910a859f7ba25fb62: Gift
 759927786192b9e2b4545425b8462e81: Free
 930e7770136f8895d3faee837b5dd01b: 'Free to use: Contact customer service'
-2229a42fbcfa600bc8baa6f4c375222e: Gitee Professional Free Version
+2229a42fbcfa600bc8baa6f4c375222e: Gitee Lite
 2719a8ea304b8cbfac62209ab10f877d: from
 7785a5282f54367170c2ffa1b001030b: Feature Module
 8b242a3d92c26ea12754b24eb2007409: Gantt chart
@@ -2111,13 +2111,12 @@ b97d5c417d22da9ee0615d33d0a072fb: For Company's ordinary value-added tax invoice
 007a2775e93bda454203a575715855fc: Import .less file in .tsx/.jsx file
 d91e3b4cb6cb3a6e7099d533e24d0555: Import on demand
 9ec75dd2e465daf7251db9c826181610: Inner-sourcing operation page
-cca38ffc7dd89bb03433c417ec008e6b: Includes all features of Advanced Edition
-f8911d8e0e6ddadeb7fa758577ddb9aa: Includes all features of Gitee Professional Free
-  Version
-bd403b43463beb0ad19de1482177cd1c: Includes all features of Standard Edition
-eee70b54949ebd275a0ff8c1d7bcf1e2: 'Includes all features of the Advanced Edition,
-  including: <br />Approval flow configuration, security management'
-5a625eeccf69f9e2a9a316330c27d604: 'It includes all the features of the standard version,
+cca38ffc7dd89bb03433c417ec008e6b: Includes all features of Gitee Pro
+f8911d8e0e6ddadeb7fa758577ddb9aa: Includes all features of Gitee Lite
+bd403b43463beb0ad19de1482177cd1c: Includes all features of Gitee Core
+eee70b54949ebd275a0ff8c1d7bcf1e2: 'Includes all features of the Gitee Pro, including:
+  <br />Approval flow configuration, security management'
+5a625eeccf69f9e2a9a316330c27d604: 'It includes all the features of the Gitee Core,
   as well as: <br />test management, time management, access control management.'
 cdf289be50b5d451690eb6dbaa904a55: 'Including return duration:'
 6c9e93c343328b8b40f14a62960005c0: Including return duration
@@ -2503,7 +2502,7 @@ ae2fc3b69ff9947c70f2d11fb5566577: Permission component
 2ee4406b48a608f630937be0f09328ee: Permission configuration
 9a2ab040c9fdd5785a0920c018ba8b74: "/person/year"
 92d1b4ba503cf2cc57fbb7a4a28c1f56: Personal online banking
-c2952a5ffcc34883f0e682597357aefb: Personal settings
+c2952a5ffcc34883f0e682597357aefb: Settings
 71e25121ce38ba038002cf88e5da49dc: Personalized Package
 209e73ffabd3705081dd2a8f361795d1: Personnel hours
 c2a5893b0e3b2f48ac9f23b14a2384ba: Personnel load statistics
@@ -2561,7 +2560,7 @@ c506b23c5143642b6fa4a42392d27400: PR/log management
 337892464d2489c4807bd1dd61e59c8f: PR title
 431842a86cc42221185f15876fbbd3e5: Pre-validation
 '023505937eff6f8fad7dd5f357e8a8b1': Pre-validation form
-47e56d3aea65c88e5313f9e14f220bb3: Premium Version
+47e56d3aea65c88e5313f9e14f220bb3: Gitee Elite
 edbf3f14b33a131e4b3e93a22c72bcc1: Preview iframe
 0f4371a7a9cf224a9bdda25ea4f7cc8e: Price
 9b952b15741e0cf7bc36ff72b2e24bdc: '", price details:"'
@@ -2795,10 +2794,10 @@ e11800e943fe3155d326d03b7822813f: 'Indicates the scopes in which the current dur
 ff177e2de5cb393c7c1fa0ffecddd082: Standardize Report
 c39d93ba0c01693529812336e01fe853: Onboarding Guide
 9d4b1aaf6f00aea088af221afd2dad5f: Standard project
-424bf6079a940e945a4625576d335ec2: Standard Edition
+424bf6079a940e945a4625576d335ec2: Gitee Core
 c257cf33210fa839b99d278ed96b1c75: Standardize member code push information to improve
   the legality of code version content.
-d2bb025a2e51c410b704733316c84308: Start
+d2bb025a2e51c410b704733316c84308: Started
 d258a7b4170c52d11bba9564583716d4: Start, Proceed, Launch
 aceecd9be9156d793161e81da2a1ada0: Start, In Progress, Start
 7bad6e86a74b56e35d7cb4b7eba4e45c: "{{name}} branch deleted successfully"
@@ -3061,7 +3060,7 @@ c68e0104467c43da961532f1d8daa445: Wu Wang
 55d2e87ebac0de71106f752028089b13: The Repository Group is a collection of libraries
   used to manage multiple Repository data assets, meeting the demands of large and
   medium-sized companies for standardized management in cases where business is extensive
-  and there are multiple Repositories. This functionality supports batch organization
+  and there are multiple Repositories. This functionality supports bulk organization
   and transfer of Repositories within the group, while ensuring the access security
   and visibility of each Repository's data, achieving the goal of coordinating and
   managing multiple Repositories in grouped clusters. This functionality belongs to
@@ -3096,9 +3095,9 @@ f2d8a979d687f49aa30529f5f87714a6: What something?
 452a535a910340c6d127df80642a243f: View Oauth App
 baba10753d3ddf00b5c736d1dfdd8563: "(The wiki of the current repository will be overwritten)"
 75527e5b5cba4a88fed0a32427f2de96: will
-85e4eee077a4892e79e22f55d15e4ce9: Within a Day
+85e4eee077a4892e79e22f55d15e4ce9: Within a day
 57ab25354fa9d054f55b2b9ec5a50eb2: Within a month
-b8bdfead29abc82fbf702c670c9b8f32: Within a Week
+b8bdfead29abc82fbf702c670c9b8f32: Within a week
 df2a0e70fc24572fd3d6a5f9bfcb5df6: Within a year
 f8d68f7348c5729238f5e45d22b2e66e: Within the selected time range, the change curve
   and average value of defect resolution time are important indicators for assessing
@@ -3264,7 +3263,7 @@ bbc70ac89f9d94ae14bc74728d7693b6: Manage Work Item types
 0464434fbc20d1c2331731ffdfdac251: You do not have permission to manage tags
 d7e57c297a6939fb720539ff14821993: Remove member
 5a6515fd8c465b255842dbe0a9395c9c: You do not have permission to remove members in
-  batch
+  bulk
 da76b8edbb53ee8a64f8a45433a18c9c: Edit historical weekly report
 5301411769b0e97a9c94d6e7a1362a74: You do not have permission to edit historical weekly
   reports
@@ -3298,7 +3297,7 @@ d4d70bd855598d50cf3e55ee2296abff: You do not have permission to manage members a
 d006830a9eb8b4751ccfb657fecbd52b: View document
 c169fc915d48c440f37f525957186a34: You do not have permission to view documents
 44bd678d16958117d3ad1fd8ab607555: You have no permission to manage announcements
-1b0c13866d2249bf81983a80921c6e8b: You do not have permission to manage batch notifications
+1b0c13866d2249bf81983a80921c6e8b: You do not have permission to manage bulk notifications
 7546a59d0f687a83513faf8f31cf36e9: View order
 49e9a864952a14f173572cbe7a01e071: You have no permission to view orders
 4fdcfa7d0d7abfdc3f6a011fa26f9bce: Read role permission
@@ -3710,15 +3709,6 @@ d67389e0a8f9490e38dedf2ed6c34e99: Switching Company...
 aa55e4a3429c550c1a4fae262de01924: Already in the current Company {{name}} ({{path}}),
   click to refresh the local cache.
 3d93b53058116e28163d244869269339: Switch Company to {{name}} ({{path}})
-51a75f4634dfa8598a0a1436da0b7764: Mon
-'084b42f6e95e4e6545e236975ade8e20': Tue
-a4c3313deb180960469d0e79a770b9de: Wed
-754a9d5828d502f19ae91df8f089811d: Thu
-c9b87f516a38ea36a0ca35f5137d4676: Fri
-de07b5383874b2a32bd141d2655a9e8b: Sat
-1b0542878c67f6cdf30e23c175cdcfc8: seven
-2c467d3673926b209f49dc3b46f97a30: eight
-df897da6e02ecd3093c3c539ad905323: nine
 45e81c0c7813f719c5198d93ec81f353: This feature has exceeded the authorization time
   and cannot be used.
 0af07c345990bcfc34db6714e93f6e31: This attribute is required and cannot be cleared
@@ -3817,7 +3807,7 @@ b61f333b91b21f79ba7b61efa3eac850: Publish
 0f47166651beae76c1cfe7f2e6ac404f: All members
 97fef9e1aff30c6744392fe014081034: Total of {{number}} people
 6c380953a97cdf18f9bee8d0606b628c: Add member
-10c9416459adabd2bae51eb5c77b7405: Batch operation
+10c9416459adabd2bae51eb5c77b7405: Bulk operation
 6dace060811c31fec588f7c2421b8aa9: Set as teacher
 ed1b04ed7f3592599ec2ac9c7c0e0b1f: Set as teaching assistant
 1a3aeadd98908382729411e42b09d9b9: Set as student
@@ -3833,8 +3823,8 @@ b60ccda23bd96cfd755414e2dab6cb17: Selected members
 8449ed96064c629f362127958aab0333: Confirm remove <1>{{names}}</1>?
 c44926678c50bc8974ce957fe0686d61: After removal, the member will no longer be able
   to view the current course, and the data generated by the member will not be affected
-7ece92c2d1a3c6685b071a6059cddc53: Batch delete success
-3cdd18cfce91dddc5eb42e579b6f53b8: Batch set success
+7ece92c2d1a3c6685b071a6059cddc53: Bulk delete success
+3cdd18cfce91dddc5eb42e579b6f53b8: Bulk set success
 c48405ac3a821794bb46352715a20d89: Set Successfully
 bd76fed009588deab76bd11d8d488334: Please select operation type
 e3cc14b9f2d60c198883754ad6921be1: 'Successfully added component: {{name}}'
@@ -3883,7 +3873,7 @@ f969b770881f6bed50544d5b45a9e6e2: Apply Now
 e6b0e00ef0d8212dc77c7219c2664a59: My Work Items
 1cefc288e3c234ee8673f0fd21845ffa: Pull Requests pending for repositories I participate
   in
-b45bd0fbe2020be1fdc5a85a7febc6a8: My Repository
+b45bd0fbe2020be1fdc5a85a7febc6a8: Repositories
 7e4808e2c4e86db0219172219496a8fc: 'Milestone: {{name}}'
 aefa22b85bfcbfe911dfe8661b5b2c39: Work Items for {{name}}
 940a168911ade9987608f525f8ff21fb: Items per page
@@ -3967,14 +3957,14 @@ d27438d4482737ad5f7856a07aa415d9: Today's Code
 f252af306a8890d8bf3279af7c856a4c: Width Ratio
 2b918e4a07f38805e154ffe31ae92702: Week {{week}} of {{year}}
 15dec507959ec950e366f395d3d31a7d: Personal
-b98a2898f42ddc6bc3ce18b51d2f06a2: Advanced Edition trial quota remaining <0>{{trialDays}}</0>
+b98a2898f42ddc6bc3ce18b51d2f06a2: Gitee Pro trial quota remaining <0>{{trialDays}}</0>
   days
 c410d1a8064f1d8d91d74d52f8f93512: When inviting <0>{{memberCount}}</0> or more members
   to the company, you can automatically upgrade to an unlimited member free trial
   for <1>{{trialDays}}</1> days, allowing you to experience advanced features like
   Gitee scanning!
 2f01246fb8d8307cf116ae65ad62aa69: Invite Now
-4a3d9fc8b688731fb50437f4ff7aa796: Upgrade to advanced version
+4a3d9fc8b688731fb50437f4ff7aa796: Upgrade to Gitee Pro
 228f59570722ff87ac3da284d8e745bc: Free trial has expired
 e4f28f3132d122f53698c94d128fb014: Welcome to contact for consultation
 6fc0c8090314eddf987fd91abb715fb8: Add {{name}} pre-sales consultant
@@ -4012,7 +4002,7 @@ fa5f0a3c17d7623fe762c58494421412: "{{count}} commits"
 0ae90ae5f0fa391abfb5a161ae1935d8: Committed on
 b97c49acb93028eccb8dd91826e71544: Copy path
 a2428d2c6fb9afe3c6816fa3e643d129: 'Currently selected: {{count}} commits'
-0f1505b6ad3fafe48456efa68ff7d6ea: Exit fullscreen
+0f1505b6ad3fafe48456efa68ff7d6ea: Exit Full Screen
 fc9be3640fac7957cf4f5e839be1cee9: "{{count}} / {{total}} files read"
 917acc1c38d88c3b9bdc5db02b4a5289: "{{count}} files changed, affected lines:"
 e7fd4040f98d60e222d86dbe113d22ae: 'More than {{count}} file changes, affecting lines
@@ -4228,7 +4218,7 @@ ed2c563efd0e4263b521fcf9a8d1c77a: Save and Exit
 b488c0f9e681d0a28ce603e0beb52cd4: Source Code Mode
 a57cfcb8428da4085ea1de04cb094d2c: Help
 55a2ce1324c183551929cfb487e45f70: Issue feedback
-c92179b74af616891426fbeafd733ad4: Cancel Pin
+c92179b74af616891426fbeafd733ad4: Unpin
 30d6cc95179f60e3091cb916772efca3: Pin successful
 200c7bac298dc2da0b0b5c0dc1361308: Successfully unpin
 267c4a7a86dd1849959b07243f5481c5: All Types
@@ -4880,7 +4870,7 @@ ae25ce44d895a61cbb5ee3614b0363bc: Label Kanban
 800186dbfdf8930c42551d9d085ae9b9: Member Kanban
 56f50cbf018184b700dfd0e9d4a8433a: Status Kanban
 16bd0e2b82aaf9a945178e34d066870e: Type Kanban
-26f0e0f0d6c228bbe7b2334d8a3b74b3: 'Batch Settings:'
+26f0e0f0d6c228bbe7b2334d8a3b74b3: 'Bulk Settings:'
 614a582e6180d0bf11d6420ff2dbfef1: Successor
 de907d10df98b498985b3f8f88402858: Normal
 7fa1f5c8c5846b5f436d3bab7656bcf7: Predecessor
@@ -4973,7 +4963,7 @@ ac0d561675d39ef50bd1d547cfc918ed: Failed to load Work Items
 864b2e8f4c7f6a01b233b4d23363e2f4: You don't have permission to delete this Work Item
 7dcef3c55f78ff0342e6f2e00925f6a4: You do not have permission to edit this Work Item
 1cd6bf69ba24294dcc4dad49b42f73c7: Please select a Work Item first
-1e98d8c5732a40498a6195c4f3ab44e6: Please select batch items first
+1e98d8c5732a40498a6195c4f3ab44e6: Please select bulk items first
 d630042c96c848f4f772b64526de00a5: Insufficient permissions to view this Work Item!
 5e89704a2f61e59c7adffb27f9267157: This Work Item involves security/privacy issues
   and is only visible to the creator/repository/company member.
@@ -5144,8 +5134,8 @@ da7ecec544ada1033d3342e22cfd42d1: Overdue
 5a7ce8a9d65bb670f9e1fdc971e64ccc: Time management is very important for a company
   as it allows for effective management of Hours and helps the company generate greater
   profits. Employees can use a browser to report their Hours, such as inputting hours,
-  querying hours, and generating hour statistics. This feature belongs to the <1>advanced
-  version</1> of the service and is a <3>proprietary function</3>.
+  querying hours, and generating hour statistics. This feature belongs to the <1>Gitee
+  Pro </1> of the service and is a <3>proprietary function</3>.
 b408016a910f0162783a07ba4ba0ad4f: Logged Hours
 87d921773ff21b15f97829503dd9d099: Work Item name
 4e7f89f7614f0c937c0638d675c4cea8: Please enter Hours
@@ -5261,7 +5251,7 @@ fd820d7bce822017b578bceca42ba34e: Work Item data migration operation completed
 323890cff9c881438585c70e8f1c9304: Prohibit data migration to and from {{a}}
 1bbdff6dd74f899b3d647b08ed5d1d37: Data migration is prohibited for {{b}}
 c0e47c641ed6667d0e6538114894e683: Editing is not allowed for Work Items of type {{a}}
-e1800875c57cca25b9427f4e03bdb4ed: Import, export, and batch operations on Work Items
+e1800875c57cca25b9427f4e03bdb4ed: Import, export, and bulk operations on Work Items
   are prohibited
 e2484a477553b799f0c9f902ca42d0f4: The above operations will be automatically unblocked
   after migration is completed
@@ -5322,7 +5312,7 @@ e1bee725e9ab83ba83df94f550a93758: 'After changing the type, the hierarchy does n
 '0399db329b65b12b13bd2ddcd1a02276': Don't see the desired status? Add it
 d293e67f5bc9188c493f21ee76d47be1: Please select the target for status change and adjust
   the hierarchical relationship between Work Items
-f3320c74dca25e010032ce7e4ada9904: Batch Change
+f3320c74dca25e010032ce7e4ada9904: Bulk Change
 df4384b57449cb480c3ec169acd8ad87: Change the type to
 5273412380ca82f9408cafc3505a8ff0: 'Type change:'
 9743b6596baa84ddfea879bf03a2e029: 'Status change:'
@@ -5651,7 +5641,7 @@ bfc38dcd920924e0ca591271a548d42c: All Repositories
 9004438032533db9f3d0f4c0845901b7: Allow external members to apply for joining
 0fac766c7b05817c1cda00a9c7e35085: Selected {{count}} applications
 bd60d653ecad93cbdc90301379ebcc4d: Joined {{count}} {{name}}
-bae8aa6d2eee1c5435760261388a2c79: Batch remove
+bae8aa6d2eee1c5435760261388a2c79: Bulk remove
 865ecf9277199830620f0aff27eba76b: Add to Company
 74966e20df2ea9fd21dd61461d942048: Deselect
 b148bdd16fc1c93e91e9bc7f4b521d7f: No, thanks (this suggestion will be cleared).
@@ -5776,7 +5766,7 @@ e899ec51b3a4f842bc5063fca91dafe5: By setting up external personnel management, e
 6f602f45c414e12893566293daa9ad83: There are <0>{{projectGroupCount}}</0> repository
   groups.
 f588f5cd1d49e222c27425c36ddd9528: If you delete the team, please transfer or delete
-  in batches first.
+  in bulk first.
 c461a88ed97469064f87d5fe8a71304b: View repository group list
 b4fb5548eda200d1dd0df925c4e2975b: Transfer code valid for one hour
 3fa8e51e8225c0056a3634ac1e7a7df3: Copy this transfer code to the 'Transfer to Company'
@@ -5819,7 +5809,7 @@ c6330743db1e6709d868f89a2519e78c: Real Name
 0d113c81805b2378a6cc88dd45d119f2: "{{name}}'s {{manage}} or creator will not be able
   to remove the association."
 71bc4e9f153b8e9c3376b6bd71bde088: Remove Member
-cd915ade2835cef51cbd4bede5fcb052: Batch remove members
+cd915ade2835cef51cbd4bede5fcb052: Bulk remove members
 3ef2a790576695763804cb2282219408: Confirm to remove '{{username}}' from the '{{name}}'
   team?
 c5abd03c3406ab92a3d04a4de2173c42: Confirm to remove "{{username}}" and {{count}} other
@@ -5898,10 +5888,10 @@ b8ddb196d6e47f33a6b2000d4f1bde0e: There are no associated repositories/repositor
 c684f3ea925cbc58230a2daf9956bbd0: Yourself
 6a50ded9fbcf3517a5e4b2db7aa92e9a: You have no permission
 afe0755a5fa57b5792673e5796aa2af1: Selected <1>{{count}}</1> person
-7d3483750a8fd51668ef2d8911f25c64: 'Batch set roles:'
-df1a29cdd2900360f00ffdb7607a7dd4: Batch set roles
+7d3483750a8fd51668ef2d8911f25c64: 'Bulk set roles:'
+df1a29cdd2900360f00ffdb7607a7dd4: Bulk set roles
 a0230f4db8876a2ea3c46d7909e031f2: Please select the role to change
-54ec1189363073f6467ccd6fa4b42433: Batch modify member role successful
+54ec1189363073f6467ccd6fa4b42433: Bulk modify member role successful
 ecb61b3d8ddb82fcdf3e3738e7992b26: Department
 c3badefb54d0bd5d66dae851b4e17c87: Lock Status
 13b86ea1b867e5e32090ab8067dff77c: CodeLine this month
@@ -5975,7 +5965,7 @@ f9d41023139ed3e76f844edef82d67c5: Joined projects and repositories
 fa24f068fe190969173864549378b165: Project Number
 49611d151cf36b1f91731b1eae3fbd0c: Add and continue
 26f4601c8db150a378e215102fc8f2c0: Add directly
-fd771927397038119804915ecc207cc5: Import in Batch
+fd771927397038119804915ecc207cc5: Import in bulk
 d1c11e598e60e9711cc4a179cd58866a: Company news
 9bda226c371c583ef3eb76fec2b9a2d9: No available member adding method, please contact
   the administrator to enable the relevant permissions
@@ -6113,7 +6103,7 @@ b87b880332e23a8fd41474661be8c120: Operation prompt
 d6d4363282848f993099a5bcc73460a3: The moved node does not meet the hierarchy
 cfa7198ec4fd5ee4fad920a99d21e7c1: Test case structure specification
 2eb8ce06526b0c8ce9d315155f37da6d: 1. Shortcut operations can quickly add all nodes.
-12954ee42b33fd757b0f9c9c1011dd9e: 2. Batch set type for multiple selected nodes of
+12954ee42b33fd757b0f9c9c1011dd9e: 2. Bulk set type for multiple selected nodes of
   the same type
 f965e7634a4aaf65e9a43402bd9f2ba3: 3. Check and save if correct
 f0bf5835b1cca67b1ee7f62b363912ef: Save mind map
@@ -6135,7 +6125,7 @@ fc04e292149b3b0a5f5862696a59f58d: test case
 daede9881787abe74c94e686be78a4ea: Remark
 61c4eeec09fadad4ab091071919731d2: Node not selected
 7ceca0540418c7cafb2d2796ec51eb77: Current Type
-68b5b40ceaa947734f2c175e467e8092: Batch modification of node types is not currently
+68b5b40ceaa947734f2c175e467e8092: Bulk modification of node types is not currently
   supported
 7ba0ade35138fcd577a2f17356a9ef2e: The {{name}} has child nodes. Changing the type
   of this node will clear the child nodes. Confirm to continue?
@@ -6196,7 +6186,7 @@ d6f5ef47199c04b06674225d1629fe58: 1. The 'User Authorization Code' can be filled
 4035707e9953371e3a74b67b5022e8d7: Exceeded total capacity quota
 c20c256e57d06414048235dcd57ad9f3: Your Company subscription has expired and is in
   read-only mode
-5402fad1618abbf6d48fea393d85a258: Gitee Premium
+5402fad1618abbf6d48fea393d85a258: Gitee Elite
 c7f5849134f2a790f600083c4c6afdc6: This action cannot be undone!
 c2835329dd027d15cc8c85e2556f0395: After successful addition, the other party will
   receive a notification that they have joined the project
@@ -6465,7 +6455,7 @@ be9c28d8b247c7a60d481f70a782300e: Activity trend
   activities to ensure the delivery of high-quality software applications. This approach
   includes organizing, controlling, ensuring traceability and visibility of the testing
   process to provide high-quality software applications. This feature belongs to the
-  <1>Advanced Edition</1> service <3>proprietary feature</3>.
+  <1>Gitee Pro</1> service <3>proprietary feature</3>.
 5835a0e7e376a5f8c8874ed2165c9f8a: Ongoing test plans
 f40fdced6fd7285f466d85bda5f8cafa: View all test plans
 87f4616ccb7e433b74507491b510cd6b: Pipeline
@@ -6596,7 +6586,7 @@ ad13268589f71285adf4ee8b58540230: Export attributes
 '0113729d54613633a488ff4b31c82f23': Pull Requests ({{state}})
 9cca8e8cf27cadcef67267eabe54c5f7: Commit
 47685d3c11496f0f7d8a81fea8e629fa: Accept the code suggestion and commit directly
-633af69b6f27e9bf6c80dd61bbf9688d: Accept the code suggestion and wait for batch submission
+633af69b6f27e9bf6c80dd61bbf9688d: Accept the code suggestion and wait for bulk submission
 6870431735657853873c012b23fc63a0: Bulk submission
 6584bd109c86474ac9f35b351ebabaa5: Waiting to process...
 69121822741fa69e431fe038ced90738: Invalid code suggestion because the selected code
@@ -6759,8 +6749,8 @@ f0348404861e953fcbfd7ac539f39d2c: Repository group member permissions
 d1eeeaa2a0a855d977249e40191c327b: Number of subgroups
 267d6df7f4529f95a181a1a4e6bc7566: Repository grouping is a premium feature, please
   upgrade your service to use it
-'09659bbc627c82b0a4235cfeee13a88d': Current Professional version is not the Premium
-  version, cannot assign repository to a repository group, please upgrade the service
+'09659bbc627c82b0a4235cfeee13a88d': Current Professional version is not the Gitee
+  Elite, cannot assign repository to a repository group, please upgrade the service
   before using
 ed306eb75a6f198e4f8f8a7c4a692204: Current Professional version is not the exclusive
   version, and you cannot view/operate repository groups. Please upgrade the service.
@@ -6768,7 +6758,7 @@ ab49eba63be948e90d3659d4934be68b: Repository Group Management
 5bad2475e79624778a9a427fa1b6f2af: A repository group is a collection repository for
   managing multiple repository data assets, meeting the demand for standardized management
   in medium and large companies with a wide range of business activities and multiple
-  repositories. This feature supports intra-group operations such as batch organization
+  repositories. This feature supports intra-group operations such as bulk organization
   and repository transfer while ensuring access security and visibility of each repository
   data. This feature belongs to the <1>Gitee Professional</1> service <3>exclusive
   feature</3>.
@@ -7024,7 +7014,7 @@ f027535a09df9eb317dd3fdab4ce4fde: When enabled, allows users to add a risk flag 
 1e9b3dc5ae015ce6275f03a6fbf32c17: Belonging
 3ade912928e4d31ee602d8dffee70df2: This repository is already bound to BAE deployment
   public key. After unbinding BAE, this public key will be unbound.
-4f5522f675cf7a087273b3b1900b6c38: Batch approve for
+4f5522f675cf7a087273b3b1900b6c38: Bulk approve for
 4687b0762424ee3f6b250c605cf7b6f6: You need to verify the following changes to the
   repository <1>{{projectPath}}</1>
 7fd770364c8d6a153c990a142f6b573d: Mergeable Pull Request members
@@ -7187,7 +7177,7 @@ eea2829523e52fb3256ace216cd7d059: Invitation accepted
 80a37eeb7c7dfa08e74cf35260705ac6: Protected Branch rules are used to restrict branch
   pushes and merges. For information on forced pushes, please refer to <0>Repository
   Settings - Feature Settings</0>.
-66b151db0da48b498c1a45d5dead4f78: 'Batch operation: selected <1>{{count}}</1> members'
+66b151db0da48b498c1a45d5dead4f78: 'Bulk operation: selected <1>{{count}}</1> members'
 f0fc7f42168ef6786ead3c436c0ab6cf: Reporters in private repositories can only create
   issues, while in public repositories they can fork the repository, download code,
   and create Pull Requests.
@@ -8064,7 +8054,7 @@ f38d3022094cdd7814dbd641815a0f5f: You can quickly create a new repository throug
   creating a new repository.
 bc6fefaa3544b8b9e48128ee299f8440: 'Protected Branch: {{name}} is not allowed to be
   deleted directly, please adjust to a regular branch before deleting'
-253ad4973af3a3576e7436c5099ae636: Delete branches in batch
+253ad4973af3a3576e7436c5099ae636: Delete branches in bulk
 7b9cc2c1cd24fe498dbb47fbc1f13471: "{{name}} branch deleted successfully"
 0f56f0d7f0b84f0b732c2ac7163dbf2f: Confirm cancel build?
 '0678b9ed20914f111ca0ec2e71420bec': Cancel building
@@ -8270,7 +8260,7 @@ be064f3cefaba47136be6cf213fd846c: Failed to create a repository. The number of r
 4f1f0fcb6c991b8d789e3556a3e6d61c: Repository group/repository
 2a68a8ab32a1864978092f942f3a3475: Parent repository group
 2edf25870031708b5c9dafc83c252782: Repository group path
-727eeede0474e0c9a1ac370365b843bd: Batch transfer
+727eeede0474e0c9a1ac370365b843bd: Bulk transfer
 9ee6ffaf9a8d13fd220dbe65e927274b: No view permission
 d44e0d633b14da12c154ba552f0bebfc: Team settings
 44dc5e9bfc0e0a23da588a311bcfbe77: Hierarchy view
@@ -8494,15 +8484,15 @@ e74f3f2af0baa4b63fe0f533f39a6c39: Company is required
 737823dbbf259cc1a8aaad6087199591: It is not possible to directly modify the company
   of the robot. Please create a new robot for use.
 17170c5f76770a4c10f1fcf58d7052d5: Robot Token
-7642dfca45b3e5e023467680b2398129: Create Role
+7642dfca45b3e5e023467680b2398129: New Role
 b4d38b837aa1561ac6941ef206eae4e4: Confirm to set the role of <1>{{name}}</1> as the
   default role?
 6a5b847449dfce37ce244e0dfdba5003: When adding members, this role will be selected
   as the default <3>member role</3>.
 '04285836bc1db96af398380a1cdfd42b': This role is already the default role
 29cec9050b41d37594be4ebc965f6083: This role cannot be set as the default role
-519006fe536cebdd7d4e22d8010331ac: Role name
-d16c421ba0b1bcff6fb683eb6a4fbca6: Role Description
+519006fe536cebdd7d4e22d8010331ac: Name
+d16c421ba0b1bcff6fb683eb6a4fbca6: Description
 8a2a6551ef228971fd373333e684d404: Default Role
 a02d3ff89d26fece09731b6920211250: System built-in roles cannot be modified
 a043a58def82159556c0a1ff4162a5a8: Customers can access the repository directly through
@@ -8599,7 +8589,7 @@ a6d53a0f46b660669101721bf5d140a6: Edit pipeline
 7290d89a6d74627e319f32437b9e8ea8: Release Records
 f662fcd69cb458cc90ff9d0d3c2d7684: Gitee Scan
 783a9e3ae4705df879cd38f9e8a3a1df: Scan Details
-4cfc2a36de5a8b4f65f8378983ecbb28: Notification
+4cfc2a36de5a8b4f65f8378983ecbb28: Notifications
 126689cc9d017c4cb9956d4f61200e35: Project details
 859a3ab718577894cdd4eb70b2085e0d: Document Details
 d9ad7eea47bd4fd4acc9c87ec551d7d7: Unplanned Work Items
@@ -8694,7 +8684,7 @@ c7f811d6ebacafc4428b28748ff561d7: Delete iteration-related folders with the same
 56f242de0e69558833d2b3264ebfe0c3: Iteration closed successfully
 fc5d473e63f48a22dcdf0effbee8bcb0: Iteration closed failed
 acecab6b80638be1d810c935efdc4a92: Transfer Work Items
-316af2c2c995b38ce1e91218156859a0: Batch completion
+316af2c2c995b38ce1e91218156859a0: Bulk completion
 db6436f60fc333a3ec79bade7bc52473: Target iteration
 82f2e914bf16a34d715e96515ca52626: Filter iteration
 4c77794e53652c16f90ec843795bb4c6: Search iteration
@@ -8997,8 +8987,8 @@ c7eaf1e37ebd0c242f3d9ea8cc4963cf: Arrangement
 aa976c75598dc90c76b61752772a160d: By total
 bff0b9e4a39310eeb470b8608699c895: Year
 a967cd250e57d42c0edd80fa0f060e8c: Efficiency measurement can help Company quickly
-  understand project progress and delivery quality. This metric belongs to the <b>Advanced
-  Edition</b> service <b>special feature</b>.
+  understand project progress and delivery quality. This metric belongs to the <b>Gitee
+  Pro </b> service <b>special feature</b>.
 4c404912021747d70d6b0adccd0c25e1: Uninitialized configuration
 b22763d6e020f793b377755af3280668: "{{count}} contributions"
 4049ac7b34afc1ddd8735c48da3425e3: No contribution
@@ -9214,8 +9204,8 @@ baed6b223c389259184fcafbb540172b: After synchronization, this test case will use
 26ba5dff6e34750614b3b91d39e11b65: Sync case success
 f27879473bb009f4832f7595146f8d3a: Sync Test Cases Failed
 6f7d4ca04b2f6c53b4c0d7dbc941ff8c: No test cases in module {{name}}
-3982faa4b0480211a2cfe957b3dec918: Batch settings completed
-31a965048113eb60352eb8bfe738660c: Batch deletion completed
+3982faa4b0480211a2cfe957b3dec918: Bulk settings completed
+31a965048113eb60352eb8bfe738660c: Bulk deletion completed
 e9853756c59b03d3595d17f4662c547f: Please enter the correct page number
 bb2c1f2da9a407e367b44809525426f8: Step description cannot be empty
 2d6b8beaddd9efc233d0eb314ab17b25: Failed to delete feature module, please try again
@@ -9239,11 +9229,11 @@ cdcdd5d9a9d9742361cdd7f2943dea99: Please enter execution notes
 8c32d5154ccaf4b1f18965c90d53d8c0: Please enter review notes
 050d7ac3870876b55c2d155e3af8445a: Continue with the next command
 b1871832f37ab0b743a68679be7a229e: No test case available
-0f248e20811832c53cd494f6f48cabf1: Batch Set
-8509c455c29474b5daeae1d3a3d8de82: Batch link test plans
-78e86084cac79424c0bd1916d9d7cd8d: Batch Copy
+0f248e20811832c53cd494f6f48cabf1: Bulk Set
+8509c455c29474b5daeae1d3a3d8de82: Bulk link test plans
+78e86084cac79424c0bd1916d9d7cd8d: Bulk Copy
 f8973b105bafe3546f774bf2d085f0ac: Selected <1>{{count}}</1> test cases
-b7a2a0d01b6743ec725920b7af32b5d4: 'Batch association:'
+b7a2a0d01b6743ec725920b7af32b5d4: 'Bulk association:'
 c4fecadb7c3748b085de18270ed787b4: Due to a large amount of data being operated, please
   wait for a while...
 91e36733c8c10567fbf717d6831a6206: You can close this popup, and the system will continue
@@ -9252,7 +9242,7 @@ c4fecadb7c3748b085de18270ed787b4: Due to a large amount of data being operated, 
 fd58e9b305ca361e1bcf5c39eff48873: Copying test cases...
 16f133309d533b77daeb10e0660b4e0a: Associating test plan...
 2410b525a75715034f1d266eb0e7aa13: Updating test cases...
-4130204e98e39d4b3a34798e5791c2aa: Batch operation completed
+4130204e98e39d4b3a34798e5791c2aa: Bulk operation completed
 587ec0ed9626745d0ec9cfb9dec2c907: Successful {{success_count}} items, failed {{failed_count}}
   items
 7b0851c58d03b8fef9b845c7767cec77: Please select the test case to operate
@@ -9588,7 +9578,7 @@ bb7d824f5b2e3223e0ea6048b8ddd9b9: Teacher Rating
 4bcf2ecb29c3237a183f47b753243392: Student list
 203c08e0d44ac3753a3c5b96644a6e10: Homepage
 eba03c34f29ff5c1cbc28cad5db56a35: Cannot find how to switch Company?
-71d553e38aa5504f6d118d9acf275ea1: Return to personal homepage
+71d553e38aa5504f6d118d9acf275ea1: Homepage
 3ab8cc15939f3b5c56d8e0a811acebba: Logout
 aac66462c233a3989ede468b09a98af6: After-sales QQ group
 5edee9acd1ad992b8cfc52b1429c628f: Professional Consulting Group
@@ -9626,8 +9616,8 @@ fd45d6ff0186e1a843ff197c7972e955: 'Weekly Report Template:'
 e7dbd5726496d1840ff32f43872d4c9d: Add Template
 0ca5bc86c13a81f9c5e74a443f443e34: Modify Template
 a10f79ad92e6ebc88b88047602618611: "(Default)"
-83c842e62dcf9cca0f837fd42ab46b2d: Edit Template
-f5a3ec56b46fd6d42f9c9a7b8b48c699: Delete Template
+83c842e62dcf9cca0f837fd42ab46b2d: Edit
+f5a3ec56b46fd6d42f9c9a7b8b48c699: Delete
 357211096f78cdb88042c0f87efac67b: Set as default
 2e3f29a0cfc534ee33f6bf71df576150: Confirm deletion?
 7fccb9897d87396c0b88269527b26a1f: Template successfully deleted
@@ -9972,14 +9962,14 @@ b07620dc3e664a4e1e875f1347165523: No organization yet, <Link>Create now</Link>
 30010d320ee6985f4c569b260ed2d5d5: Or import from <Link>Github</Link>
 8d9585db8f982e1e234d182a6ac6ad00: Import repositories from GitHub / GitLab
 227eef9cd7b1d5ba62acc48fb0746806: Profile
-e48cee3992882152f3bdc42882b57c9f: My Starred
-259022e856f6bf2f66ef107478327101: My starred
-a16bf4c8ff559fd4ac98599f79ef9ff0: Users I follow
-065773ce6e3d6352fbdd8809515e68f5: My Code Snippets
+e48cee3992882152f3bdc42882b57c9f: Starred Collections
+259022e856f6bf2f66ef107478327101: Stars
+a16bf4c8ff559fd4ac98599f79ef9ff0: Follow
+065773ce6e3d6352fbdd8809515e68f5: Code Snippets
 faacdc2483d9b567a3d4b7d8a92b0141: Feature Update
 34cf9f72dc71bec0f977e9b4c9202786: Submit feedback/suggestions
 5ce662ac8d878ae680d3b61da0cf0986: Account settings
-498e1d59b4d787ee29cafe9695745855: Exit
+498e1d59b4d787ee29cafe9695745855: Log out
 7bca7dd78309cd703eadecd30b37fb7a: My Company/University/Organization
 f4ebe4c5f0173300a5f96b55ca6c24ea: My Company/Organization
 20e63a396aca50818572a590b9327a46: Mark the current page as read
@@ -10026,7 +10016,7 @@ a2132cf64dafa86f77e21ffafa45a4c0: No Company Available
 12dc06731a5d722407137764774175ea: You haven't joined yet
 e770265dcc19f64a61d0fc33d15bcd95: Learn about Gitee Professional
 60ab743988bb19f740c3e32cb2121259: Or
-8363ecbaf48ca421af297688a473786a: Create Gitee Professional Free Version
+8363ecbaf48ca421af297688a473786a: Create Gitee Lite
 2dd47fcd26d713991298ba8d7c0149d4: Organization ({{groupCount}})
 16b33d44ea3a59e8e177397554a9add2: No Organization
 dcbf3f53b01e66a2f10682784c29c6d6: Publish code snippet
@@ -10035,7 +10025,7 @@ eb137dee4c0aafccd798e1c3f323fcdf: follow
 4e56466fff3246af1954548d02feffc3: GVP - Gitee Most Valuable Open Source Project
 186738348425b280fad791da07420123: 'Successfully starred, added to the following collections:'
 cdfbf109edf69a33d13b14d40d54315a: Click the button below to create a new Starred
-5d16cea725606100b3c7a2c68930e9e0: New Starred
+5d16cea725606100b3c7a2c68930e9e0: New Starred Collection
 02a9479c332252fa7aa2aabdb51bda64: Please enter the name of the Starred
 dc6ccc00bfe907d1268b8e81e4c32f75: The email associated with your account has not been
   activated
@@ -10156,7 +10146,7 @@ d9619021b71092510b74b81a20de02e1: You don't have any active issues recently
 125fa024986dc4d99afa8db4a24a41f9: You don't have any active Pull requests recently
 b2cbce25651211fde15d945023ee56be: Recommend to follow
 7d8084ff80f7f5d167dcaf4a1e2766c7: Recommend repository
-36adbef63d297bd2ed0a0f2fe9b9e089: Switch batch
+36adbef63d297bd2ed0a0f2fe9b9e089: Bulk Switch
 0dd6e2486e7ee6d92938a6d938b2368f: No new recommendations for now
 0aa5876f0d0e355f1de0f82068e0faf5: Star to get more accurate recommendations for repositories
   you are interested in
@@ -10256,7 +10246,7 @@ a8d33fecdc0e384975b4207548ced050: Multiple service modes for companies, achievin
 dd324e60c9869411d3482f5cf4110cf5: Move towards efficient development with hundreds
   of thousands of excellent companies
 2d1d5568eabd5a9372b5abf9ac747978: More services
-f9bf93005b8ed2dbeb915cc70bf37812: Professional product pricing
+f9bf93005b8ed2dbeb915cc70bf37812: Product pricing
 a12be101b3d0b3ef312364b91fe98921: Function and service comparison
 644d506fd0b59dff3dab24b7bd4aae6c: Invest less and enjoy more professional services
 af6400cb51968795a8397cb6ae77b60d: Product Introduction
@@ -10264,7 +10254,7 @@ bf1c7a75eb4688ea0efae36dda033798: Product Customization
 e5872dab185c75c326fa2309ca6404f0: Product Features
 f9413bb494019a3b749cdb80c50479cc: Product Services
 559ca734ba9202e2dc3183b8848e467e: Professional version free download
-164100ab37c84441ab887a2c841ad5af: Gitee Premium version available for offline deployment
+164100ab37c84441ab887a2c841ad5af: Gitee Elite available for offline deployment
 e56e6265c6d5d492d903c720cb4fd307: Gitee Professional edition available for online
   use
 7be051f5128681cdbb4d6f7c62b624f3: Creating infinite possibilities for efficient development
@@ -12075,12 +12065,12 @@ c2671392e83f5c6636d76d34c3b24160: No tasks matching the requirements found
 8d03ee840dd08ef19ced7696f048c55a: It is not possible to switch to this status for
   the current task
 e9f7e45606c2115864c162419648ffc3: No tasks here
-6cb67d209fc969534fb98f6d442f040c: Confirm batch deletion
+6cb67d209fc969534fb98f6d442f040c: Confirm bulk deletion
 1f768363eabd7db7ece1ef9e25cb08e9: Confirm deletion of the selected {count} tasks?
   Deletion is irreversible!
 b0481ed68f79faf261f5dc1008f12499: You have selected <strong class=text-red>select
   all</strong>, which will delete {count} tasks. Confirm continue?
-63cba49773b8ed492f156fb613018600: Confirm batch operation
+63cba49773b8ed492f156fb613018600: Confirm bulk operation
 ac1c584e669faedcc0db494177786cb5: You have selected <strong class=text-red>select
   all</strong>, which will affect {count} tasks. Do you want to update?
 4f2e01b1446beb50aee77b7cd58ec283: Confirm update the selected {count} tasks?
@@ -12094,10 +12084,10 @@ b978c979634c29e8999223282c2a7b40: Successfully deleted {count} tasks!
   failed
 050caf5d60ffce5cc09ff828287c4243: Please select the tasks to operate on
 04554e52d13ff411cc0d8b906f6314db: Successfully approved {count} applications in bulk!
-a7d0801ca7594b4bd0c3eab0e9e2ab46: Batch approval completed! {success_count} succeeded,
+a7d0801ca7594b4bd0c3eab0e9e2ab46: Bulk approval completed! {success_count} succeeded,
   {fail_count} failed
 cf80bc01418cb9322a070b1ba0e28e74: Successfully rejected {count} applications in bulk!
-fa66c05c79bcded5c03b67c461e878cf: Batch rejection completed! {success_count} succeeded,
+fa66c05c79bcded5c03b67c461e878cf: Bulk rejection completed! {success_count} succeeded,
   {fail_count} failed
 48144f96c1503b52f8816d0101a7ebc8: Please login first
 3d4ab047acd200a885357a935c1a90cc: Repository Image Management
@@ -12388,7 +12378,7 @@ b77fe4080d9e3586d4f64df6be683abe: Select other filtering conditions
 02c0ab8fbd158c26dd5f4b771afe8319: Clear search history
 968333deb09556669506b69daf6c2a36: "(Optional)"
 8f98ede913e1a5f839f6f35225c21803: Bulk modification
-8cda472d533d717da065f08e58fbe3fb: "* Batch submit {count} code suggestions"
+8cda472d533d717da065f08e58fbe3fb: "* Bulk submit {count} code suggestions"
 fb641e697747fbbf8c3eb52a24c7e96b: Submission successful, refreshing in {second} seconds...
 4d334e99e84945f9dc3760eb27a14fcf: Code suggestions cannot be accepted under historical
   submissions, please switch to all submissions
@@ -12398,6 +12388,15 @@ e19d957ca6b3d5b848b5d714e966abcc: Markdown preview exception
 47da949147a0c12345a087da5e02b4ed: Join Start
 bb8910bc8c8c7295cde14ae692624e76: Before %{time}
 a0c7716669b5ded0d8051abfc232b828: you
+6b86b273ff34fce19d6b804eff5a3f57: '1'
+d4735e3a265e16eee03f59718b9b5d03: '2'
+4e07408562bedb8b60ce05c1decfe3ad: '3'
+4b227777d4dd1fc61c6f884f48641d02: '4'
+ef2d127de37b942baad06145e54b0c61: '5'
+e7f6c011776e8db7cd330b54174fd76f: '6'
+7902699be42c8a8e46fbbb4501726517: '7'
+2c624232cdd221771294dfbb310aca00: '8'
+19581e27de7ced00ff1ce50b2047e7a5: '9'
 e3b0c44298fc1c149afbf4c8996fb924: ''
 d24d3c99460c7e3aca18732df7e5f216: page
 a318c24216defe206feeb73ef5be0003: "+"
@@ -12509,7 +12508,7 @@ cc1d3b0234846714b0aeda6cc34b057b: license
 7c72ed2e8a366a83766613fe8a594317: No matching results found
 695ef3a8a11c06dc8e867cbc6b0c27de: create issue
 ba56172735ba493765103718649715f5: test case created successfully
-7961317fde71c9967a5e68e1aacc6bd9: loading ...
+7961317fde71c9967a5e68e1aacc6bd9: Loading ...
 a31e5f4d5505ead5136d5bc55d37aabf: test plan created successfully
 00ae9823377908881b651120e80f2fcb: private token update failed
 dd9cd175fcc0a66d9e37e6adddffca56: New private token failed
@@ -12530,7 +12529,7 @@ f5b169d098a3f68b6bb1b03c794503c7: WebHooks
 678d8f45d73490236ef48fa5495db822: no data meets the conditions
 dcd0a91db786a9dca1f495329495c474: Gitee LFS
 63a08024a987e8edb622f4b6d47637fa: Confirm deletion?
-dc7d7ce62fff8866c9173303c73421b5: assign responsible person/collaborator
+dc7d7ce62fff8866c9173303c73421b5: Add assignee/collaborator
 81bb3c007084be121d3e6728e2358c31: please fill in the private token description
 07a920b29785be902d73988fa68a3e1c: load case details...
 d466fa5a958c9e7a6a486e09a51cf239: repository, review, configuration
@@ -13151,7 +13150,7 @@ a5ed444b5f5a21ee249bf08b649e73f5: Except for the personal center prompt that the
   initialized
 455062499838b96f26cfe0148d411d8c: This Project Has Completed Testing Management Sample
   Data Initialization
-8a294f64d32bcaeee7e2f10fd82a816f: Test review batch change
+8a294f64d32bcaeee7e2f10fd82a816f: Test review bulk change
 eff4912bbb0f0576f40adc2b54790420: Error record
 6edb77679bbe71f518b1cfe761094715: technology
 8d532ef15ced7572a3feb794258ab4b3: limited
@@ -13773,7 +13772,7 @@ aa4c0e0ea648743d4d4404616155ceb3: In Migration
 694f0d85183d3773f9ca7fb937af3d14: Company payment
 ff3a79a2d645815d9991557dfaf77630: Administrator changes package
 bdb8c4b50d0ea887823d40381e18c590: Administrator changes quota
-2904704d852d4ca4addb4b24b66619a9: Downgrade to Gitee Professional Free Version
+2904704d852d4ca4addb4b24b66619a9: Downgrade to Gitee Lite
 a713c7a04686e75de8207526da8db84a: Personal upgrade to Gitee Professional
 2a530552db6e65f6beefcf608cd0d24d: Personal sign up Gitee Prossional
 27fdfe1ffd1949cb7fe8d4380b6466ee: Personal upgrade to organization
@@ -14798,7 +14797,7 @@ aced5d7f9fc9be7867509069e25b5d74: Like
 823b3eb8c9a73e9b315666ebc56d3c60: People's Posts and Telecommunications Press
 d2e98bf559ee151160a9cb978e171eb1: China Publishing Group
 13e042023be0432b56d30f07826373d3: Document Generation
-4e8ba3fbe02e98bfe0362ee792ba5941: Profile page
+4e8ba3fbe02e98bfe0362ee792ba5941: Profile
 d95486f08c219c5209500a94729434f1: "'Invite Registration Activity - Gitee'"
 364c790c26ccf07f3d790be7cae17d78: What is G-Coin
 be1f951e26d6f1e8114d7eaff4a4d9d0: Encounter, Acquaintance, Dependence - Gitee's Three-Year
@@ -14848,7 +14847,7 @@ de2045141aacec21df00b510b5447ce2: Participants
 eb0aa6e6a4e57082ac2326900f69841a: "'Single line text max: 200'"
 7ece7ecf3a48ff0c0160dad53a4c54b6: 'Multi-line text max: 1000'
 5002de2023e2048262ac1710116ffbb0: Check src
-bd405825fe72a674523c56799760db9d: Repository
+bd405825fe72a674523c56799760db9d: Repositories
 73de5ef9c0c022fac3f75c7ed2a762d7: No results found
 68db7846976a99b6a54c56f5854f8d94: Error occurred while connecting to the server
 efded3644d0fc5cd8072006712317558: Reset push count
@@ -15611,7 +15610,7 @@ c49867fc468335a5f423daffa947733f: Add Report Type
 3913374183046974cb1ce0858f0b680c: Create report type
 957a4209af06e007e90154567717c89c: Report content keyword
 5e29d121dda011c50d1a2d539dde9596: Quantity
-8ab4d34f1dacb3b0da88884f28da8dc4: Batch change status or remarks cannot be empty
+8ab4d34f1dacb3b0da88884f28da8dc4: Bulk change status or remarks cannot be empty
 e2c889593d3758cee430803097b577af: Unblock
 32991f0bc9111b2e1263788167b3dd94: Cancellation reason cannot be empty
 4ffb831200baa50562b55c915476e6ac: Belongs to category
@@ -15621,7 +15620,7 @@ a0fd5d9c9b0ca532e6cc8f6e6f12baa6: Please enter the reason for blocking this user
 e1796a97829b6694d1058108090a0524: Blocking reason cannot be empty
 dda8c1d297b6e5e8b7d27cf52e4c9722: Please enter the reason for unblocking this user
 19443cfe3bc05befe65771aaa7f50547: Please select the object to be changed!
-bfbc47d538b0eaf103777643e1328591: Batch modification successful!
+bfbc47d538b0eaf103777643e1328591: Bulk modification successful!
 564903f528582cdf4dcc5ba23438b92b: The remarks here will serve as processing remarks!
 7e8b7ea3fbaa6daad4f32416d872a974: Changed to paid
 d262ad028ac229bef1ecd2ea0f4eff51: Fill in failure reason
@@ -15799,7 +15798,7 @@ e503e66c575a9074ea624dc615738d84: Followers
 be4cfcf76505ec6e1e8e4d1700646be6: Generate license
 266f08813035e3e3f13892c2a34f648f: Download license
 1192ddcdf9128ef75c36cac100f654e7: Verify license
-b0174681fa8fb288d68c4271a4daf8da: GiteePremium management
+b0174681fa8fb288d68c4271a4daf8da: Gitee Premium management
 8b7bd14227e03bd8277cf9aaafff0710: Shumei content review management
 5ab821e7775f279aea1e7a241c2e9ca7: Risk conclusion
 cc728199340baa743e5cc9dc83b6032a: Repository public status
@@ -15857,9 +15856,9 @@ be5ae517ed1ca3bfca97768f4d2ef8d4: Clear avatar
 77696c4a4c14616c42f4c108f98be4b5: Risk description
 26ecd443b4c9b3ea8bd2e15db3991e07: Handler
 afd0b9482dfa57f02c150f3d300fa741: Redirect
-f8c8ee6064ba32c54288a4969a66c308: Batch approve
-0c1a8a70d48b7bb37a44c1d27325043b: Batch reject
-7067d62ed5fe5750129b35cd8336469a: Batch ignore
+f8c8ee6064ba32c54288a4969a66c308: Bulk approve
+0c1a8a70d48b7bb37a44c1d27325043b: Bulk reject
+7067d62ed5fe5750129b35cd8336469a: Bulk ignore
 ccdebb93f7f97a1233eb7cfb09fd3c91: Remove
 89c3ad8b3b110f1a94e072dfa0c8d230: Repository to public review
 47d60c23073dcf64a66fd625e4611def: Excluded operator ID
@@ -16051,7 +16050,7 @@ bf7261ed1a3bb3ab89c525755d3bce19: Related URL, such as ios app store
 fdba6a60211b98684505935e6f3eda0b: Cache key
 9022f66ed7a05a3292acc5f9ee3621d3: New Package Name
 f6f32efc2af7d9c20a0af356ad505b81: New package description
-1af22c1e91a942daa45558d39dccc0e8: Cannot add Gitee Professional Free Version package
+1af22c1e91a942daa45558d39dccc0e8: Cannot add Gitee Lite package
 96f2d064c7a4942ab129a7f4e69422b3: Organization name or organization space address
 311a6127b4449d0a1f93f375ed8114a7: Number of items displayed per page
 dd5c2bc5cd33ba49dff99ebe4216a3ca: Production Mode
@@ -16389,8 +16388,8 @@ f7da460ea1287bdc2c55b57a62d263cd: Whether to ... self-judgment ...
 31c250af33b15de48669fd71d2ec1854: Please confirm that there is no political involvement
   before lifting, use the select all function with caution, all release operations
   are recorded
-1caba8d1a3807fb5686965376c66581a: Batch processing for converting repositories to
-  public (namespace)
+1caba8d1a3807fb5686965376c66581a: Bulk processing for converting repositories to public
+  (namespace)
 06d3d3aab2750763f3b36f4a7dffd816: User/Organization/Company Space Address
 c98ccedc9703590e4e56ec48b6d84540: Selected 0 items
 796486fffccbb5b043e2abef9a47377c: Name/import address
@@ -16449,9 +16448,9 @@ d9cd62b7d21fd3115d99ff3df79daf10: 'by: Personal create'
 871ba35a7029bd05ea2d5c2443cc7f0a: 'by: Personal upgrade'
 2dece30628467c230305b4f22160680f: 'by: Organization upgrade'
 931f9c9d4123892725cf5d894442d792: Active users
-b59cef35d569f1ef81a4e384610aa624: in:Standard Edition
-f47a8640585c1d19600102d3fde64949: in:Advanced Edition
-d326433f50400ea22d9d487c0acf946f: in:Premium Version
+b59cef35d569f1ef81a4e384610aa624: in:Gitee Core
+f47a8640585c1d19600102d3fde64949: in:Gitee Pro
+d326433f50400ea22d9d487c0acf946f: in:Gitee Elite
 a867c65f4605c50cada90adc9439c0b7: Paid users / Gitee Professional Users
 f4e871b0cab36b908c9faee9fdc79d8c: Gitee Professional Users / Total users
 '039d1e2e62c87d0960d9f9407c23ef37': New Android
@@ -16501,8 +16500,8 @@ b80a612c9f7e7c062a7881e809661da4: Enable Description
 b083b7a765e1560135de6c56b1cd10d7: Link Tags
 1314ef27365e0cdd792541b0175bf763: Appropriate tags facilitate repository classification
   and allow more people to see open source libraries
-f1d2816ea7732893586f3150cb64d615: 'Batch operations selected:'
-4204154f796836db16c2451496711dee: 'Batch modify category to:'
+f1d2816ea7732893586f3150cb64d615: 'Bulk operations selected:'
+4204154f796836db16c2451496711dee: 'Bulk modify category to:'
 dd8b04a336f32753958b69893e6a1f1d: Multiple Selection
 eeb367e5d5eec4fee49bcf16ba369506: 7-day new repository
 f398bb0196033fd39dbaabb28ceefe58: Select secondary category
@@ -17153,7 +17152,7 @@ c4d751de3a40315b3e7311b4126185e7: Loading WebIDE...
 e45720f79a1195912ae50a64acf0bb4d: User (total GB)
 778cc7002f5aef3b07bdd970e90fb8bc: Your verified email
 44ba1fb406da305a3cc5ba7230d72d34: Personal space address (unique to the entire site)
-82692b04fd2cbdb54e59c9c782e5599c: Member Kanban, support batch operation of tasks
+82692b04fd2cbdb54e59c9c782e5599c: Member Kanban, support bulk operation of tasks
 194ec7cf0ee4093a628fcda87f8e4bbd: 'Numeric input (integer) max: 999999999'
 d60fbb60212e2a5da55a5c1169bbbf38: 1k+ Star project management
 90be128a75573a5d372c9f9e1b0b02a1: Code of conduct
@@ -19334,7 +19333,7 @@ aa08a719bc08f3413ca41b419f11e234: 'Exception occurred: %{ex_message}'
   on the current day has exceeded %{git_remote_fetch_queue}, and cannot be imported
   again.
 e8bd14bb327d45ee62cebebd8d9cd80f: Uploaded image cannot exceed %{max_file_size}M
-b3d280fb32f0e99665d9d9324c5f42b9: Batch transfer to target repository group successful
+b3d280fb32f0e99665d9d9324c5f42b9: Bulk transfer to target repository group successful
   %{success_count}, failed %{failure_count}
 6b6e92f030b7e9e0d05afdf637c9070e: "(There are %{path_conflicts_count} repositories
   with the same repository path in the target repository group)"
@@ -19527,10 +19526,10 @@ cc75958a728a47e8d375a9c99a525367: You do not have permission to update the pipel
   back to the original version and will not affect your other file changes.
 729e4a8d90a75940809787a2be78202b: Publishing violating information 2021
 ceef0f6d8cd8b4273e810e10fe0e6846: User logged out
-7a25bd515248528dfc226293501226c6: Batch deletion is not allowed for tasks in progress
+7a25bd515248528dfc226293501226c6: Bulk deletion is not allowed for tasks in progress
 72196ade163bcddefa274d03cb31d48d: No permission to delete task
 72b52f29c9bae97ac32e64be1f3c73ad: No permission to modify task
-6617f0b04e3ce49605c2ed76a1e257e6: Tasks in reward cannot be modified in batch
+6617f0b04e3ce49605c2ed76a1e257e6: Tasks in reward cannot be modified in bulk
 88c15a6493742133c0a46d043cd045a1: No access to associated project
 427dc00824ae51239a80d8bad5102dcf: No access to associated milestones
 5f24a8896102fd5f964872ebee37ca41: No permission to modify
@@ -20139,9 +20138,9 @@ d5c90b8c17b9ae6282ef111aed928d33: Cannot operate on oneself
 40f23eb123dbc8013655c1402968521e: Current team does not exist
 1831c1ea4ebfe98dc687f3eb6b508910: The parent node of the test case cannot be a test
   case
-1dc27bc36d294762327c10b87a33185a: Batch Execution
+1dc27bc36d294762327c10b87a33185a: Bulk Execution
 8e3d37561bc42e7ef47fc357bad2edf4: Test plan does not exist!
-849b1b3819b4669af32aab9844845aa9: Single Batch Operation Should Not Exceed 500 Entries!
+849b1b3819b4669af32aab9844845aa9: Single Bulk Operation Should Not Exceed 500 Entries!
 4c3b8e0d2c4f09ad1a9c4749ae61f141: Invalid execution status!
 83963aab431e632b3cdb4847aea4f474: Executor does not belong to this project!
 bc4502aea79cb5f376a813cf828f11a5: No permission to modify the test case
@@ -20407,7 +20406,7 @@ ae9ac81a9ba41d11924c46ecd22ff6a5: No permission to move functional module
 cf1bbdbe850b2ed0e87e158f08419808: Not a Kanban project
 de8cb81304f07f421eb6cf80d9f17bf4: Currently only available to advanced Company
 3fcab3e708bedbfe8cb4164cb00cfbf1: Up to 5 repositories can be transferred in a single
-  batch
+  bulk
 4db6cb24f43df0b909fdfbe9845f272f: Target repository group does not exist
 026d0047918b8d3c5f92fa1c07b3c36c: Review rule does not exist
 3bf4a0be1f1cade0289babe9a4dfdc82: Default rules cannot be deleted!
@@ -20589,8 +20588,8 @@ d32bc0e39fe0d14ae82e41912fc9ac96: File has been changed, please refresh to get t
 35fc035663b4b35d360678612ac26b3d: Creation failed
 b5674c85f6b9a49d3e99797cfece5d2c: Target user does not exist
 447f9952dd2da3fd0a5573fafba7cf63: The target user is no longer a Company Member
-f49c29d96fbbaa0bde0a718a2bd12c2a: The other party already has Gitee Professional Free
-  Version, please upgrade the current Company before proceeding
+f49c29d96fbbaa0bde0a718a2bd12c2a: The other party already has Gitee Lite, please upgrade
+  the current Company before proceeding
 93097f2a988e44180c1c8c0c9fb971db: Cannot transfer to locked Gitee Professional Users,
   please unlock if necessary
 2dd0ac3a2c8fb1393126876de59a6f5c: The other party has not bound a mobile phone number,
@@ -21261,7 +21260,7 @@ e47b692bd99131955a902291a4adadcb: SHA value of the first parent commit (deprecat
   suffix huawei.com)
 5a084de240a7d060f4ce309041448e63: 'Follow object type: User, Group'
 146279fb94ba94fcd9fe067f6064bb31: File path (file within 1 MB)
-117c3b7c1100f259789c63a47f394640: Tag name (separated by commas for batch deletion,
+117c3b7c1100f259789c63a47f394640: Tag name (separated by commas for bulk deletion,
   e.g. bug,feature)
 d4edfb4ff45b231dc3f02a5182763f25: 'Weekly report date (format: 2019-03-25)'
 c9ac415b285fc23247a2caaa248c0e6f: 'Whether to force review pass (default: no), only
@@ -21663,8 +21662,8 @@ a82de572ccd7ebf080d21ed6bcc4c577: User does not exist
 c7d706a9cd335ddd86c24ad65c4bfead: User is not in the Company
 6364541fd20f3001cffb87e725c0a5c9: Cannot transfer to yourself
 05ae1d57659057d26f3fed083594a00b: Transfer not allowed for Education Edition
-b1a0d1e60c82202782992f7f7cd7288c: The other party already has Gitee Professional Free
-  Version. Please upgrade before operating.
+b1a0d1e60c82202782992f7f7cd7288c: The other party already has Gitee Lite. Please upgrade
+  before operating.
 b6ee77038ab634ca1ca3de7836c98a99: Cannot transfer to a locked user
 9448bc2f8f8b31edd01271b46356c906: The user is not bound to a mobile phone number,
   please ask the other party to bind the mobile phone number and try again
@@ -21743,7 +21742,7 @@ adb7e193c4e421d8eb46defd1a88dce6: No permission to manage organization
 15d499c554cbd2729f17df7f3e455cfc: No permission to view organization
 44cdc8d706af5d57b8657db834744278: Organization not found
 1d1dc230b791ed13d5078adb6f7b5113: GiteePlus has not been enabled by the official
-7450f384587ed03b275096008a18c0e8: Processing in batch, please wait...
+7450f384587ed03b275096008a18c0e8: Processing in bulk, please wait...
 a3adfaaea7753795d914ed299d770128: Star Failure
 a6a2dc1444a0a759c225e4bfdfa9fbde: Failed to unstar
 d4324a1d4f9b541044dd174980a6d35a: View not found
@@ -21882,8 +21881,7 @@ a3b2a29ab5b1415ee757929857c6e3dc: Invalid email format
 9df42656d74fe6ed12e3fcbd460c57a5: User not found
 e724831bdf5eaf1859e005087ef887aa: Please set IP whitelist/blacklist first, and then
   enable IP whitelist/blacklist access
-617396bd96c030fa782313996218c87f: Setting failed, Gitee Professional Free Version
-  does not support IP detection!
+617396bd96c030fa782313996218c87f: Setting failed, Gitee Lite does not support IP detection!
 7a863f0b2a26c1c26f1ddef9f256ce98: No Company administrator with bound WeChat account
   found
 6ead958a3e511402c14ffff319bd38a9: Failed to add, please check if the receiving method
@@ -22026,7 +22024,7 @@ a22e99be05073441a4b0746fee5d0fd4: Member not found
 67912af83a0d450fc3f8b16c7cc7a7d7: Member permission is empty
 41be37ed841da4a2dc6dbf2c46bde2e9: Cannot modify repository owner permission
 4972d83d05edb71ad605f4a847936016: Company observers can only be reporters or observers
-b6cc485209415f988e349febeea596a0: Owner cannot leave the repository
+b6cc485209415f988e349febeea596a0: Owner cannot exit the repository
 e0944fd9c87ed4c885d7eac213c0e375: Please select the user or team to add
 c859f6962768e0889cd9c0ccb7d34b95: Missing repository permission
 7acec2e4660afb5b8371eb5ce2fdf56d: Team authorization failed
@@ -22152,8 +22150,7 @@ a1fcfe221b855d754f5eb521692a2477: No permission to create project
 710c151870e7445b13e97ff856c97411: No permission to delete project
 2962e6bb9a081dd3f51d196072d7becf: No permission to manage project
 61b621f6649af43eb8a014d2312a32da: No permission to modify project
-6659f28d74b61658a4490166cbd5939b: Gitee Professional Free Version can only create
-  %{limit} projects
+6659f28d74b61658a4490166cbd5939b: Gitee Lite can only create %{limit} projects
 101cfef22929418dcec181ec76b6911d: Board Does Not Exist
 4580a93898d2f20f8ea90e246dc705a8: Failed to edit board
 8ea00413a0021c714070d849b7658972: Failed to create board
@@ -22480,7 +22477,7 @@ ec5ce7dad69e71a9e19fc855856ee45e: Only unfinished stages can be deleted
 735a9eab5124b9ff369336c9aa7b3288: Deleting is not allowed in the last two stages
 29e3279bae1fc2c16767201de4939301: Failed to delete stage
 b57f18265cc8577e920816f3d32f280b: Missing the target version parameter for transferring
-  unfinished tasks in the last stage or selecting batch completion
+  unfinished tasks in the last stage or selecting bulk completion
 e518a5eaf565f60ebd81743da99e6d4b: The target version required to transfer the task
   does not exist
 660f4a4c3d9a07b6ac4ebe4dde9a2e50: No permission to create phase
@@ -22892,8 +22889,8 @@ f4f1ed4a30e21d342a1a2919e3b361a2: Fork will be executed in the background, conti
 ef784b641b2fe9e9dc1ec77fdacb88b1: Latest Watch
 39f50f601e25622d0a7a05ba3f27435e: Earliest Watch
 3c506e508d303eaff75341ff3b06e842: Language filter
-c95303d4f5ad3d5126016c30dd0b003e: top
-3a9b70eab2686ef3cd0e43c2a35017e0: down
+c95303d4f5ad3d5126016c30dd0b003e: like
+3a9b70eab2686ef3cd0e43c2a35017e0: dislike
 d29c800ecbff769008b293edc595f68e: Comments
 c23bef20cd81b1054a4dac844daf525e: "[Disable]"
 23cc40e03c8e8f68d1e405eeb6c389ee: "[Enable]"
@@ -23364,9 +23361,9 @@ df3c489c1760aa3707b50eb2dd07496e: Repositories I follow
 a98f07c364a8e8a5bf5783ece8d3f729: Login to Watch
 bbfd790b813730e9b05126c2e4072842: Login account
 872145d017f1c1c016114eca23e796be: OpenAPI Login
-2f10cf75a521b62a9aa5b8db21446a29: His/her Starred
-e8c73c8d0c4e624efb53ad262e849231: My Starred
-328e9b306a1591dda2519d843f5f5a59: His/her Starred
+2f10cf75a521b62a9aa5b8db21446a29: His/her Starred Collections
+e8c73c8d0c4e624efb53ad262e849231: My Starred Collections
+328e9b306a1591dda2519d843f5f5a59: His/her Starred Collections
 f124240c90916567cfea37039a77954b: "(Created by me or assigned to me)"
 2e182ade911307ccccea848292aa506d: No related issues
 7bb9b1676e5d12711aad8666b496f67c: Pending tasks
@@ -23387,7 +23384,7 @@ a6f3f9f9992faaf64853b6269510815a: New
 b10d00fcbb7711dc43ec47dbaabf4b25: Operation failed, please try again later
 afdeec6187df8400738840ba94c7494d: Operation successful, have exited the selected repository
 075022013015467a9955d3d66fd95e1d: Selected %s repositories
-e62e38882311c65c88abaa1f78480408: Batch quit
+e62e38882311c65c88abaa1f78480408: Bulk quit
 3c3d78f8e5c0ba1a1de18a7d052e25b3: Confirm quit
 9d45d8943988ae7d91546507317842fd: Right?
 b423e453b573f5e357e5f453f2e3bd30: Are you sure you want to exit this repository?
@@ -23418,7 +23415,7 @@ daa6405dbe73f001983e98d5683d6ea0: Forked
 ee0a4b747f19edc280a40f19087494eb: Starred
 69f56adf86bb059f2c9524b41e0718e7: Synchronized
 f11683f26023c64543f4d797080ee7c0: Updated
-ca0ee5488c2d820b185ff4b0640cc5b3: Batch pushed to
+ca0ee5488c2d820b185ff4b0640cc5b3: Bulk pushed to
 12779709d629c35aa2f9366e247f010b: After binding the account, you can use WeChat quick
   login to keep track of project progress, security alerts, and other important information
   at any time.
@@ -23901,7 +23898,7 @@ d48ed326c755a6b3f4a45284d70149e9: Please login to perform search
 b7de899542a9324c4cf5a18cf9bac229: Search Reviewers
 3067f0908e88d8476a14d08597f14ce8: Search API reviewers
 a5628ccac8acc11883c0f3e40e3aea33: Selected %s issues
-11206cf0299a3dfe86bf12dac9a617d2: Batch update
+11206cf0299a3dfe86bf12dac9a617d2: Bulk update
 c7ed9b1556408088988f7c0169f4c8b8: Enter the description of the milestone here
 d740242006c8c212f283b7949bca88dc: Click to Select Time
 fa175159d4ab875b4ceb3443a45bcae6: Select Deadline
@@ -23975,7 +23972,7 @@ f0790deb111ca7950e25ac8f820d2f74: Selecting this option indicates that this task
   information such as code security bugs and privacy leaks, and restricts non-members
   of the repository from viewing this issue. Please confirm if you want to remove
   this label?
-d5784d4f62a9b161dbca9224b74e9bf4: "、Company Member"
+d5784d4f62a9b161dbca9224b74e9bf4: Company Member
 0b2d0070d23be9d5af4edfafbf3849fa: Maximum of 200 associations at a time
 6e55fb9d8a3dacc1708dbcd943d26e7b: to
 ce7457da1eb083c0348c1f4088a24bc2: Updated title
@@ -24889,6 +24886,10 @@ fc3d93776fada56f406ade62de0618bd: Exit preview
 '08a4437a7b30c42c4575dcfb803a6770': compile
 ba27e42e8291fbcebe47a7359e32e9db: You can drag and drop images into the editor manually
 114ede758da90e9cddf138eb8ee165c8: Or paste from clipboard
+d1378a68e620b1cc3afe2a875ecc0331: Tue
+2961168962be301a6bf9eab963c4be4e: Wed
+572388f3b096b8174a6b6704f43f37d6: Fri
+f9aa11dbb15ce647b9212041c40123e4: Sat
 3e750612b1506eb7af3f585d6d634cf7: Jan
 42d5f1ff3cb96317936eebb4fb83fe38: Feb
 720a8da4588d9c9fc2d3f96c1e108b0e: Mar
@@ -24965,8 +24966,7 @@ f974fe2102b810a993f84e8dc2f4a58c: Description cannot exceed 250 characters
 7816508c15b9ed14eadee20150096774: Cannot modify work item properties
 e83bc2c13bec8a115a156e15710790ec: Text content is too long, allowing a maximum of
   65535 characters
-296cc8555f97cd11a6bbf46f5acc13c7: Up to 5 Gitee Professional Free Version can be created
-  at most
+296cc8555f97cd11a6bbf46f5acc13c7: Up to 5 Gitee Lite can be created at most
 33d5ec347cb3115e092dbe0baad23637: Duplicate Kanban column already exists
 cd4b0a5db3503091c812adef2179a400: 'The following fields have errors:'
 21fd3d8e78abbca6a9a93a581ba3a424: There is 1 error that prevents '%{model}' from being
@@ -26179,8 +26179,8 @@ f8d332855ba076d67826954d32e0e9be: No projects or project groups created or joine
 a7866d74a3e8b7bdcbab56dbdbb76790: 'Recent year contributions:'
 3bbee4a074bfbb349665d9a95efde02a: 'Longest streak:'
 7215b2220be7de32cb2f7e056d05bf15: 'Recent contributions:'
-12f1b39b75554ff9237e4557dfe245a6: Return to personal homepage
-857188805a6865a96837df6d478f22de: Custom featured projects
+12f1b39b75554ff9237e4557dfe245a6: Homepage
+857188805a6865a96837df6d478f22de: Customize your Projects
 414c5f395323ee7b9f7dcc6f2db20534: Custom selected project updated successfully
 cb39b9b5d47983c2d3adbe5cc5ae0e6a: Sorting update successful
 66e9acef0bc59f13d4883f7d62383606: Maximum of 6 public repositories can be selected
@@ -26988,9 +26988,9 @@ d536c35a900f842d44dc6b15879b70b5: Access the home page of the team
 ec8e3ea76e704eba8c455fa58a12347e: 'Notice: Organization upgrade to Gitee Professional'
 37c3f116aa21f2e6c23ee7a5155bdcc5: After the upgrade, the original organization will
   be transformed into a team in the Company.
-a76048e42ff1918c2a185ee4db0993fc: Upgrade to Gitee Professional Free Version (with
-  a maximum member quota of 5). After the upgrade is complete, you can choose a package
-  according to your needs.
+a76048e42ff1918c2a185ee4db0993fc: Default upgrade to Gitee Lite (with a maximum member
+  quota of 5). After the upgrade is complete, you can choose a package according to
+  your needs.
 ced830d1bce2d2d997c47592e94d1b6a: The original repositories of the organization will
   be transferred to Company along with the current organization and the original repository
   address will not be changed.
@@ -27277,8 +27277,7 @@ fb5a40ef14cb49ec9d5c7f18bcd3d9b8: Company %{enterprise} has revoked your adminis
 e17db859ad6959a8a2ab4638c83e7dab: The current type has been used. Please delete the
   task with the issue type %{issue_type} first, and then delete this type!
 74eebd0f95274d2938f3c034a676cc63: Keep at least one task type
-6374e280849be4b2355945c98a977e38: Only up to 5 Gitee Professional Free Version can
-  be created
+6374e280849be4b2355945c98a977e38: Only up to 5 Gitee Lite can be created
 b64d71689754b268cdecd6f900c60d03: 'Registration failed. Please contact the administrator.
   Err Code: %{code}'
 e382a9f838b22685f1d0354a1bfd39fa: Please log in to perform the operation
@@ -28800,9 +28799,9 @@ f1af797d5ba472c359c9386682439ddf: Unstar repository successfully
 2035fbf0a081eee441edfec1c831ba8a: Added to Starred successfully
 d0a21061fad3b33a64696125cbf91d01: All starred repositories will be shown here. You
   can create different collections to manage them based on your needs.
-255c57215576b5de083bc9120918a0b3: Exit batch operation
+255c57215576b5de083bc9120918a0b3: Exit bulk operation
 b36f2554c472d0e79cba156b66ec2e7f: Add to Starred
-d85d61346b0ccc7e85cb61b77e46333f: Number of followers
+d85d61346b0ccc7e85cb61b77e46333f: Most followers
 46ca0c83f49af2b7b82e7a90fac8cbdd: Latest join
 cd3ec823e33606a3942f64f8eddb16e0: Starred can be used to categorize starred repositories
   and can also be publicly displayed on your profile for others.
@@ -28902,8 +28901,8 @@ b32872311c17df98efccbff748e41db5: Incorrect input. Please try again
 05bd8edc34820a4fc26bfd3b02ebe914: The suggestion has expired and cannot be applied
 6080ac9432decbec00eef81d836992c0: The directory with the same name already exists
   in the repository
-be499ccd43a7565b79e4312f146d5b06: Batch application of suggestions must be on the
-  same branch
+be499ccd43a7565b79e4312f146d5b06: Bulk application of suggestions must be on the same
+  branch
 5f5d9ddfe170cfdd4b5816771750daf0: Recommended target file does not exist
 662f951a6bdbd2e4377ec9cb35ace402: The target file recommended by the application has
   changed and cannot be applied
@@ -29052,10 +29051,7 @@ a5e7fcc3c3e9076aebba484621a01a58: Your private token %{description}'s permission
 c5f55e3f2dcdf3067265e1ae9aac0cdd: If you forget or wish to update this private token,
   you can click the button on the right to regenerate. After generating a new token,
   the current token will no longer access Gitee OpenAPI.
-d4735e3a265e16eee03f59718b9b5d03: 2
 cdb4ee2aea69cc6a83331bbe96dc2caa: "."
-4e07408562bedb8b60ce05c1decfe3ad: 3
-6b86b273ff34fce19d6b804eff5a3f57: '1'
 d03502c43d74a30b936740a9517dc4ea: ","
 b7a56873cd771f2c446d369b649430b6: 25
 c3972ccd735419073803fcacedfe2ea2: PR

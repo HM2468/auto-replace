@@ -157,13 +157,13 @@ module SharedMethods
 
   def merge_values
     output_root = '/Users/miaohuang/repos/scripts/'
-    yml_path = output_root + "output/yml/en.yml"
-    json_path = output_root + "output/json/en.yml"
-    yml_hash = load_yml(yml_path)
-    json_hash = load_yml(json_path)
-    res_hash = json_hash.merge(yml_hash)
-    write_yml(res_hash, json_path)
-    write_yml(res_hash, yml_path)
+    en_yml_path = output_root + "output/yml/en.yml"
+    en_json_path = output_root + "output/json/en.yml"
+    en_yml_hash = load_yml(en_yml_path)
+    en_json_hash = load_yml(en_json_path)
+    en_res_hash = en_json_hash.merge(en_yml_hash)
+    write_yml(en_res_hash, en_json_path)
+    write_yml(en_res_hash, en_yml_path)
   end
 
   def read_ch_files

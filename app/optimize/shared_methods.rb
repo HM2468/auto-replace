@@ -164,6 +164,13 @@ module SharedMethods
     en_res_hash = en_json_hash.merge(en_yml_hash)
     write_yml(en_res_hash, en_json_path)
     write_yml(en_res_hash, en_yml_path)
+
+    yml_missing_path = output_root + "output/yml/missing.yml"
+    json__missing_path = output_root + "output/json/missing.yml"
+    yml_missing_hash = load_yml(yml_missing_path)
+    json_missing_hash = load_yml(yml_missing_path)
+    res_missing_hash = json_missing_hash.merge(yml_missing_hash)
+    write_yml(res_missing_hash, yml_missing_path, sorted_by_vlen: true)
   end
 
   def read_ch_files

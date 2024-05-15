@@ -3581,7 +3581,7 @@ fb8adf13d39a332300824e036c2c57ec: Create and continue
 596cb413d92fd1d5946ba06eb9be98e0: Confirm settings
 e9d5ca6c140665da49176f67dbd3678b: Back to list
 053365d7a0ee9c30217cf2a53c2056dc: Repository has been moved here
-8c84e205a562d93947276cdf57e9803b: My Responsibilities
+8c84e205a562d93947276cdf57e9803b: My Duties
 151d712244a2b9250942939a4e1a8663: My Participation
 324d4a921d44065694bc05461841a2b4: Starred
 84f9e251ae6d455426ae9e0db8063eb8: Forked
@@ -6930,7 +6930,7 @@ f8b5110355ccbf8886cc3c1ebf0d361b: This repository has no fork repositories withi
   the company, but there are {{count}} fork repositories outside the company.
 d89717ce3ab80680a2b0324b4308f435: Forked repositories ({{count}})
 c4d7c8e56493b58afad13a1c8dafc526: 'Fork: {{count}}'
-febd5f146141b8208ac5563f7d30052a: Import repository
+febd5f146141b8208ac5563f7d30052a: Import Repository
 47edd46e989dbaea48307cd410858b34: Import repository Work Items
 1dc4f3070ee0c71dcfe22790823bb71b: Import repository members
 a96c3d9c3d29eb1227cec1ec937abd5b: Import repository milestones
@@ -7011,7 +7011,7 @@ f027535a09df9eb317dd3fdab4ce4fde: When enabled, allows users to add a risk flag 
 38774d86515083ab124bbee5818cbdf9: Application list
 0722f6dcfb80b9a43117c1817888a791: Apply to join Company
 5961a7938f9180c983166d6a7aea04cc: Approved
-1e9b3dc5ae015ce6275f03a6fbf32c17: Belonging
+1e9b3dc5ae015ce6275f03a6fbf32c17: Owner
 3ade912928e4d31ee602d8dffee70df2: This repository is already bound to BAE deployment
   public key. After unbinding BAE, this public key will be unbound.
 4f5522f675cf7a087273b3b1900b6c38: Bulk approve for
@@ -7168,7 +7168,7 @@ fe0c054c7e3af252fd4387e59676170e: The current project has been selected for <1>G
 3e0d676d2d85073dbdf636d1e132dbbc: Home
 38cee49662f3da9b1ff2eb0389815c80: Rule not effective?
 1112d39190b8a23d05187a132c53f319: Initialize README.md
-66a66f52a2b114b54638c45bbc1338f6: introduction
+66a66f52a2b114b54638c45bbc1338f6: Introduction
 1f1f5381ba42faf41dd938b8b3ebe044: Invalid address
 265789f85c0b77b1577c5425cebe1800: "(If the user you want to add is not in the company,
   please click <1>Invite to join the company</1>)"
@@ -7234,7 +7234,7 @@ c33fac4f551e34fecf004e26a072efb0: The path can only contain letters, numbers, un
 e3159d85e245134ef6cc4d337bd56eb4: Pending requests
 d7655de2878fb10b0811bcf012aeff80: Open Pull Request, only visible to administrators,
   reviewers, and testers
-6891efa1e4185db9786a6ae730d1815b: Programming language
+6891efa1e4185db9786a6ae730d1815b: Language
 5a39820034d2eb14f8ecc5731f028fd6: Repository attribute changed from {{oldName}} to
   {{newName}}
 1ce2c79902457c923afb26bd69ae006f: Review mode
@@ -7395,7 +7395,7 @@ d5450726c358ecd70e7de7ef335a20d8: Merge
 eed37f9ee8a1eb0f4f61f01ef63e3458: Repository group hierarchy reached the limit
 da9dd3a7149f334440d90de0a7b0f83e: "{{type}} Repository ({{count}})"
 311bb313fdeca6aa2ce7d9415821a0b0: account
-c29af1e34c49f87a5a31b7bb8f5778b8: Added .gitignore
+c29af1e34c49f87a5a31b7bb8f5778b8: Add .gitignore
 8e918dc8e37ff8eef60f19c83267c5cc: Add open source license
 26bff7125c631192e8e8ced4fa1d5842: Cancel import
 33fe6a8751b6e820ddbfdae3d04a50eb: Select repository members
@@ -7487,7 +7487,7 @@ d8c66bd5a20915c7e80d1560c85548bf: "<0>Synchronize Wiki <1>(the Wiki of the curre
 be9472b253a8a2059c6ecbcb3256db17: Currently using Company{{entEdition}}, this feature
   is only available in Gitee Professional Paid Version.
 81271273509fbbd968ce3c818f4a4dcb: Unfinished Work Items
-59b0ef0aeb7d362dde341bcf3ef74bdc: Please select an open source license
+59b0ef0aeb7d362dde341bcf3ef74bdc: Select license
 e4071bc35cd8ebef16961a9cab4239b2: Select programming language
 a6dcfe4e5bc2a967823210b7857c8c76: Select associated project
 24e8c2fbf2900342b8b9c3535f09d4cf: Select repository members
@@ -7518,9 +7518,9 @@ ed2ee65d532f10ad43f0c9c39a344d64: No more options
 a4f1f73539d34a12d43bb5aecebb5096: Public Key Title (key)
 0a16a6f1457b2f5eda493f14814bc06f: Suggested within 30 characters
 b8f15b1ca7769f67457b0c270abb33ac: Search artifact repository
-9c8bd1565def7849c60aff1a238da818: Search Files
+9c8bd1565def7849c60aff1a238da818: Search files
 1b4b02ea6588bf23e0cbfbb52059f101: Search variable name/remarks
-cdf4eb756c6deae94411725bbdefc50f: Please select a .gitignore template.
+cdf4eb756c6deae94411725bbdefc50f: Select .gitignore template.
 8f5f9ed68803902df47c07d66495d1f8: Briefly describe this label
 ab559689cd9f871a2662986960930f7a: Please select or enter a branch/tag/SHA as the starting
   point
@@ -7884,7 +7884,7 @@ ea7c84e23366c10765bca75a484603f6: Mark as read-only
 a385562b86d434e9887ff36b1ab997e1: Marked {{path}} as read-only
 65e22e8f66d1e608ab90f7f89cb99815: Create branch
 aaad5f2e1bccd885abd8741f8c6f451c: New branch name
-6ddd1eaccab127dea6a863341bfba4ac: Create File
+6ddd1eaccab127dea6a863341bfba4ac: Create file
 7f7aa2b59ed982571989335e4f2ad863: Enter / to create the file under a new folder
 3c714268b2790874c6f810140a7955e1: Create release
 b3ec50f26234c0ab189c0de4bc52a73c: No branches
@@ -7913,7 +7913,7 @@ e4c61c7de0a1505ea2cda0a248df923b: Quick setup - If you know how to operate, use 
 5dd3f9523ea7dfaf1aad6ced9a53e088: Read-only branch
 9a085e58f624b643d079fdf556c3e32f: 'Read-only branch: No one, including admins and
   owners, can push code. To push code, set it as a ''Regular'' or ''Protected'' branch.'
-e0e704b3e86008be502b38d2f4907b14: Release
+e0e704b3e86008be502b38d2f4907b14: Releases
 55d790a99e02fc5830186b6454e944b7: Only follow version release updates
 842dd18c71380bf88d352cc1566ad671: Receive notifications when there are new releases,
   participation, or when mentioned with @
@@ -7949,7 +7949,7 @@ b752ba3c1c1d775106d0b41e3aa6d8f0: Unfollow
 8d4f9702c5614e38a6b02111c4ecb1c3: Receive notifications only when participating or
   mentioned with @
 96a0f9942adcb61d35c47d67900fde2b: Update information
-bb5caa9c59767eb864f7427cfffd36e7: Upload File
+bb5caa9c59767eb864f7427cfffd36e7: Upload files
 cfd601d1c733b6381f4b9f2de08cb9b9: Verification is correct, selected a non-release
   version tag
 5c4f8c4bf4c73eb8b7a5166784c1c03f: Choose an existing tag or create a new one when
@@ -8817,7 +8817,7 @@ ec6184d6c59ee7880fa47510dff343e4: Not your certificate? Click to upload again
 11afd2a534395b181392145ea7dd3441: Valid
 3078e9cc03b862990e1439545a1b22da: Informal
 3af18b340c2eaba9530e9b32a175a4f2: Creating Company
-bf09dcda8157ebeac94309bba96c6061: Name
+bf09dcda8157ebeac94309bba96c6061: Company name
 a4ee04baec0a695f30fd03ba9a504d23: Supports only 2-35 characters
 552dde672899c75cac759c8b830c4279: The Git repository URL consists of the (Company
   / Team) namespace and the repository namespace.
@@ -9075,8 +9075,8 @@ e35d97378d10cbe37a7768bee233f05d: Personal information modified successfully
 2283816fab0382893562a57ea317ac6c: Please enter consistent passwords for both password
   and confirm password
 38e0922477e443beb0bba708e9df310a: This modification only applies to the current Company
-5466dfe77996102e2f00fc5eaee231a5: SSH public key
-a8b1eb553dc606936b15608c3ae4c3b6: GPG Public Key
+5466dfe77996102e2f00fc5eaee231a5: SSH Keys
+a8b1eb553dc606936b15608c3ae4c3b6: GPG Keys
 26ff2ab94e4afc1ae76007978d887ce9: Remove {{keyName}} public key
 a3ecb6759606f81189e8fe6d625d2739: 'Your current public key count: {{count}}'
 ab24819fef70070d8bc84a64f545c898: Revoke {{keyName}} public key
@@ -9144,7 +9144,7 @@ bcf80791f433396813db95c6bfc1d66e: Please enter a valid password
 c70dde7e6bde69dd8a6e71cfc4b08749: Set as primary email
 94b1dfacddbd3a8e2c42104155d4a1e1: Set as submission email
 7c8886e62374e6ecc3708e7d564d9aea: Delete email
-af42947364e88063a0ea70da1152dbb7: Email management
+af42947364e88063a0ea70da1152dbb7: Emails
 89960a5bc0859b0f8a8535e829434e49: Add binding
 1f2d34cc9dafc822d0a95252276d2535: The multi-email function is used to manage and control
   the email addresses associated with your account and related features.
@@ -9698,7 +9698,7 @@ e83654164a44f7ebcbe11abddf6d6bf9: Name cannot be empty
 b32424ffe76f9144decd75c0a8a5e410: please enter the verification code!
 3b91d186d44ec881a076550ee8ef087d: Get verification code
 2418f13213789a8dae24e7f70d08c599: public repository members
-eba1e5a73d196254f8ddfe37f5e3b058: Private repository members
+eba1e5a73d196254f8ddfe37f5e3b058: Private Repository Members
 9a1b24df1b37ce2ca7e0c26146893132: waterfall, scrum, kanban
 932c63c27ead1282364fcc8aa60714ea: basic functions
 4fd9f20e9be4315d3a2992838a2122fc: security, standards, automation, etc.
@@ -9900,7 +9900,7 @@ d073d2d7e4bdda4af3aa269fe57336e3: I acknowledge the above situation and confirm 
   cancellation of the current Gitee account
 cd81bed95a9543e87bd4e486e7485b48: An unexpected error occurred, please refresh and
   try again
-cdc931b12a561a6d1244778624ed3ada: Code snippets
+cdc931b12a561a6d1244778624ed3ada: Snippets
 50d451bbb4f3263fea00520926ed0af9: Search in the entire site
 9fe1d0c9cca3bd060cbeaf5a64c6f0e8: Followed
 85a3bd8a720379680404cb3bccf37704: Unfollowed
@@ -10010,7 +10010,7 @@ ec5a662669617440f5b7c0088a5ac563: Exit repository
   later
 6bbed4216327a2fe833b300a6f2846f3: Protection Rules
 f7d88b67cbc20e67a36a0533b5c25d9f: Mine
-af6f55697f523c4ccb93f82c616204f1: Pending/closed
+af6f55697f523c4ccb93f82c616204f1: Pending/Closed
 1671ea188e65ea76967ac5a93e11c56f: Try Professional
 a2132cf64dafa86f77e21ffafa45a4c0: No Company Available
 12dc06731a5d722407137764774175ea: You haven't joined yet
@@ -10019,7 +10019,7 @@ e770265dcc19f64a61d0fc33d15bcd95: Learn about Gitee Professional
 8363ecbaf48ca421af297688a473786a: Create Gitee Lite
 2dd47fcd26d713991298ba8d7c0149d4: Organization ({{groupCount}})
 16b33d44ea3a59e8e177397554a9add2: No Organization
-dcbf3f53b01e66a2f10682784c29c6d6: Publish code snippet
+dcbf3f53b01e66a2f10682784c29c6d6: Publish Code Snippet
 d5683d39b599fb0ba22efb0a2f730d66: Private code
 eb137dee4c0aafccd798e1c3f323fcdf: follow
 4e56466fff3246af1954548d02feffc3: GVP - Gitee Most Valuable Open Source Project
@@ -10086,8 +10086,7 @@ c614b62ee410c5c80d9974225323f2b5: Removed
 d73bfb4b516bda1d9cd5c6a892f24ecc: Forked
 30d98cc3cd3ca1db0e4e8127b98b6a29: Gitee Education Edition
 3ef2a380fa3f4c5c52bdfd632bcf009c: How would you like us to address you
-aad644097378fb918f978a503ed6f7a4: Please fill in the full name of the Company registered
-  with the Industrial and Commercial Administration
+aad644097378fb918f978a503ed6f7a4: The full name of company registration
 ceec0e21829d64d5dadb4a6dc391d3ae: School Name
 a4b08adef39af01f29dc51ae67dc8222: Please enter the full name of the school
 e5a5aec4bc610fabebbbe7cf890230bf: Contact phone number format is incorrect
@@ -10910,7 +10909,7 @@ cab26ff653824d44462f7bbf949249d4: Support multi-tenant mode
 0a59192e915c4ae96734ea2d06db1f92: Local data backup
 e72c3da014d9c75e45f127f8fb6dacc0: Unlimited build duration
 eb410ee7022a13a6a4470ae86aef0544: Contact consultant
-0e97960761827eb4281f911aad23a560: Open
+0e97960761827eb4281f911aad23a560: Create
 d59608d2b183ce93c9181b10ede81a8d: Support Full Process
 9b4cd638f5f428ca6303142890c66006: Localized Deployment
 5fbcc691129acee22d48927ed22c0e0e: Deployment Advantages
@@ -10953,22 +10952,22 @@ dcea1cc1b832b884ad7f40d0f1f04f4c: PR Supports Linking Tasks/Requirements/Defects
 50f3414c6773f70dcce2f7fdcc7c1249: CI/CD (payment based on duration)
 7c5378606570020b0f1ef4c1989fdaf3: Not Supported
 d93373f81363e3cc82f2350f4d7412b6: support
-797c0c6bb3618e329d72477e01baa772: My Messages
+797c0c6bb3618e329d72477e01baa772: Messages
 44d36735fde5f5760224ac199747f5f1: Account Management
 16cd4c36537d3a14445c3401f3ed81b1: My postal address
 bd00dbecae81bd22bd13829e698cf00b: Code Style
-c7e1a88849350cb0bc0d9e7eb279a192: Repository preferences
+c7e1a88849350cb0bc0d9e7eb279a192: Repository Preferences
 1ff158010764c0aa5512bd021526427c: Recommended official
 222b01b1379baaa4e50f5c0ca7fd1fc9: Promotion Overview
 911d6bb9fd9058ede2fd6b90065762ff: Associated Customers
 1b8112162013703e304f04dcad448813: Commission Orders
 d93daeee113c00f2a656f92c4cd8c491: Invoice management
 9bb882c6229ac143d2c048dcd36be34f: Data Management
-b4398761a0acde685ea5954f71776fd3: Repository space information
+b4398761a0acde685ea5954f71776fd3: Repository Storage Statistics
 3b9767c10ced0c83cafef25d0e5613cd: CLA signed by me
 9a0d34bdb5651d55eb62fa463c4d2e98: Third-party applications
 1af8a91b5648b61008310d102863e106: Account Upgrade
-f734fadb2179c6bfe66768113bd78987: Upgrade to organization
+f734fadb2179c6bfe66768113bd78987: Upgrade to Organization
 3e934f6462f39c825974bc2c8fba6aee: Upgrade to Professional
 cd9fb60fdab2860a780ec040dd75ae27: Donation Management
 6f3c8011b0eb0880f6c676bc96688631: This is a educational repository
@@ -11055,8 +11054,8 @@ aabd3c043510967e20dad90870b66f5b: You have {{blockRelieveLimit}} chances to auto
 36ed61d26445664d35bc8865b97faf10: I have understood the reason for the blocking, confirm
   the unblocking, and handle the repository slimming as soon as possible.
 90d4d7721d185487fd268a4d6773b7bd: You can <Link>click here</Link> to view solutions
-ee34c74d32e7548ade01257c1d10f46c: Recently Created
-18cdb80e03f0c4043e8b73ee698d05a7: Recently Merged
+ee34c74d32e7548ade01257c1d10f46c: Recently created
+18cdb80e03f0c4043e8b73ee698d05a7: Recently merged
 ec8b3722a728466080e28f79419e3793: Reviewed By Me
 66faf426cb2b00b6c70bed868d6d0f7e: Review
 1f88026d6c9f884ad49207a82e66c818: API review
@@ -13375,7 +13374,7 @@ a8a632dfe5b5853f926c4f4331486203: Failed to join repository, Company observer ca
 ac00d541c0429c0ce48ce7ac87edf64c: HTTPS certificate has been updated
 6e3f9feef0d1f12595fe3db5787220fe: Gitee Pages Pro paid service
 0d08d2f352ea836f153233b2e8fb6f42: Cannot create Pull Request as the target repository
-  is in a Pending/closed state
+  is in a Pending/Closed state
 34dd07871f35640382970e686b240d24: CherryPick operation conflict, please handle it
   locally
 0ab02d23fef9ab38daec3511c21d7705: User feedback
@@ -13519,7 +13518,7 @@ a4e3e3a68ccb2b17a2683abf2dd026d5: 'Your Gitee Professional <%{name}> capacity ha
   assistance, please contact 400-606-0201.'
 dc126185eeffccfac16436478144f8a8: 'Purchase more attachment quota, you still need
   to purchase: %{enterprise_used_attach_spaceattach_quota} G'
-8915c00ec27e2f7efe1d9c7b1589792f: 'Buy additional repository space quota, you need
+8915c00ec27e2f7efe1d9c7b1589792f: 'Buy additional repository storage quota, you need
   to buy: %{enterprise_used_spacespace_quota} G'
 bffba9b219ce4803c3111530d7e99dc0: "(%{creator_name}'s exclusive promotion code)"
 433607fe7956f421f34d8788b75ad3da: "-%{amount} yuan"
@@ -13775,7 +13774,7 @@ bdb8c4b50d0ea887823d40381e18c590: Administrator changes quota
 2904704d852d4ca4addb4b24b66619a9: Downgrade to Gitee Lite
 a713c7a04686e75de8207526da8db84a: Personal upgrade to Gitee Professional
 2a530552db6e65f6beefcf608cd0d24d: Personal sign up Gitee Prossional
-27fdfe1ffd1949cb7fe8d4380b6466ee: Personal upgrade to organization
+27fdfe1ffd1949cb7fe8d4380b6466ee: Personal upgrade to Organization
 d0629de25babd85eb31a2c38018f2f82: Invite Discount Code
 34baed78df16354140f1e0aab0dc6051: Approval of the Education Edition application
 0f282d93d0c5d37c694570ebc7070aec: Automatically upgrade to trial version
@@ -14344,7 +14343,7 @@ f148376a59156ed42528e2ededca9bc4: Milestone, iteration management
 b67c5f83f7c31f9076f7da85bbef7d37: Support unlimited-level directories
 d9aa4c856224830f029873ea3255e366: Export Document
 1ee125bbf2da710f7f014377ce256467: Support unlimited retrospective of historical versions
-d870a31beb89eb28e2d65a5c931a5a1b: Upload File
+d870a31beb89eb28e2d65a5c931a5a1b: Upload files
 f3c5fe4dd2dac485f6180f15e5ea0c75: Preview File
 afb63a620bdcff15d8cd88695b46731c: Security
 4f005b65fa95bba28396d74f88318c2a: Sensitive operation requires two-step verification
@@ -15613,7 +15612,7 @@ c49867fc468335a5f423daffa947733f: Add Report Type
 8ab4d34f1dacb3b0da88884f28da8dc4: Bulk change status or remarks cannot be empty
 e2c889593d3758cee430803097b577af: Unblock
 32991f0bc9111b2e1263788167b3dd94: Cancellation reason cannot be empty
-4ffb831200baa50562b55c915476e6ac: Belongs to category
+4ffb831200baa50562b55c915476e6ac: Category
 c4e3a956cb28b141dae7f2b880029718: Edit report reason
 9f6cf6fca365bc271a249cd1fae1aa5b: Create report reason
 a0fd5d9c9b0ca532e6cc8f6e6f12baa6: Please enter the reason for blocking this user
@@ -15836,7 +15835,7 @@ e2296b4fab9a26e03061e590ff272e87: Number of service months
 d38ed5d95c59fb6536672dd4d1c980fd: User quota
 6d375423506a738bd85de286172e9a97: Observer quota
 26dea9b0c74d665dd57b13afde83b505: Single repository quota
-cc98404bd1b6287670e5376d391a98ea: Repository space quota
+cc98404bd1b6287670e5376d391a98ea: Repository storage quota
 bc48a3a2fd9d9beb2781d2ca1298083f: Attachment space quota
 90197ff3ec3bfba6cfde5a25f725ce44: Single file quota
 d2d2fd7a7b0ca9231316be496930ae5b: Git operation concurrent quota
@@ -17200,7 +17199,7 @@ f16653aa08a75887a67e4e7ee42f84c6: Close Issues
 ed449e9a5e965b17e81c9a474a1a7b25: Close Pull Requests
 aee57fdeb0d8f4bf4ed335fc3c5b2996: OpenAnolis Dragon Lizard Community
 35e6c4dcb4bf0bf067e4ff3ff1002c85: Linux Foundation
-444670580fdb66635cdb616a1f6724f3: base/account/SSH public key settings
+444670580fdb66635cdb616a1f6724f3: base/account/SSH Keys settings
 b01408978e29cb131c0a132373b6aef8: " Gitee ,Gitee,Gitee.com,code snippet,square,gists"
 6d2efff08e3275e849af45bb97346489: November 1, 2016 - November 30, 2016
 7d7cb082e394ad29e0c639573818e97f: Invite (code) friends, get G coins continuously
@@ -18150,7 +18149,7 @@ b5248f1f4a1da3a2ff621f057b32faec: Advanced function management
 7fe8603c084eb991ef6410f808986298: fee
 169f31d39465c05c589dc55aae4e30b0: Member Quota (People)
 810317cd392c27c3d96d854ae95319b0: Observer quota (people)
-4f125206cba523eeb7ebca02cddbbb78: Repository space quota (G)
+4f125206cba523eeb7ebca02cddbbb78: Repository storage quota (G)
 a3522d90c9aef6b86eef40225acc3972: LFS space quota (G)
 9b134497a45a365330beb1bd5498e143: LFS single file quota (M)
 929cc0805a22cfb06cbf8d0c7e849171: Attachment space quota (G)
@@ -18161,7 +18160,7 @@ abca49ccea83b9aa31abffd3ff392e94: Please state the reason for this change
 375181cf84765b7b6e2b776a4d1c5e3d: Change method
 d86efd0a2fc9d2a03580da112d86425c: Members (people)
 f4408697bcccd74607fe4f749803eb2a: Observer (Person)
-c7217929daa63e9ac1d5681e15b2a2be: Repository Space (G)
+c7217929daa63e9ac1d5681e15b2a2be: Repository Storage (G)
 0a80308d5b20c5efa681c5b6f943b7dd: LFS space (G)
 aba5bb41f5f511b55ca13808be46c1e6: LFS single file (M)
 ad994f5479ad47a1b0d3ff9025eec14a: Attachment Space (G)
@@ -20731,7 +20730,7 @@ f9ae57498d2f6fab82e4f7218ad290e5: ID of the release version
 90c1e6e59d9da8d9c62e14fe76dc0ef5: Get the last updated Release of the repository
 9c7c26ce6bc75535499f943ce431ab67: Get the Release of the repository based on the Tag
   name
-25deeae9749a009db8b7e3740be5f15e: Create repository release
+25deeae9749a009db8b7e3740be5f15e: Create release
 11b0566e3e878e60777e907b7f8c0187: Branch name or commit SHA, default is the current
   default branch
 a21fbe619b79574656442ac35b7bdb21: Update repository release
@@ -23001,7 +23000,7 @@ e367f53aeadf33cbfeaa174de7d10231: Rename failed
 3c57cec57699140ddcb974abc1a459bb: There is a file with the same name, please modify
   and retry
 f25c26da2c791647a02ebe62bae1f321: Submodule
-db1d5a29b2dc27d121ddff189959c665: create submodule
+db1d5a29b2dc27d121ddff189959c665: Create submodule
 f238ca98ea556f36b257b8806af89a08: Update submodule
 cadb102e54a91b34e6a625402b542d5f: Submodule update successful
 9990352e00d00b497d6e677bba009415: Create submodule successful
@@ -24212,11 +24211,12 @@ eac5794d1f6372d90afe122bcf63e7af: This tag has been blocked, try another one
 d2b2cc49fb17a76c8008da65ebf872c8: 'Blocking reason: %{reason}'
 82f88095ec0c732e57c269ed2e803356: The repository has been blocked and cannot be accessed
   normally
-c0df86f32681d25eae3ffd477a904895: 'The repository space size exceeds the quota: #quota#
-  GB. Please use Git storage reasonably. You have #push_times# chances to force push
-  code for repository slimming. For slimming methods, please refer to: <a href = ''''https://gitee.com/help/articles/4232''''
-  target = ''''_blank''''>Help</a> or <a href = ''''http://gitee.com/enterprises''''
-  target = ''''_blank''''>Upgrade quota by purchasing Company service</a>.'
+c0df86f32681d25eae3ffd477a904895: 'The repository storage size exceeds the quota:
+  #quota# GB. Please use Git storage reasonably. You have #push_times# chances to
+  force push code for repository slimming. For slimming methods, please refer to:
+  <a href = ''''https://gitee.com/help/articles/4232'''' target = ''''_blank''''>Help</a>
+  or <a href = ''''http://gitee.com/enterprises'''' target = ''''_blank''''>Upgrade
+  quota by purchasing Company service</a>.'
 7bd4c17bf6e84ec7a77734ff7dc84d0d: The repository file has a large number of external
   link access requests. Please use Git resources reasonably. Please contact the website
   administrator to unblock it. After unblocking, please reduce external links or delete
@@ -24254,7 +24254,7 @@ dede6d0489581769fdd6da0f7e6d4892: 'Closed status: Repositories inherited from Pe
   repository status
 86ce90c93d733f684406c18998105f94: Repository status functionality usage instructions
 5ec6988e9db0475d629d2f87bc1a5dca: Operation cannot be performed on repositories in
-  Pending/closed state
+  Pending/Closed state
 95aedc81839f7066b9bb7eebf2fc016a: Organization space address only allows letters,
   numbers, underscores (_), and hyphens (-). It must start with a letter and cannot
   end with a special character
@@ -24285,7 +24285,7 @@ fcf3ac28b3452cd250f9ea0d7ab5c409: Select up to %{max_number} tags
 3dd7aacb3c8a9697ff17651c4b97b334: The item cannot end with .code
 9c7625df0a98d703724b3fbef42c6aa7: Repository introduction
 ebf2d799ff7a6674ee8f2137aaf094b7: Optional
-c820734ddfa88126564bcd258005819f: Please select language
+c820734ddfa88126564bcd258005819f: Select language
 c30b302a8c95a9ff6383e746bcf8bd43: Open source license
 2b5091dfe3178b0b4e81e59bcbb14be2: Is open source
 a56831c397d8abb6089c43ae6b158031: Initialize this repository with a Readme file
@@ -24390,8 +24390,8 @@ f56e28011bbf5eab49922274e21f00fb:
 7baf7590aa51a84da28268dbc78fa6dd: Modify Account
 '0036294b90586e44747a50ac0060ca96': Avatar Modification
 75dd8e482b294539b1e5241e8c54bd88: Third-party account binding
-3d9fea6651940e90b7822cfd9abf6f39: SSH public key
-06d02c063f918a42f61718c33b0e7b8b: GPG public key
+3d9fea6651940e90b7822cfd9abf6f39: SSH Keys
+06d02c063f918a42f61718c33b0e7b8b: GPG Keys
 31220d5bd226e4e367e549dcbb5f8a49: Upgrade to Gitee Prossional
 ced0521ce6755c15bb8415a9d439e642: Organization upgrade to Gitee Professional
 cc4453b7b6f40e22e9ba206f68e5b6bf: Upgrade to Professional for free
@@ -24592,12 +24592,12 @@ d8d8d402951f474ede0707ba164e4403: Click to bind Huawei
   Please upload an image of size 800×800
 7234767042812a9e923a49a6f7270ac4: Preview/Save image
 fd9c92ef2fc1c9873aa2f04f47526608: Image Preview
-7593b9b2d948fd8ccdfb1ec490d11cb3: Using SSH public key allows you to establish a secure
-  connection between your computer and Gitee when communicating (Git Remote should
+7593b9b2d948fd8ccdfb1ec490d11cb3: Using SSH keys allows you to establish a secure
+  connection between your computer and Gitee when communicating (Git remote should
   use SSH address).
-842ed93baa18c8e69780a6767c932b43: 'Number of your current SSH public keys:'
+842ed93baa18c8e69780a6767c932b43: 'Your SSH keys count:'
 76d76ed548a8e190b71dec023fa0f2d8: Added on
-8df97b6ee521b2d664e66788d685c5f4: Last usage time was
+8df97b6ee521b2d664e66788d685c5f4: Last used was
 3228b9da197e7fbd8dd8e27b31669976: Add Public Key
 367f85544f88f221d3b2052738c5998f: You have not added any SSH public keys yet
 3d8196bd1164654e47d043ff544de945: You have successfully added SSH public key
@@ -24607,19 +24607,19 @@ a420123cc800c35d30d81d73cb3ccd4a: You do not have permission to add SSH public k
 60aad318fd95522765f95c31d11d0140: SSH public key does not exist
 44d0086ab2307f743e865a03e4f1cb91: Public key title cannot be empty
 2d6dd40612aef6ffcb125f058befc8be: Public key content cannot be empty
-ae351d9afcf353ef37dd4b8d95710bb5: SSH public key management
-aabb505910e5a9bcf3565dfcaa0250c6: Add SSH public key
-22453969fca80cd46725a7184be60576: Update SSH public key
+ae351d9afcf353ef37dd4b8d95710bb5: SSH Keys management
+aabb505910e5a9bcf3565dfcaa0250c6: Add SSH Key
+22453969fca80cd46725a7184be60576: Update SSH Key
 626935405cce3684b3ffab33bd3e2a6b: Current Public Key
 2b9001c36296c5a3849144dfe56ad882: Public Key List
 bde6a9aa11477f14a24b52039e0ad997: View Public Key
 b8b99661d13f779b84ce84333a91b0cc: 'Fingerprint:'
 5fec7d34fd1e49d3fc7c1cf6fcb2a00c: Public key does not exist
 ba504d0c1624647f46602b186bd71d58: Already exists in the repository
-'09e8c50171a645d0d2905be2aa4eddf5': Add GPG public key
+'09e8c50171a645d0d2905be2aa4eddf5': Add GPG Key
 341c02d8e943652f4ae51f8a86a93616: You have successfully added the GPG public key
 7302546f0775fac5e6caa0ccc4509ad4: You have successfully revoked the GPG public key
-2ee0b07354df2af96653e307ef08cca9: 'Your current GPG public key count:'
+2ee0b07354df2af96653e307ef08cca9: 'Your GPG keys count:'
 7d8e811fbac88d3f2b0ec5d6c45e38bd: How to generate GPG public key
 81dc41de9334ac0ec32f9fca94aceb97: Incorrect GPG public key format
 db24caff583fe11acc6cae14e66c2e99: You have not added any GPG public keys yet
@@ -24632,13 +24632,13 @@ b7c65b6853221de932b5ebcdb2a3ffef: You have successfully removed GPG public key
 1c996282f280124322a9af41a5e9ff68: Due to the time difference in statistics, there
   may be a delay in volume statistics for some repositories.
 2236ea1dd5a3f5ffd3b7c56b94b80dfe: You have not created any personal repositories yet
-ecb938ad37337f6f1fd87e1e340e101b: View the space usage of all repositories under the
-  current account
+ecb938ad37337f6f1fd87e1e340e101b: Usage of all repositories
 8dffa470c074d71ef59f7bbedf302ada: Used %{used_size} / Total %{total_size}
-b0292c466fe7c1ed06ebea9414cfa164: Current account repository space overview
+b0292c466fe7c1ed06ebea9414cfa164: Repository Storage Chart
 aba95d5e09a772e89ec7c98d19df192b: System Blocked Repository
 37ac171c052ad50bc564378bbdd48e4f: Space usage
-ec9c7b4d2cfe6e44d47c41449feb0840: Failed to get repository space usage overview chart
+ec9c7b4d2cfe6e44d47c41449feb0840: Failed to get repository storage usage overview
+  chart
 5483a223311707970152aef085f92f5c: No repositories that meet the criteria
 635708e652b786a8633405e290cc77fb: 'Used space:'
 a1a7cfb8af74c5543b90bc12ef9cb320: Occupies total space capacity
@@ -24683,11 +24683,11 @@ c038ffeba7eb5cef90abc4ea5477db62: Failed to remove valid tokens of authorized us
 9a54c69e194711a6576144d9848f4ab6: If you encounter problems with withdrawals, please
   call 400-898-2008 (press 0 for human service).
 11bc9b3a8be2b2208a3f1e7764713ad7: Upgrade personal space address %{username} to organization
-abed16197443d42ac1ac9e8d06163201: Notice for personal upgrade to organization
+abed16197443d42ac1ac9e8d06163201: Notice for personal upgrade to Organization
 949f8f96a82871177c8e52c30687285b: After the upgrade, the repositories under your current
   personal space address will be migrated to the organization, and the original repository
   address will remain unchanged
-34d5771eb313e0e503c246c1c642a941: After personal upgrade to organization, the original
+34d5771eb313e0e503c246c1c642a941: After personal upgrade to Organization, the original
   personal space address will become the organization space address, so you need to
   set a new personal space address for yourself.
 dc15b314e05a50b61ff63f9063ea7d6b: New personal space address
@@ -24734,7 +24734,7 @@ c760b22ab9150d088351c0dcedaa48f9: User limit
 '09c0688d11cb74ecdd0b2d1c7fbd10fd': Click to view detailed operation help
 b5d8778e1794622fbcf23e78274d1bd4: No members in private repository
 717b655556dc4df909b42035ce0ef456: Non-organization member
-910273d3da7f59b7024ec8c89f5451e2: 'Participate in repository:'
+910273d3da7f59b7024ec8c89f5451e2: 'Repositoy participated:'
 5f2fb02e01d8b8bfebc1aac639dec278: Remove all
 96e65a7060d0e878d8784ebb6ac0df1d: Remove this user from all participating repositories?
 b00d90d00a08c143aedf3dc01d5ac91b: Please bind your phone number first
@@ -26056,7 +26056,7 @@ bf8962d5e84b95bbc23774a5a38d7fd1: File is empty
 d8babdb4ebca2c55678924608d253553: If you need to upload program distribution packages,
   etc., you can
 bf3685f26e866c3f4a629dcb54e6b22d: Add attachment in
-9b2aaac403914ae2a41e5613ae37cb84: Release
+9b2aaac403914ae2a41e5613ae37cb84: Releases
 4fd5cb7a35bc486f886cea95af62404b: Only Company repositories, GVP repositories, and
   Gitee recommended repositories can use the attachment service
 83d5d113f31c0f8bd93a683f7e5e42e4: The attachment feature was upgraded on February
@@ -26697,7 +26697,7 @@ cc957f3a21a82cf2d13c87f8e6afad9d: How to speed up the import, you can <a href="h
 2a711c8c73f8e0227a10aeea121f6e96: No permission to pull code
 9f3ed453ef50b021adf8d3d7f37f0850: Import private repositories
 390ccdec9f3fef4cdb9883970bd30610: Username cannot be empty
-8de59b594415212dd0ad16c61d1cf704: Import repository
+8de59b594415212dd0ad16c61d1cf704: Import Repository
 d02426cea61105814491e4203804ffb4: Import from URL
 15d4e2eab357de99514ae99ab593cc61: Import GitHub repository
 b6f361bffd2af72ff77baba31b32f7e4: Import GitLab repository
@@ -27014,7 +27014,7 @@ a40f43776faec30ca3d34b743f394fb4: Please select the organization to upgrade
 dead51b1af5e5c33a6e6171f17dcb088: Imported repositories or reduced organization members
   today
 66e165e0080d39835689984b0bfa2e19: What are the specific differences?
-cb6d4b8494c6d192a40d0dc6354926d6: Private repository members
+cb6d4b8494c6d192a40d0dc6354926d6: Private Repository Members
 9879a0a034d7b2da5a0f6d7645ef763b: The organization upgrade to Gitee Professional is
   irreversible. If you do not want to upgrade, you can choose to create a Company
   and then transfer the organization to the Company.
@@ -27584,7 +27584,7 @@ fd473abcfed84e147ca36be48cbe8caf: Quick Response
   exceeded the quota for this package! Please compress the attachment space before
   purchasing.
 345f92145b0b2fb5d763f1c40af89067: The current company has exceeded the storage space
-  of this package! Please compress the repository space before purchasing
+  of this package! Please compress the repository storage before purchasing
 f21b9ab8f1586f3c6431247fcfed9d51: Unable to purchase services lower than the purchased
   package
 92cb947d837ffb75c9ff73a26397e8a8: Due to financial taxation, the validity period for
@@ -28113,7 +28113,7 @@ f1ea6b2ae6ad3d0bd3d16aaca3ddb882: Public email
 bfabe3d25cc0ed3701c0d127a666016c: Submit email settings
 f19fd41695d85cb7f2d36800adea2407: Public email settings
 85aeccdad2950d112a16587dd423944e: Email not public
-0f3b2eb1b9a0d950ccba6a3c7895f034: Do not make my email address public
+0f3b2eb1b9a0d950ccba6a3c7895f034: Keep my email address private
 f8cf72fd12c76edd7fbd6b9566f2aea7: Gitee will keep your email address confidential
   and use <strong>%{virtual_email}</strong> as your email address for Git operations
   based on Web | WebIDE. If you want command-line Git operations to use your personal
@@ -28446,7 +28446,7 @@ f46113e6f50cdc721a1a119abb8b24c5: Unable to merge the Pull Request because the s
   branch has modified the read-only files set in the target branch.
 c66f0686e5866dad70bd6495fbd91e49: Unable to create a Pull Request because the source
   branch has modified the read-only files set in the target branch.
-70f2c4972db638e45675842517d62832: Latest followers
+70f2c4972db638e45675842517d62832: Last followed
 f239ee08bd6cca3283d56008d9cd8509: Earliest follow
 d83389935dcf31f60ce87c35d1eab4c2: Popular and widely used
 d7f8974a3b4b2c0ee216b733cbab4cea: OSI certified / well-known and popular protocol
@@ -28589,7 +28589,7 @@ ae4bffce4626ca0c1752ed19aa56d4db: I want to use the specified "enhanced attribut
   the "privacy vulnerability"
 388c3fd57a4932e331325ac189ea3ec9: I want to use a license that prohibits promotion
 101203d83aceb26b85f2f3a29f0cb303: I want to use a non-restricted license agreement
-b91a96f44d1fbd96b64e5ca9bf8448ed: Please select an open source license
+b91a96f44d1fbd96b64e5ca9bf8448ed: Select license
 1b008204c8b5d90d46bf4b2bc924e5a3: Create custom license
 f183e046f8262ed63f4bb54eb1558670: Click here to quickly select a license
 89a39cdc87ff685654e53ddc378d8af7: License wizard
@@ -28816,7 +28816,7 @@ cd627d007651ec880902762eb6e87ad3: Starred repository
   Stars
 d31772a539dd873f59a7aab952dbbc56: Edit Starred
 4b546d1239ace917dcab6dc2eee39493: Please select the repository to remove from starred
-82e13f5089b1357c625463e544af893e: The starred repositories you follow will be shown
+82e13f5089b1357c625463e544af893e: The starred collections you follow will be shown
   here.
 8c661fdc8346eb8aa21a3e3f09197953: Invalid Starred
 '068b32c0196bfb59aa524a1d2b780ba3': Unpublished or deleted Starred will be placed
@@ -29002,150 +29002,150 @@ d6de68418a4ce37a4e70ede0b5ce38f9: Email suffix error, the submitted email suffix
 94b41fbe0a9fea63756fb60282fa6022: Name has already been used
 '085bbd9ca47de4459bba0f67b75c47a5': Path already in use
 4003d09351a78054c80a33eafb80d14a: Gitee 10th Anniversary
-be7aeed0a809220524a7a15788f6e95a: Newly created
-bf1d3bca64dbf5edd220bad1c0782aa9: Enable Demo
-3221a042ea3677a8d4e0d22c9200299b: Regenerate
-2ca0c21e7a813bdda3ed45ee6ddeb0c5: Please select a framework
-6734e548096e73c55335d91083bac47b: Generate new token
-e5a06fbf7816aef9a16d664103051061: Source branch does not exist
-261dba7261ed8c05a91e04459870ac90: Description cannot be empty
-64310f271992fed39b76913145db6e6f: Description already used
-108e02dff532ac61e36d620d8cb02e4b: See details >>
-50f98d824fdfc21dc4eaeee1fe697bc0: Private token does not exist
-fd3b1ee37f48f7ec5a998cdb54826329: System application does not exist
-ddc9f187491305d59489da0687534807: Enable my skills map
-596264cd137d6aa05b1ea2fb2e7f4a1a: New private token prompt
-f8a6d78ebd3d9c5329158ecdd73c0882: You have not created a private token yet
-39096c6ddf4bca538d5e0d0c91af6f98: Click here to enable skills map
-a85e9e6de556d285e0f1cdb492242c4e: Private token permission change prompt
-0ade3c00bd62e95ffa13c65a91f447f7: You have successfully deleted the private token
-4c3d5b650de3d07c1c772dc14f560b0c: Private token regeneration prompt
-74d0b15274f6f0bfdfa2d821a2cceb22: Verification error, please try again later!
-24d32c51a91d615d88431089871062bd: 'Tip: Currently supported frameworks include:'
-b5769c591da945fec7940a13d3247c3a: Failed to update private token, please try again
-  later
-144dbc2d1281f54b45b1ecdfc1f3c5a3: Invalid Access Token
-2e5ac275bac285bda2e2c5a02623b16b: Access Token has expired
-f9b5b1da7b9918a777382131a8c90060: Access Token Revoked
-a082c71cd0c33a9adb742051ab24f9d2: Only allow access to company resources within the
-  IP whitelist range
-f53b533ce89355045506d77585dd0ba1: Please enter a description for the private token,
-  maximum length 50 characters
-acf82b1d12c7609a53f81df48e49cb78: Your private token %{description} has been updated
-46479dbaee43895cdd3d7ba1e747cf22: Your private token %{description} has been generated
-68f76797faac931c83010a342cac7773: After closing this page, the platform will no longer
-  display the private token, please keep it safe.
-662cedf4b2f4d71986cf8a7e54e33a1f: A non-closed pull request cannot be reopened
-19aba41a6f78904e21bec77d5761692e: "%{frequency} minutes of inactivity will invalidate
-  the web login session"
-9aa58e4cc745ebb4d34299277f5bc483: Change password every %{frequency} months, otherwise
-  lock the member's access to the company
-2ecc86a2053401b9372fa26f21fcf426: After %{frequency} consecutive failed login attempts,
-  lock the member's access to the company
-344b3d6e7130beff1d0b96bf379d1e2d: Your private token %{description} has been regenerated,
-  visit %{index_url} for more details.
-a5e7fcc3c3e9076aebba484621a01a58: Your private token %{description}'s permissions
-  have changed, visit %{index_url} for more details.
-00cbd321e922fb06b32c7c48891d0bce: A new private token (%{description}) has been added
-  to your personal account, visit %{index_url} to learn more details.
-c5f55e3f2dcdf3067265e1ae9aac0cdd: If you forget or wish to update this private token,
-  you can click the button on the right to regenerate. After generating a new token,
-  the current token will no longer access Gitee OpenAPI.
 cdb4ee2aea69cc6a83331bbe96dc2caa: "."
 d03502c43d74a30b936740a9517dc4ea: ","
-b7a56873cd771f2c446d369b649430b6: 25
-c3972ccd735419073803fcacedfe2ea2: PR
-acbbb742c7524cecdec7557d60e4a19a: P2
-9ce28c43c1ca7e5a98e8a15952d42076: OL
-6138f40c9673bed147f3f8518c86671a: UL
-9f9853b3f13444197bd1c8eedb085b4c: P3
-0a07f659461970d8d8dcefe4fff96a17: ", "
-791b0ac348749055f0aa77a0ba17854a: TB
-1d09f6fa23235881514da0e5f8f78976: MB
-59281a6b29351cfa2ea93986fe7aa7b8: KB
-b4043b0b8297e379bc559ab33b6ae9c7: GB
 fbeae7c18667b6987518f3ae61ed8b19: P1
-2842de9d43a98b535ed75b3176a95e9b: P0
+b7a56873cd771f2c446d369b649430b6: 25
 2f04a3aa051f1f60d695f6c44c0c3d38: QQ
-4da68332fa95924a434dafe936b6c226: 20G
+2842de9d43a98b535ed75b3176a95e9b: P0
+b4043b0b8297e379bc559ab33b6ae9c7: GB
+59281a6b29351cfa2ea93986fe7aa7b8: KB
+1d09f6fa23235881514da0e5f8f78976: MB
+791b0ac348749055f0aa77a0ba17854a: TB
+0a07f659461970d8d8dcefe4fff96a17: ", "
+9f9853b3f13444197bd1c8eedb085b4c: P3
+6138f40c9673bed147f3f8518c86671a: UL
+9ce28c43c1ca7e5a98e8a15952d42076: OL
+acbbb742c7524cecdec7557d60e4a19a: P2
+c3972ccd735419073803fcacedfe2ea2: PR
 90ddf1963abb36c9921ce7f1ac9cbd94: Tab
-ab5df625bc76dbd4e163bed2dd888df8: "..."
-db9a4c7d4c195ebf80068dd04120accc: CPU
-e7a241debad56609ee660a5d2ef258a1: URL
-c9e6290e09f45a7432b78addc3e5a458: 'Hi '
-944c27e5b97ab7793e4b6e9ff2938489: :day
-68c55cdc265db5ebdce885c914c4774f: oid
 eb6379b2b03ff2c4d991de29bcaac777: 10G
-8e5b1a73152cf01c1ce614f31711fc41: Fork
-b5bea41b6c623f7c09f1bf24dcae58eb: true
-a2232ab473881122e36e921157a87647: LOGO
+68c55cdc265db5ebdce885c914c4774f: oid
+944c27e5b97ab7793e4b6e9ff2938489: :day
+c9e6290e09f45a7432b78addc3e5a458: 'Hi '
+e7a241debad56609ee660a5d2ef258a1: URL
+db9a4c7d4c195ebf80068dd04120accc: CPU
+ab5df625bc76dbd4e163bed2dd888df8: "..."
+4da68332fa95924a434dafe936b6c226: 20G
 e357d396871d10121ee7921467cae8c0: Star
+b5bea41b6c623f7c09f1bf24dcae58eb: true
 40510175845988f13f6162ed8526f0b0: 1000
-5a0b83e19c5750eed6d8d46cb858d15c: 2500
+8e5b1a73152cf01c1ce614f31711fc41: Fork
 f744c630beffc76bfae354b2fb4c3e8d: CSDN
 0725ab7e1939b0537fe54dba323d3341: AKSK
 4cb4ea25583c25647247ae96fc90225d: :year
 6c19075dcbf5c456f2821eb12b986071: Byte
+5a0b83e19c5750eed6d8d46cb858d15c: 2500
+a2232ab473881122e36e921157a87647: LOGO
+3c26e7a5b744df5ab7cb167281bec422: CI/CD
+4d8000301fccdede067922398f6b85d6: Bytes
+42f4c1b243334ddbddbcc44b02719674: gitee
 a5c7d1719e284f2c9485405d44f62d15: :month
 48dc76dfa23ae03fea1372c5ed6c0e1b: Issue
 ec36cc24f1e150fc0700ac842ccc8a63: "%u %n"
 fcbcf165908dd18a9e49f7ff27810176: false
 6041797b952136d572c661ce93a41455: "%n %u"
-4d8000301fccdede067922398f6b85d6: Bytes
-3c26e7a5b744df5ab7cb167281bec422: CI/CD
-42f4c1b243334ddbddbcc44b02719674: gitee
+9151a836f996c25ea618db449f7f3121: GitLab
 4ceb0bf57a8a59e16e45ccb4778e14c0: READMR
 f911e414cf6bdfc595532ab166b5ba0f: GitHub
 efa1f375d76194fa51a3556a97e641e6: public
 ce770667e5f9b0d8f55367bb79419689: Google
 666067dd376e5d4553b8fd554f855855: Issues
-9151a836f996c25ea618db449f7f3121: GitLab
-d0fe347a4cdb944241f6f2736fd93d68: Gitee ?
 2fde97202ed16c04e4f594ec0adc5fcc: Trustie
-a5b0e56ecfa0ad35e928feea55616593: OSChina
+d0fe347a4cdb944241f6f2736fd93d68: Gitee ?
 6df591dbda90672733df80fad90ab166: Git LFS
+a5b0e56ecfa0ad35e928feea55616593: OSChina
 3f8cbbe8827082ce276cde7ac043007a: Gitee Go
 bb88338db29683a411d71d22227fdd94: 'SSH Key:'
 c504c6fbdff9456860071361d1c8e71a: "%Y-%m-%d"
 14b6f5a028864f2322367f3f069db111: "%{label}"
 790bf6db22dc1dd8ffb413af7f1c4e21: " issues "
-'09445910ed9d40862988206a6441041f': GITEE.COM
-e86a854a9244b2e3d7e2b810a6f5f900: Gitee OSC
 '09af2d6976863c73d0b2f3b357dbef70': MoPaaS V3
 707112849df34db07652a0dbf1f67dbc: Gitee.com
-1d3194025478ab3dae23d7c96c20d08d: Git Ignore
-a1e5fb4f1b43c27b36614bae2703501b: "%{article}"
-105be4182090c6755ae52b40ac2ad7f9: note_%{id}
-d4dc7f37372760673a6de3f8f7be2519: Gitee Scan
+'09445910ed9d40862988206a6441041f': GITEE.COM
+e86a854a9244b2e3d7e2b810a6f5f900: Gitee OSC
 e74d1c9b9af3b5b28db118719a174c1c: user_%{id}
+d4dc7f37372760673a6de3f8f7be2519: Gitee Scan
+3221a042ea3677a8d4e0d22c9200299b: Regenerate
+105be4182090c6755ae52b40ac2ad7f9: note_%{id}
+a1e5fb4f1b43c27b36614bae2703501b: "%{article}"
+1d3194025478ab3dae23d7c96c20d08d: Git Ignore
 f3c9b19b0c79562fcd430a16f78ce5ad: issue_%{id}
-263b12b5bb083fe136c8b25632a795a1: label_%{id}
-b46dc039588643e22c8af98efdc55917: "%{category}"
 9285ba34f8aa1c2dce589db3354cfb61: WindowsLive
 30441885f547973f77a4f614a6cca882: Tencent Hub
+bf1d3bca64dbf5edd220bad1c0782aa9: Enable Demo
+b46dc039588643e22c8af98efdc55917: "%{category}"
+263b12b5bb083fe136c8b25632a795a1: label_%{id}
 207718993c6356c34d538116ef612824: donate_%{id}
-69a04c61829c9c4e4a59cd88da2b4db6: release_%{id}
-1a3b23c70d280f4bddda12ec2aed2a09: Pull Requests
 9b8ce3d85f804a0601388751195729a5: project_%{id}
+1a3b23c70d280f4bddda12ec2aed2a09: Pull Requests
+69a04c61829c9c4e4a59cd88da2b4db6: release_%{id}
+be7aeed0a809220524a7a15788f6e95a: Newly created
 2161eaef94ed85a131e93d6133b0978c: doc_node_%{id}
-d7e55d5a8beb582a6ae647cf5cf0d3b2: milestone_%{id}
-f67050e7f113e815ec5f5f436a4c3480: wiki_info_%{id}
-b119fae903e4917adf4cd9c5e1550e5c: " pull requests "
-bd05c7458b058c29735cb317379b0eee: namespace_%{id}
+108e02dff532ac61e36d620d8cb02e4b: See details >>
 92157d0b8b82a76be9550637d2890faa: OAuth2 Provider
+b119fae903e4917adf4cd9c5e1550e5c: " pull requests "
+f67050e7f113e815ec5f5f436a4c3480: wiki_info_%{id}
+bd05c7458b058c29735cb317379b0eee: namespace_%{id}
+d7e55d5a8beb582a6ae647cf5cf0d3b2: milestone_%{id}
 3abc5145d6052f1f8e832d047be17b13: collection_%{id}
 9cd9d2fd4c33f74465608830a62a997e: issue_type_%{id}
-fb4a437450e782354ea18f8f05247816: attach_file_%{id}
 34a1851611d0efa4d99bd1f453ee3144: "%Y-%m-%d %H:%M:%S"
+fb4a437450e782354ea18f8f05247816: attach_file_%{id}
 532a339bc6dce07dab0a81dea786760e: project_tag_%{id}
-02c9b9b964a12c6112991f05bb4bd2ba: organization_%{id}
+6734e548096e73c55335d91083bac47b: Generate new token
 ef6ad9a02f2b1c68ac145be876668baf: pull_request_%{id}
+02c9b9b964a12c6112991f05bb4bd2ba: organization_%{id}
 d07fb8053a5a1c5c155ffe91b87c9433: priority_option_one
+ddc9f187491305d59489da0687534807: Enable my skills map
+f9b5b1da7b9918a777382131a8c90060: Access Token Revoked
+144dbc2d1281f54b45b1ecdfc1f3c5a3: Invalid Access Token
 fcc9f788b13cd210c7d8097acd71d235: Gitee.com - OSCHINA.NET
 69d17d056264be49232bd97fdcd682fe: oauth_application_%{id}
+596264cd137d6aa05b1ea2fb2e7f4a1a: New private token prompt
+64310f271992fed39b76913145db6e6f: Description already used
+2e5ac275bac285bda2e2c5a02623b16b: Access Token has expired
+2ca0c21e7a813bdda3ed45ee6ddeb0c5: Please select a framework
+261dba7261ed8c05a91e04459870ac90: Description cannot be empty
+e5a06fbf7816aef9a16d664103051061: Source branch does not exist
+50f98d824fdfc21dc4eaeee1fe697bc0: Private token does not exist
+39096c6ddf4bca538d5e0d0c91af6f98: Click here to enable skills map
+fd3b1ee37f48f7ec5a998cdb54826329: System application does not exist
+4c3d5b650de3d07c1c772dc14f560b0c: Private token regeneration prompt
 825ce190fca0a29ec74e2d530d332fe1: "/static/images/logo.svg?t=158106664"
+a85e9e6de556d285e0f1cdb492242c4e: Private token permission change prompt
+f8a6d78ebd3d9c5329158ecdd73c0882: You have not created a private token yet
 f3660e844624842c570c5c66d50169ec: "/static/images/logo-black.svg?t=158106664"
+74d0b15274f6f0bfdfa2d821a2cceb22: Verification error, please try again later!
+662cedf4b2f4d71986cf8a7e54e33a1f: A non-closed pull request cannot be reopened
+24d32c51a91d615d88431089871062bd: 'Tip: Currently supported frameworks include:'
+0ade3c00bd62e95ffa13c65a91f447f7: You have successfully deleted the private token
+acf82b1d12c7609a53f81df48e49cb78: Your private token %{description} has been updated
+46479dbaee43895cdd3d7ba1e747cf22: Your private token %{description} has been generated
+b5769c591da945fec7940a13d3247c3a: Failed to update private token, please try again
+  later
+a082c71cd0c33a9adb742051ab24f9d2: Only allow access to company resources within the
+  IP whitelist range
+19aba41a6f78904e21bec77d5761692e: "%{frequency} minutes of inactivity will invalidate
+  the web login session"
+f53b533ce89355045506d77585dd0ba1: Please enter a description for the private token,
+  maximum length 50 characters
+344b3d6e7130beff1d0b96bf379d1e2d: Your private token %{description} has been regenerated,
+  visit %{index_url} for more details.
+9aa58e4cc745ebb4d34299277f5bc483: Change password every %{frequency} months, otherwise
+  lock the member's access to the company
+2ecc86a2053401b9372fa26f21fcf426: After %{frequency} consecutive failed login attempts,
+  lock the member's access to the company
+a5e7fcc3c3e9076aebba484621a01a58: Your private token %{description}'s permissions
+  have changed, visit %{index_url} for more details.
+68f76797faac931c83010a342cac7773: After closing this page, the platform will no longer
+  display the private token, please keep it safe.
 1ec6f492747a1814b5943c8d42bfa054: Resource Owner find failed due to Doorkeeper.configure.resource_owner_authenticator
   being unconfiged.
+00cbd321e922fb06b32c7c48891d0bce: A new private token (%{description}) has been added
+  to your personal account, visit %{index_url} to learn more details.
 e58caeb2b1853463c1a46223232aa122: Resource Owner Password Credentials flow failed
   due to Doorkeeper.configure.resource_owner_from_credentials being unconfigured.
+c5f55e3f2dcdf3067265e1ae9aac0cdd: If you forget or wish to update this private token,
+  you can click the button on the right to regenerate. After generating a new token,
+  the current token will no longer access Gitee OpenAPI.

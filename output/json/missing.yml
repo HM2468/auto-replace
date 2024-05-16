@@ -82,7 +82,7 @@ a9948ff0140d59edafbbe4a7f0e830a7: Back
 f4f16d00806f799214fcc3e9d1861400: 'current version '
 95b4ff9fd3b50813289c2e8405691f89: Confirm deletion?
 881a1cf2205b26dd0bd6dbb0e81540c0: work item ID
-8f7aab769ba84c4cac9c67cab9337157: please enter a summary
+8f7aab769ba84c4cac9c67cab9337157: Please enter a summary
 f2a52a525ecde66a6f14be73563977b0: work item description
 c5e67512d6bed6e559bfcf5a59b8131f: No description
 156d1110a789b3f52247ba581d5bf61e: private token update
@@ -90,12 +90,12 @@ db53be5c5ff7f68700e18055fa1b2e34: no company role
 7d873caaf96d3c33e0ff6498395b1f64: New requirement type
 47efa4e122411f8ad5144998de2daee3: New task type
 6f72697888b34dabe36918a65a311447: New defect type
-deebc1a80645c0eaafd45bbcb82d946e: please enter...
+deebc1a80645c0eaafd45bbcb82d946e: Please enter...
 83313f5a41053a2928bbe1dde87ad73d: leave a comment here
 '09b2dfc1f2b11e63de29e8e744971def': add subcategory
 443723b73c1b1e53d42443693801a29c: No description
 651705b10f0e12ee2fd93c851218c016: save template failed
-3ebadf1ed32f1fa331853c7bf6b97c6c: delete test plan
+3ebadf1ed32f1fa331853c7bf6b97c6c: Delete
 efd5c9cd9dfedc5a1f7cee0af1fb4fe3: reset time
 be9ca3ecda8193c5c34ca37e39da999d: private token description
 03fb8dc8b53ec3ea8ef620f4cf13ebc0: regenerate token
@@ -106,37 +106,37 @@ a74e5bed70a49f9eecdbb267d2e0fc34: generate private token
 5bcba388ca260789df5b06ff42e7c5b3: no inspection info
 c7f021c9b88e14e64aaea018d877907e: powerful planning capabilities
 4814f62c108d82de42a65c515d56fc22: Webhook
-'09e1ecbcda70299c5871be39b120e0b1': please enter plan title
+'09e1ecbcda70299c5871be39b120e0b1': Please enter plan title
 71ccbded003070b41048007b4876cb43: WebHook
 7e3a048ba6c2e3b412efd821bdc04ffd: "Failed to delete attachment"
 a7e205d9edd9d4919db05dc212b6e1c5: multidimensional project overview
-557e40d0ddc7e48af825f5b3aa9ab354: please enter the case title
-f5752a695b6c61c6667de5f7811f7fa7: please log in before proceeding
+557e40d0ddc7e48af825f5b3aa9ab354: Please enter the case title
+f5752a695b6c61c6667de5f7811f7fa7: Please log in before proceeding
 16c23445620e2723eeb63da8949b5103: customize expiration time
 4a81ecac9cf77360e45b226738487325: External sharing enabled
 cc1d3b0234846714b0aeda6cc34b057b: license
 44efe416e2be62ffd808c892b527f224: Load work item failed
 43838e1bbeec6f3ceedb8db73fab7b8f: my company workspace
 3f565392471c4a1b5725726b0eb68212: Web IDE
-6a844b83e104b40f4119141eeff97d1f: data loading...
+6a844b83e104b40f4119141eeff97d1f: Loading...
 661219d5ef4c64a721c6c5728dbbc26e: private token update prompt
 8db13af8fed61c12fa9b83bd989b454a: "<field/>"
 7c72ed2e8a366a83766613fe8a594317: No matching results found
 695ef3a8a11c06dc8e867cbc6b0c27de: New Issue
 ba56172735ba493765103718649715f5: test case created successfully
 7961317fde71c9967a5e68e1aacc6bd9: Loading ...
-a31e5f4d5505ead5136d5bc55d37aabf: test plan created successfully
+a31e5f4d5505ead5136d5bc55d37aabf: Test plan created successfully
 00ae9823377908881b651120e80f2fcb: private token update failed
 dd9cd175fcc0a66d9e37e6adddffca56: New private token failed
-6564d3c4650a2baae48f9f141718bb8d: test plan updated successfully
+6564d3c4650a2baae48f9f141718bb8d: Test plan updated successfully
 535b0752a954422d38bff95b8a4fa4f4: delete private token failed
 4e42951ea71c9aa6f6d2aca6c8984c8e: delete private token successful
 bc64282aa624dff065be07342caa1499: This token will never expire
 9c171c4f6926f8d1c9f10289078fa542: code comment options configuration
-107996a47ff5d293e71a7ec156c80160: change plan status successful
-bed617884b187e86348937fa48bf5172: change plan status failed
+107996a47ff5d293e71a7ec156c80160: Change planning status successful
+bed617884b187e86348937fa48bf5172: Change planning status failed
 ce88efd937b70e30b63f6e164fefabe9: internal open-source governance in companies
-67bb0b6d6a903b1455ef7482d10de0ca: please select a repository...
+67bb0b6d6a903b1455ef7482d10de0ca: Please select a repository...
 8e01bd5785ce6a643e0415a148c5e9c4: you have not created a private token
 93f1fae89ab28452ba8346e6ba753c18: Confirm deletion?
 f4137804fc55a967df4b22f388ea017b: API Docs
@@ -146,10 +146,10 @@ f5b169d098a3f68b6bb1b03c794503c7: WebHooks
 dcd0a91db786a9dca1f495329495c474: Gitee LFS
 63a08024a987e8edb622f4b6d47637fa: Confirm deletion?
 dc7d7ce62fff8866c9173303c73421b5: Add assignee/collaborator
-81bb3c007084be121d3e6728e2358c31: please fill in the private token description
+81bb3c007084be121d3e6728e2358c31: Please fill in the private token description
 07a920b29785be902d73988fa68a3e1c: load case details...
 d466fa5a958c9e7a6a486e09a51cf239: repository, review, configuration
-006be60e87fc8285d365b5a0b711a43c: please enter an account or work email
+006be60e87fc8285d365b5a0b711a43c: Please enter an account or work email
 dff8263c710697937ba40ee03dc318a0: Loading work item details...
 473b2fdc929db292fec4b27d64c2ea7b: view your personal email information
 81e47b07fc4454562f1c8288fde3372d: KubeConfig
@@ -191,7 +191,7 @@ adc925f41ef0fb88e77ab05bdd3725d0: view, delete, update your code snippets
 b9366507c27206eaab207fd9cdc124b2: there are unexecuted cases, confirm to end?
 062f475d39b411fdbb59904c3e9c9b01: This token expired on {{date}}
 7fe846632c4afbe20c62d9558bb27d70: AccessKeySecret
-7216ef43ff87d1ab32115dd2267f150b: please describe your {{type}} in detail
+7216ef43ff87d1ab32115dd2267f150b: Please describe your {{type}} in detail
 82d29e90365c9678dde210f70776b48b: view, publish, update your Issue
 8ece40b94b53201121151cc824e985d6: This token will expire after {{date}}
 5aacf68b921d541686bc5e9f6f24bff9: Sorry, the page crashed, engineers are fixing it

@@ -637,7 +637,7 @@ b662d4a6c5fdc6dd9c4ac25c960f4740:
 - b512d97e7cbf97c273e4db073bbb547a
 9ded2bc7d99a5ac4ccc110a6f1bcf81c:
 - gpt_translate==services==time
-- 336074805fc853987abe6f7fe3ad97a6
+- 33b93476cf597a3330653b66a658983d
 7475002523801f96bce2fabc09fa1e56:
 - gpt_translate==services==action
 - 0f044feb6ca7d6764650e6b800425a84
@@ -724,7 +724,7 @@ bd715983fbfe86519bfb76eb9916afb8:
 - 59be71333c960fd08e7e4fe9862206d9
 1c02a10145c6762a50c31330450eeb26:
 - gpt_translate==services==wiki_does_not_support_adding_to_the_recycle_bin_at
-- 79ba111877344569c57756580dfa12a7
+- 6a09018bec59a003a3fa99b194f86320
 636f916e4169bdf4a1031e7bd77fdd3f:
 - gpt_translate==services==guided_tour
 - c26982b1425da26a9637dd69da684a03
@@ -7552,7 +7552,7 @@ bf9c060ce1cc14d5f33648f63f388bc9:
 - ab530a13e45914982b79f9b7e3fba994
 907beb98a66bd820932e241bd8dd7dbb:
 - gpt_translate==views==time
-- 336074805fc853987abe6f7fe3ad97a6
+- 33b93476cf597a3330653b66a658983d
 0bf3130715923aff9a2d27b9a9e087c2:
 - gpt_translate==views==no_donation_records_currently_available
 - b690c571ea0246058cdc0d9969467503
@@ -10279,7 +10279,7 @@ d7e1f7ffb2fc39369159f2c1a532f847:
 - bbbd160ceaec29585f5dfe46bfb048b4
 1ff2aee38b89ad1c0c2e062be3435421:
 - gpt_translate==views==error
-- ca00fccfb408989eddc401062c4d1219
+- 54a0e8c17ebb21a11f8a25b8042786ef
 7eed644c18d96f1ff26413751ad43657:
 - gpt_translate==views==are_you_sure_you_want_to_mark_as_paid
 - 5c08da27eb1e029cf40cd5d102246768
@@ -14035,7 +14035,7 @@ c7e1db8c0917dae7b00f1d49a64ab285:
 - 017cb5682cc3231606d73dc6d310609d
 98384acffdb769a65b1b58a4c57f3b7d:
 - gpt_translate==views==this_month
-- 64367736022306e3aac0d079e6ce2e2f
+- fd787ef3d46c9b82d8cf2130a66bf71e
 66bcd430ddfdd890cb84f683a4770d61:
 - gpt_translate==views==this_year
 - 98597183c8c663282c3bb42f33747307
@@ -14791,7 +14791,7 @@ a4ccaf98a7e7423dd52a6f28c7a480a4:
 - 306f1bb20677a622fc38185239e89a94
 147babcd8c311e42fae006846e9a0259:
 - gpt_translate==views==time_1
-- 336074805fc853987abe6f7fe3ad97a6
+- 33b93476cf597a3330653b66a658983d
 e4f6aba5bfa68ed76ee252da5bf433e6:
 - gpt_translate==views==status_2
 - 920e413c7d411b61ef3e8c63b1cb6ad0
@@ -16162,7 +16162,7 @@ ab8cf9378aeb0722c761f9f4b3429529:
 - cde52979eb73e856c8693e8ab1511a7a
 16da635a421aa61611a3aacd87f69b53:
 - gpt_translate==views==directory
-- 333178788eae3e0b14c9b07bbbb6232b
+- c8f84c3c5378b920b0ec2702cd9963a4
 81a7c05c4d93da4607505a5dfde44aa4:
 - gpt_translate==views==target_has_been_deleted
 - 8848592650c0a4f2669113c1e988fba9
@@ -19084,7 +19084,7 @@ d441aa0553de5c5dd02cd20d65a0bb92:
 - 8fb25272fc6b95d8be7423b3dafc862d
 73c45748df852dae846dba1dc6bd5312:
 - gpt_translate==successfully_moved_to_the_recycle_bin
-- 262390ab7698f8b5adfe4e33dc928d02
+- 2789e686f8d786331e15537e0efd2c4e
 ce319c7817de29f5dcef8604e9b7e427:
 - gpt_translate==you_do_not_have_permission_to_delete_this_document
 - aa312d862ade902eacc7a0fa3653a89a
@@ -20074,7 +20074,7 @@ c3facc5302b5c4cee2432976ea0dedc9:
 - e227fdfa5daf8a279db1e378933f2c78
 78890fed114a5580af3872da31f00745:
 - gpt_translate==afternoon
-- c8e07c1ac268eae0661eb98fed3e0ea7
+- fb847b43637eee42916877a66c8fc680
 d5b67f77a6a22dc7f5186caef45b038f:
 - gpt_translate==evening
 - 458c1fed574354042397e664d6dabe58
@@ -20089,7 +20089,7 @@ d5b67f77a6a22dc7f5186caef45b038f:
 - 3f83c195c8dfbdacfe195d82b3f7e1ae
 644efa7445f721ed1eeb045686e172c5:
 - gpt_translate==move_work_item_recycle_bin
-- 4385f7c0ccbdd2a4b24d48e80472ba2b
+- b250a454877d44a6ba07076ffb29c70c
 d2a66169b0f49f8cb08b079aa7d3399b:
 - gpt_translate==restore_work_item
 - e1ad2ad16f90efe2eb0c53ae225f30b8
@@ -20488,7 +20488,7 @@ aaa3290bb7c9b5e4f2d33451c33be38e:
 - 4ff2703147a31fedff305343dc741c22
 f04e29713e61086c1793c6b51546ed58:
 - gpt_translate==emptying_recycle_bin
-- fa08660e024523797067903c5b1ec6bc
+- 1f5432227abc7ad979f664bbb02fad58
 a6216900330b7b528327fffe583b4f40:
 - gpt_translate==failed_retrieve_list_work_items
 - 6746aa6e2abf91ec30aed6271e9e00fa
@@ -28598,7 +28598,7 @@ ef7f2960acfaa75b1179aa4226c4fa76:
 - b78f9c730fedf6cc2d7e6b79abce81bf
 9df2f29eec53ae6da7a256a2726d0637:
 - explore==trending==month
-- 3f19a5a3282afacc8ba74d5825820b3f
+- dad0ce3b2dfcdc2f9e03fc6605930b5d
 df47d614a4ba1b692ea0016296ef00ef:
 - explore==updated_on
 - 03b429b048374df56f7dccec9f4d4fb5
@@ -33642,7 +33642,7 @@ b8acf8a832ba4238c64fa0ba2ef44669:
 - ab530a13e45914982b79f9b7e3fba994
 faa65d83d4d251b4c091b378933687a7:
 - profile==donate==time
-- 336074805fc853987abe6f7fe3ad97a6
+- 33b93476cf597a3330653b66a658983d
 fa7d13055beedc7850ed5f557f9ad2c3:
 - profile==donate==no_record
 - b690c571ea0246058cdc0d9969467503
@@ -34889,7 +34889,7 @@ bf2ff93ff46e2666e0eb57a23ae65258:
 - 2364454da605d41ae01b9085c3c39ca4
 f3037b18adfa742ff5ae4df9fa4526cb:
 - time==pm
-- c8e07c1ac268eae0661eb98fed3e0ea7
+- fb847b43637eee42916877a66c8fc680
 f34237a943e07e13e9c4b338436ef500:
 - time==today
 - 2b065c7c9ce466e5ebcad757987d5d66
@@ -35225,7 +35225,7 @@ f77ae3c946d00d72d3757987e694f2cf:
 - 5ed2ce1331ff8982f519ab9f261370e6
 235634bbb92a803275286c2f4411f1b3:
 - activerecord==errors==models==issue_dependence==attributes==ref_type==unrecognizable
-- ca00fccfb408989eddc401062c4d1219
+- 54a0e8c17ebb21a11f8a25b8042786ef
 17ad8ca341b5fb026fbc0e28d67bb552:
 - activerecord==errors==models==issue_dependence==illegal_message==this_issue
 - 3f1cd3987cef46bdbb7a4641263ce776
@@ -35285,7 +35285,7 @@ eeab41e3fa043a5e1a46a25d925da09c:
 - f7360878a2307c3b6de9417d414e396a
 5d5a84480fe4bcf8a79a84133309f6a1:
 - activerecord==errors==models==gitee_go_artifact_repository==attributes==category==illegal
-- ca00fccfb408989eddc401062c4d1219
+- 54a0e8c17ebb21a11f8a25b8042786ef
 4c6979e84687503eef9d777d1768442c:
 - activerecord==errors==models==gitee_go_artifact_repository==attributes==name==name_format
 - 00d30300d5d2eef18f567f024d5b584d
@@ -35429,7 +35429,7 @@ f52f80ebbdf43d050f02d64c3a789b69:
 - 5f8e617f8fb04f4c8ce0acc682c3e665
 8131dbda3e687d5ba4bed34bf01133c5:
 - activerecord==errors==models==scrum_sprint==attributes==state==error
-- ca00fccfb408989eddc401062c4d1219
+- 54a0e8c17ebb21a11f8a25b8042786ef
 1bab103ed5085058172867334a697374:
 - activerecord==errors==models==scrum_sprint==attributes==state==closed_to_open
 - a6af5cd44ed2fdcd7791cd37c37f9912
@@ -35441,7 +35441,7 @@ ae82a424cfd87b627cdbc2bcfd158cc4:
 - 6907563bc0944a2ae985a56fc1229876
 f89b6048a87c31dc9027c6cf0dad466a:
 - activerecord==errors==models==scrum_sprint_member==attributes==role_level==error
-- ca00fccfb408989eddc401062c4d1219
+- 54a0e8c17ebb21a11f8a25b8042786ef
 a6065deb40b2b673189be4240ce8d8c7:
 - activerecord==errors==models==scrum_stage==create_rule
 - ee812bbf081299da930efc783c93e0bb
@@ -38005,7 +38005,7 @@ d0eee164a0438bec45d82aae12ceeae2:
 - 017cb5682cc3231606d73dc6d310609d
 b777943b9d07b4abc6a14242ab44ed49:
 - setting==access==this_month
-- 64367736022306e3aac0d079e6ce2e2f
+- fd787ef3d46c9b82d8cf2130a66bf71e
 aab73329f8a87ef34580a646b865bb75:
 - setting==access==this_year
 - d49629caee2537f9a1b51dc43b757429
@@ -49961,7 +49961,7 @@ e2434e564d6ad606c740cd73bec57cea:
 - 8652401183ad86c949d474d513b1227b
 f80a5387ffb74b870a9679dfcf14036a:
 - enterprise_api==function_management==functions==recycle_bin
-- ac72175e6f752ba1f55dbef0533c8934
+- c560122ac4706dcb19bcb43defe2afa6
 73918a0bb9e601d1040cdf9460927276:
 - enterprise_api==function_management==forbidden_use==quota_level_disabled
 - 179958e31be95451e2010ff6994dd9f0
@@ -50405,7 +50405,7 @@ eac96578937716522db965b6d875a023:
 - b19fa2937342720d251068da89c6526f
 93362c1a7abb421eb0039aab2af2b45c:
 - enterprise_api==issue==issue_deleted
-- 353e1db400cbb37beeb0ef09ea6524d5
+- be2fb641108e7151ac2ef307f25c9c3e
 4fbc8621bef158d6ca780a52ac720af8:
 - enterprise_api==issue==forbidden_update_issue_attribute
 - 00a610de72d18993c63dbd7bffec7806

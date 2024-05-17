@@ -436,7 +436,7 @@ f376879b46303f9d66698bc5240aaae0: 'Indicates where the current duration package 
   current company.<br/>Specific repository: The duration package is only available
   for pipelines in this repository.'
 0cab6fd9cfe61f9d1f4b3ff1b701f53c: Third-party payment
-8b6ff498515bcc2ffdefa4f7b2efbe5e: time
+8b6ff498515bcc2ffdefa4f7b2efbe5e: Time
 884c0637651165b467fab1ca6d8998f3: Duration of the last unpaid period (minutes)
 31a046dba49a9d00c64c27831abe7545: Pipeline Gitee Go
 e009c148d1890dac9d22d8a714b36ceb: Total
@@ -3409,7 +3409,7 @@ e5db76b09640ecea38edb76ba9370e93: Delete group successfully
 3498d71405c37ad9b9e8b5419b6e1677: Modify group successfully
 80ad88854b760bc5014f676a70c000fa: Blank automation rule
 6d8d9889cadedc55e2b4265645506667: Automation rule template
-57d40b7c0d674ce3bad622d8eac35b31: create automation rule
+57d40b7c0d674ce3bad622d8eac35b31: New automation rule
 77761d234b175b4fe1707de898e48e4c: No desired template
 5c2d19702c448c37ceb6cfb0d228f25d: How to use automation
 1475a966bf6af552ef8b7204ab5b24f6: Automation rules will be executed in the order specified
@@ -3650,7 +3650,7 @@ c6e9de4a8ad226f7fd21ab5f3032faef: Submit succeed, our staff will contact you wit
 4e1a5de8d9ad19a1885ff7af37c0fb3e: Earliest creation
 7e941c1f6fc1489d80f3e15ac39c577d: Latest created
 4673a2306165612576462979eee34149: Download
-0bc1fb72ae1be5c5f95031df7a72d2dd: error
+0bc1fb72ae1be5c5f95031df7a72d2dd: Error
 00bd3960fea8ea982bcce83a3d2744a2: Expand
 7aeb5bdb696edbe68252e8cb794a2b61: More Description
 fe83c380beeebc6fe3f27ecfe2609e7f: No Description Content.
@@ -3987,7 +3987,7 @@ f9485144bc8f0aca2310ae099d791fec: Your {{name}} Professional Edition subscriptio
   renew in time.
 451755e3831fa39eeec844bf3c3a3b3c: Join
 ade9a5d8fa9df92e05904b465a951155: User experience improvement plan
-0eeecd26f2ba61f917719bf539d49d8d: This Month
+0eeecd26f2ba61f917719bf539d49d8d: This month
 692c48b73e2df69a8fa223892ecb139c: Last month
 a43aecbad17bef627925d0880a8861c0: Past 7 days
 62eca8bce0c6ba010b21fbcff6c641e0: Past 30 days
@@ -4069,16 +4069,15 @@ c86fb6cf15b8a8941eebf0ca65df30ca: Compare with latest version
 f40951e6fe8a554b0bff26d159d1da4a: New Wiki
 85217f7aff77841438439fb3e7cf37bb: day
 646898def8cab5e8619213dbda60339d: Completely deleted
-a418f9dee597c6d48ba97a2dfba406f7: This operation will move the document to the recycle
-  bin. Do you want to continue?
-947352ef46249596aa20991d34a9c2c8: This operation will move the document to the recycle
-  bin. If you want to permanently delete the document, please go to the recycle bin
-  to perform the operation
-e3927f9f547c553292d7447ce5bb89b6: 'Confirm to permanently delete this file? (Note:
-  This operation cannot be undone)'
-3910e22eccba2c0491d714b2374d6cdc: Delete Wiki
+a418f9dee597c6d48ba97a2dfba406f7: This operation will move the document to trash.
+  Do you want to continue?
+947352ef46249596aa20991d34a9c2c8: This operation will move the document to trash.
+  If you want to permanently delete the document, please go to trash to perform the
+  operation
+e3927f9f547c553292d7447ce5bb89b6: Confirm deletion? It cannot be recovered!
+3910e22eccba2c0491d714b2374d6cdc: Delete
 9f8b14e8281e8f1b2d20603f12e74b97: Deleting the Wiki will be irreversible
-52daa71ebc31058156b21dc21c01ed18: directory
+52daa71ebc31058156b21dc21c01ed18: Directory
 b16f71b55691cdc3055ae0a3fb270f02: Discard
 9825ef17a421d87a60b3ef39ebbc3ee0: Do not overwrite, save as new file
 27b6154b3fd3a7a1fb5a6fcca0ea530c: File Details
@@ -4114,7 +4113,7 @@ df8dead1abcd544bdc7b028cd2c3609c: Please enter a comment for local modifications
 fc6bb436b8caf08ba08a057e6dfaf60f: Mobile
 9febca26e9b5b75a527ce5c83c890c79: Move failed, please try again
 6a5b1cb18fb64c5c23e26d94b84d0287: Move to trash
-04a803010dcec60fd3efb817d43d75d6: Moved to recycle bin
+04a803010dcec60fd3efb817d43d75d6: Moved to trash
 9385bfefca5882f14f06c2dc0b4fbc86: My favorites
 998c5358b3e8c1c35c64def3fe33cfcc: After successful creation, a Wiki will be created
   under the specified repository, and the read/write permissions of the Wiki will
@@ -4156,8 +4155,8 @@ de845bcd9c3c11f3d220a9b776ecc8b4: Restore to
 e0534b8a4e46a0cb5601d4da01910450: recover
 338b7fbf46e3752aba5e804fc2c42a6d: Recover unsaved local data?
 4b03be14c1f488e896ebe58c339e4307: Restore reminder
-ba35dc23b245e61ec1f398934861c13d: Recycle bin
-846c51579a042ba7207bb4b98736a643: Recycle bin folder cannot be opened
+ba35dc23b245e61ec1f398934861c13d: Trash
+846c51579a042ba7207bb4b98736a643: Trash folder cannot be opened
 d784450e7ed004149302cc1c6cd9a601: Remove from favorites
 4e955474384b4653ea6307b92d9ce4a6: Repository attachment
 ab0c3004b0f243bd0eec118c5530ca9d: Repository Wiki
@@ -4207,9 +4206,9 @@ e543804a8c1174b36e61d641a81609c6: Confirm deletion? It cannot be recovered!
 e1bb437b99a1e48b8b16f8283dc53785: History versions of {{file}}
 8f6da097eb6018136068504897a4f827: Emptying trash
 4ee71aea679620cfb365ad6fa84c333b: Trash list is empty
-'08735ac0d2d4fae32872cb0c6c0b84c4': Empty Recycle Bin
-8e18039a3544ae7b4bcf216bc01155ea: 'Do you want to empty the recycle bin? (Note: This
-  operation cannot be undone)'
+'08735ac0d2d4fae32872cb0c6c0b84c4': Empty Trash
+8e18039a3544ae7b4bcf216bc01155ea: 'Do you want to empty the trash? (Note: This operation
+  cannot be undone)'
 ed2c563efd0e4263b521fcf9a8d1c77a: Save and Exit
 b488c0f9e681d0a28ce603e0beb52cd4: Source Code Mode
 a57cfcb8428da4085ea1de04cb094d2c: Help
@@ -4224,8 +4223,7 @@ efa8075f670ba53512ee27bcda2cf18d: Please select a file first
 8a534a4f99e6f5217a71e312836f15b1: Add the selected {{count}} files to favorites?
 780648ea89c7cb4eb9a556df1b760d83: Confirm to remove the selected {{count}} files from
   the favorites?
-a86401d4f087a922fe4b4ffef395ebac: Move the selected {{count}} files to the recycle
-  bin?
+a86401d4f087a922fe4b4ffef395ebac: Move the selected {{count}} files to trash?
 dd65f572f676f72fc8c2160c1430122d: 'Confirm to permanently delete the selected {{count}}
   files? (Note: This operation cannot be undone)'
 4be7c2e0c8d661c737ff8cf7fe1efa02: Remove from Favorites
@@ -4240,7 +4238,7 @@ db2c9d59b1a115c81ce7ee272274650f: Operation successful, {{success_count}} files 
 29d91d8f0759ea8a9ff888134d8fe13a: Operation successful, {{success_count}} files have
   been restored to the specified location.
 ca9867441e3f9177281e86c2f0c39b13: Operation successful, {{success_count}} files have
-  been moved to the recycle bin
+  been moved to trash
 1501efe06703b08981a6628cf2aeb90d: Operation successful, {{success_count}} files have
   been permanently deleted
 30a4d8a80bc96e85fc1f9060b5e255b2: Operation successful, {{success_count}} files have
@@ -4557,13 +4555,13 @@ fd4c868608ac0a908d8859c65d1dd0fb: No Comments
   in 2000.
 1f7bad0ec50b322ef9ad1d162db769aa: What is inner-sourcing?
 56e3db2f4692c8f2467f52c1d489e795: Detailed Statistics
-c079096673d798335f6db9d317b7c9e6: Commits This Month
+c079096673d798335f6db9d317b7c9e6: Commits this month
 f23787e3df75c2c522f38e2c351f3b68: Commits This Week
 d65f1c9be436f9bca899a02b622d0301: Commits Today
 0fc19757f9a452179ee942834eb72463: Number of contributors
-af464552e83bcf31231a6c08409bd362: This Month's Stars
-a5ca0db89558b7cb3b0f5b32b7004f4c: This Week's Stars
-92276cda4b6ca16a2a5f91b12e91b3f6: Today's Stars
+af464552e83bcf31231a6c08409bd362: Stars This Month
+a5ca0db89558b7cb3b0f5b32b7004f4c: Stars This Week
+92276cda4b6ca16a2a5f91b12e91b3f6: Stars Today
 c42f0bcabab2a8f092b3f60632653739: Total Stars
 2f9305e988a4b78477108bae269c6000: No view permission
 1955b265d56843b128bd63eccb575717: Invite
@@ -4712,7 +4710,7 @@ a6b71dae843e3e0aadbc071a6b8ef9bb: child
 ebf05d90783f6e74bc9d7e0bf8e0bf6d: "<0>Collapsed {{count}} Work Items,</0><1>click
   to load more</1>"
 d7972c3efd796757891a68abc1d3cdd2: Confirm deletion? If you want to retrieve the Work
-  Item after deletion, you can recover it from the Work Item recycle bin.
+  Item after deletion, you can recover it from the Work Item trash.
 0b0d6cb3b2edb2dfbbacc696e113b418: Convert
 1dfe58237bbf0c469916a53e35029b50: Delete draft
 cc7f7ee8a7378d31bfdfba3ab06345a3: 'Note: All child Work Items under the task will
@@ -4788,7 +4786,7 @@ b82d030d16f0e534ea477ebca6239e55: Kanban column
 ec1bbc12d5f094bddded568a745978e0: All Work Items
 3acc8336e2c9998a26d9e3d8b2d3034f: Reviewer
 07c8087580f56c627cd7172d7818b874: Author
-9f25109cf21ea0de7c3e215830ff7e3f: This Month Overdue
+9f25109cf21ea0de7c3e215830ff7e3f: This month overdue
 4ce6c2bd04b8ec4b2e0b1b6d619c91d4: Not overdue
 339c3a173aee83b6c27baef42fd44a12: Today's Overdue
 45d841553bc5bc86eabea3efdd9261eb: This Week Overdue
@@ -4924,7 +4922,7 @@ ce94b9d462a216a6cec91245f27fc20f: 'Failed to create sub-task: {{reason}}'
   delete {{count}} Work Items. Confirm to continue?
 65a0b4d2217c8bb573cbb83a9f92f167: Confirm deletion of the selected {{count}} Work
   Items? If you want to recover Work Items after deletion, you can do so through the
-  Work Item recycle bin.
+  Work Item trash.
 338dec45bac3b84fdc982a3db8b872e4: You have selected <1>select all</1>, which will
   affect {{count}} Work Items. Confirm to update?
 6db55b0ea0da1df98792bcdadb534fca: Confirm to update the selected {{count}} Work Items?
@@ -5437,13 +5435,13 @@ d976e9c9b16db8d2355e1975bc16d454: Thoroughly delete prompt
 3834a8dc50b2404aeb96d2c8c8c35405: Delete all Work Items
 ab7bdf217eedc1cf5e5e60dde22d6322: Only delete current Work Item
 c11b61e77c9eaeade6bcb0da099d2b77: Currently selected Work Item has child work items
-  in the recycle bin. Do you want to restore them together? If yes, click 【Restore
-  All Work Items】; if not, click 【Restore Only Current Work Item】.
+  in the trash. Do you want to restore them together? If yes, click 【Restore All Work
+  Items】; if not, click 【Restore Only Current Work Item】.
 594f4ea907f57c73523cefb52409e9f6: There are {{count}} Work Items without recovery
   permission, and the remaining data allows recovery!
 da324d7650740c795c6268396c96e1b8: Currently selected Work Items have sub-work items
-  in the recycle bin. Do you want to delete them all together? If yes, click "Delete
-  all Work Items"; if not, click "Only delete the current Work Item".
+  in the trash. Do you want to delete them all together? If yes, click "Delete all
+  Work Items"; if not, click "Only delete the current Work Item".
 9d8c3a5aedee067950e62d4243eef852: After complete deletion, these Work Item data cannot
   be retrieved, please be cautious.
 16139a869e5b3b569dc001a7c1a42956: Once the selected Work Items are permanently deleted,
@@ -6806,7 +6804,7 @@ fdf3bbc4bfa9b76b649eb9327e9ee697: Deployment time
 4677c98885ee99be67f6a9e14010982e: Download log package
 29eeb58464ea77446fb5051ed944a067: Download artifacts
 7a7a55c71c48da2f109adde9318b9966: Edit artifact repository
-e77e3d58b0dcffaa8ded5cabb79d056d: time-consuming
+e77e3d58b0dcffaa8ded5cabb79d056d: Time-consuming
 7fc17d52a117055dafe5a279eedb2cf8: Current repository is empty and cannot create pipeline
 16b00c086f1a0774d6d281996e07ae12: Experience Now
 1fdcec4293657c543ed0061f1029596f: Gitee Go pipeline service for this repository has
@@ -10935,7 +10933,7 @@ c277f82a1c95257e1f692b7451b4f96a: Ready to use, no need for development or maint
 18825ed8abc753dae2d4a57fee490783: Improve technical support, professional engineers
   respond quickly, worry-free and reassuring
 17bda0295dae44d621722d53a14279f0: Authorize users to operate custom status transitions
-'08a60eb09142575e888e81f1c97e7d50': Work item data backup (Recycle bin)
+'08a60eb09142575e888e81f1c97e7d50': Work item data backup (Trash)
 d894c437a367f79b379392a06f9faa0c: Multiple repository grouping management
 a95f87017a3aa32c5e896535bcee6ecd: Task/Requirement/Defect Management
 cffd0c91c52f54e81076fd6c4cb73428: Custom Task Type (Status/Workflow/Fields)
@@ -11618,8 +11616,8 @@ f8f60bdf071d9dc954c0a2bb1d14c32e: Scope cannot be empty
 5f085238b7b2e123e79bf6d1dc3cd203: Document name cannot be empty
 b476a903305fa7f2182c96ca0333ecef: Please select a team
 884bff9e5c5f652952ee128d2653f28d: Copying, please refresh the document list later
-7da283740adbb745cb2c2f542cdf47b6: This operation will move the document to the recycle
-  bin, do you want to continue?
+7da283740adbb745cb2c2f542cdf47b6: This operation will move the document to trash,
+  do you want to continue?
 b46326fa4a9bc13217084c9f75320bba: This operation will permanently delete the wiki
   of this repository, do you want to continue?
 e0a7c065e0f57ce4f2e7eb51f5efc860: Only zip/html/txt/markdown files are supported for
@@ -13014,8 +13012,7 @@ b18e3169ae19e527576006c917bc1cd4: Kanban column name
 ed39c8a121d70a958a9c9271db2e79d1: Setting Content
 7851c3fac4e47b96d26597fe726d1345: Rule
 aa08f2343965f5b6d221cd7e711ba7dc: Optional
-b268cd7a614761eb8fe37c06f8b0f0ce: Wiki does not support adding to the recycle bin
-  temporarily
+b268cd7a614761eb8fe37c06f8b0f0ce: Wiki does not support adding to trash temporarily
 0ed74d86e80be58c64f9f3cfbc77b278: Intention
 67b2e23ecc23382cc8f7f63ceaafbe70: Course design example - C language telephone ordering
   system (example)
@@ -19894,7 +19891,7 @@ dfc5a223070178814931b0b58b08bdac: No permission to delete this node
 fccb8cabfd63977797426940a34ea5ca: Iteration directory cannot be deleted
 b39843c9c348b47dcb2b49ee33a568f5: There are repository Wikis under the folder, please
   move them to another folder before deleting.
-7cdce09ea3f3445c12ec762ad12903db: Successfully moved to the recycle bin
+7cdce09ea3f3445c12ec762ad12903db: Successfully moved to trash
 a4ce6a10b7ce5717f00c64ba0c54232f: You do not have permission to delete this document
 21dd2fb0272b3acdbcad0fec263abe2e: A file with the same name already exists in this
   directory
@@ -20215,10 +20212,10 @@ c493d417b7fd1364131b3d8915ecd814: For company
 a81034da79475b29204316b09d9981b0: No Group
 c6fe2eb2c986c38352fe8ca32ce453d7: Morning
 5422a304a0bf193e48bdd6ab7eeedfb1: Noon
-af81dcf37aa86091075e43941c4dfaa7: afternoon
+af81dcf37aa86091075e43941c4dfaa7: Afternoon
 a9b1124b34615118f85ed09bec2cc88b: Evening
 cf8e7a4160aad304b685cb1db47c3e0a: Repository deleted
-bdd682107036ad747c8fd6fe527c987b: Move work item to recycle bin
+bdd682107036ad747c8fd6fe527c987b: Move to trash
 aea0d9193d1b6a558c0da6dfae79d167: Primary Reviewer
 de024394efaf6d45cb2e81dfe983fef9: General reviewer
 d75b2530739790f2018e25838c3006e7: Too many differences, has been blocked
@@ -20354,7 +20351,7 @@ b33717bcf7011f745c26c648c3f82423: No permission to modify test case comment
 46f0428dd3f807e80133e04378cec1d7: Step description cannot be empty!
 5f428ff2d627ef48de1d3d96e5add172: Invalid sorting value
 5c1836c9a967ad916e3c5542e12e20d3: Failed to create test case step!
-7bc6346829c9af35e630eb1883e325d5: Clearing the recycle bin
+7bc6346829c9af35e630eb1883e325d5: Clearing the trash
 c9e0a1c254b80af6d72d7dba07269264: Failed to get work item list!
 d3d4914d318f54044827b40c969ea61d: Description content is required
 287d5c6647123c6f45061044493f3e61: Access denied
@@ -21742,7 +21739,7 @@ b298c659892472f0bbed44e12779a1b2: No permission to read tasks
 5840e1eb30accc8e59fdb49704a395f5: No permission to search tasks
 2ee02b0e809ebfeff2b9fa1248a856e7: There are work items in migration
 364aae06bf8237791c33dc9d66d47b00: Task not found
-5fd3381f8cbb256d26cd98294d7f2261: Task has been moved to the recycle bin
+5fd3381f8cbb256d26cd98294d7f2261: Task has been moved to trash
 29591977a09df30429d7b73f6a6aafda: No permission to modify task attributes
 625917526a71c88730ebc86329621c2d: No permission to modify task content
 ffec3cf79cfaf1220d87b8d159cd006c: Time format error
@@ -23420,7 +23417,7 @@ ed1b8d7bec9f0b007d23831b88e7aa88: Latest recommendations
 5aecdcb48ee1a684a0217de0bcc81f81: Popular projects
 ea1032a53c7bd394b5feccf0e776fd26: Trending Today
 fb02947e8607f111c4e9c357d8f85b45: Trending This Week
-7cc73a88936699165e99d6d4316e5b24: Trending This Month
+7cc73a88936699165e99d6d4316e5b24: Trending This month
 86559880fe4e9a9d41bebdf3653fd1be: Recommended Projects
 7f0a489ec23acc9a39fe683af5cb5690: 'Project Category:'
 c32dd193cf8eccdedf664581bfe9f771: Latest recommended projects
@@ -28989,10 +28986,10 @@ d6de68418a4ce37a4e70ede0b5ce38f9: Email suffix error, the submitted email suffix
 4003d09351a78054c80a33eafb80d14a: Gitee 10th Anniversary
 cdb4ee2aea69cc6a83331bbe96dc2caa: "."
 d03502c43d74a30b936740a9517dc4ea: ","
-2f04a3aa051f1f60d695f6c44c0c3d38: QQ
 2842de9d43a98b535ed75b3176a95e9b: P0
 fbeae7c18667b6987518f3ae61ed8b19: P1
 b7a56873cd771f2c446d369b649430b6: 25
+2f04a3aa051f1f60d695f6c44c0c3d38: QQ
 b4043b0b8297e379bc559ab33b6ae9c7: GB
 59281a6b29351cfa2ea93986fe7aa7b8: KB
 1d09f6fa23235881514da0e5f8f78976: MB
@@ -29003,7 +29000,7 @@ b4043b0b8297e379bc559ab33b6ae9c7: GB
 9ce28c43c1ca7e5a98e8a15952d42076: OL
 acbbb742c7524cecdec7557d60e4a19a: P2
 c3972ccd735419073803fcacedfe2ea2: PR
-90ddf1963abb36c9921ce7f1ac9cbd94: Tab
+4da68332fa95924a434dafe936b6c226: 20G
 eb6379b2b03ff2c4d991de29bcaac777: 10G
 68c55cdc265db5ebdce885c914c4774f: oid
 944c27e5b97ab7793e4b6e9ff2938489: :day
@@ -29011,19 +29008,19 @@ c9e6290e09f45a7432b78addc3e5a458: 'Hi '
 e7a241debad56609ee660a5d2ef258a1: URL
 db9a4c7d4c195ebf80068dd04120accc: CPU
 ab5df625bc76dbd4e163bed2dd888df8: "..."
-4da68332fa95924a434dafe936b6c226: 20G
-8e5b1a73152cf01c1ce614f31711fc41: Fork
-f744c630beffc76bfae354b2fb4c3e8d: CSDN
+90ddf1963abb36c9921ce7f1ac9cbd94: Tab
 e357d396871d10121ee7921467cae8c0: Star
 b5bea41b6c623f7c09f1bf24dcae58eb: true
 40510175845988f13f6162ed8526f0b0: 1000
+8e5b1a73152cf01c1ce614f31711fc41: Fork
+f744c630beffc76bfae354b2fb4c3e8d: CSDN
 0725ab7e1939b0537fe54dba323d3341: AKSK
 4cb4ea25583c25647247ae96fc90225d: :year
 6c19075dcbf5c456f2821eb12b986071: Byte
 5a0b83e19c5750eed6d8d46cb858d15c: 2500
 a2232ab473881122e36e921157a87647: LOGO
-3c26e7a5b744df5ab7cb167281bec422: CI/CD
 4d8000301fccdede067922398f6b85d6: Bytes
+3c26e7a5b744df5ab7cb167281bec422: CI/CD
 42f4c1b243334ddbddbcc44b02719674: gitee
 a5c7d1719e284f2c9485405d44f62d15: :month
 48dc76dfa23ae03fea1372c5ed6c0e1b: Issue
@@ -29036,8 +29033,8 @@ f911e414cf6bdfc595532ab166b5ba0f: GitHub
 efa1f375d76194fa51a3556a97e641e6: public
 ce770667e5f9b0d8f55367bb79419689: Google
 666067dd376e5d4553b8fd554f855855: Issues
-2fde97202ed16c04e4f594ec0adc5fcc: Trustie
 d0fe347a4cdb944241f6f2736fd93d68: Gitee ?
+2fde97202ed16c04e4f594ec0adc5fcc: Trustie
 6df591dbda90672733df80fad90ab166: Git LFS
 a5b0e56ecfa0ad35e928feea55616593: OSChina
 3f8cbbe8827082ce276cde7ac043007a: Gitee Go
@@ -29049,18 +29046,18 @@ c504c6fbdff9456860071361d1c8e71a: "%Y-%m-%d"
 707112849df34db07652a0dbf1f67dbc: Gitee.com
 '09445910ed9d40862988206a6441041f': GITEE.COM
 e86a854a9244b2e3d7e2b810a6f5f900: Gitee OSC
-e74d1c9b9af3b5b28db118719a174c1c: user_%{id}
 d4dc7f37372760673a6de3f8f7be2519: Gitee Scan
+e74d1c9b9af3b5b28db118719a174c1c: user_%{id}
 3221a042ea3677a8d4e0d22c9200299b: Regenerate
 105be4182090c6755ae52b40ac2ad7f9: note_%{id}
 a1e5fb4f1b43c27b36614bae2703501b: "%{article}"
 1d3194025478ab3dae23d7c96c20d08d: Git Ignore
-f3c9b19b0c79562fcd430a16f78ce5ad: issue_%{id}
+263b12b5bb083fe136c8b25632a795a1: label_%{id}
 9285ba34f8aa1c2dce589db3354cfb61: WindowsLive
 30441885f547973f77a4f614a6cca882: Tencent Hub
 bf1d3bca64dbf5edd220bad1c0782aa9: Enable Demo
 b46dc039588643e22c8af98efdc55917: "%{category}"
-263b12b5bb083fe136c8b25632a795a1: label_%{id}
+f3c9b19b0c79562fcd430a16f78ce5ad: issue_%{id}
 207718993c6356c34d538116ef612824: donate_%{id}
 9b8ce3d85f804a0601388751195729a5: project_%{id}
 1a3b23c70d280f4bddda12ec2aed2a09: Pull Requests
@@ -29068,18 +29065,18 @@ b46dc039588643e22c8af98efdc55917: "%{category}"
 be7aeed0a809220524a7a15788f6e95a: Newly created
 2161eaef94ed85a131e93d6133b0978c: doc_node_%{id}
 108e02dff532ac61e36d620d8cb02e4b: See details >>
-f67050e7f113e815ec5f5f436a4c3480: wiki_info_%{id}
 92157d0b8b82a76be9550637d2890faa: OAuth2 Provider
 b119fae903e4917adf4cd9c5e1550e5c: " pull requests "
+f67050e7f113e815ec5f5f436a4c3480: wiki_info_%{id}
 bd05c7458b058c29735cb317379b0eee: namespace_%{id}
 d7e55d5a8beb582a6ae647cf5cf0d3b2: milestone_%{id}
-3abc5145d6052f1f8e832d047be17b13: collection_%{id}
 9cd9d2fd4c33f74465608830a62a997e: issue_type_%{id}
+3abc5145d6052f1f8e832d047be17b13: collection_%{id}
 34a1851611d0efa4d99bd1f453ee3144: "%Y-%m-%d %H:%M:%S"
 fb4a437450e782354ea18f8f05247816: attach_file_%{id}
 532a339bc6dce07dab0a81dea786760e: project_tag_%{id}
-6734e548096e73c55335d91083bac47b: Generate new token
 ef6ad9a02f2b1c68ac145be876668baf: pull_request_%{id}
+6734e548096e73c55335d91083bac47b: Generate new token
 02c9b9b964a12c6112991f05bb4bd2ba: organization_%{id}
 d07fb8053a5a1c5c155ffe91b87c9433: priority_option_one
 ddc9f187491305d59489da0687534807: Enable my skills map

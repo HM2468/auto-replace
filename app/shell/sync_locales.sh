@@ -2,17 +2,26 @@
 
 # checkout to the right branch
 cd /Users/miaohuang/work/gitee-ent-web
-git checkout russia/develop
 git reset .
 git checkout .
 git clean -f
+git checkout russia/develop
+
 
 # checkout to the right branch
 cd /Users/miaohuang/work/gitee
-git checkout russia-integration
 git reset .
 git checkout .
 git clean -f
+git checkout russia-integration
+
+cd /Users/miaohuang/repos/gitee-ru-localization
+git reset .
+git checkout .
+git clean -f
+git checkout master
+git branch -D sync_source
+git checkout -b sync_source
 
 cd /Users/miaohuang/repos/scripts/app/shell
 # chmod +x sync_locales.sh
@@ -54,3 +63,8 @@ for (( i=0; i<${#ORIGIN_PATHS[@]}; i++ )); do
         echo "Error during copy for ${TARGET_PATHS[$i]}"
     fi
 done
+
+cd /Users/miaohuang/repos/gitee-ru-localization
+git add .
+git commit -m "sync from source code"
+git push -f origin sync_source

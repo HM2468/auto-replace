@@ -17,7 +17,7 @@ git clean -f
 git checkout russia-integration
 git pull origin russia-integration
 
-cd /Users/miaohuang/repos/gitee-ru-localization
+cd /Users/miaohuang/repos/gitee-locales
 git reset .
 git checkout .
 git clean -f
@@ -38,10 +38,10 @@ declare -a ORIGIN_PATHS=(
 
 # Define an array of corresponding target paths
 declare -a TARGET_PATHS=(
-    "/Users/miaohuang/repos/gitee-ru-localization/gitee-ent-web/config/locales"
-    "/Users/miaohuang/repos/gitee-ru-localization/gitee-ent-web/packages/gitee-community-web/public/static/locales"
-    "/Users/miaohuang/repos/gitee-ru-localization/Gitee/Config/locales"
-    "/Users/miaohuang/repos/gitee-ru-localization/Gitee/webpack/packages/gitee-locales"
+    "/Users/miaohuang/repos/gitee-locales/gitee-ent-web/config/locales"
+    "/Users/miaohuang/repos/gitee-locales/gitee-ent-web/packages/gitee-community-web/public/static/locales"
+    "/Users/miaohuang/repos/gitee-locales/Gitee/Config/locales"
+    "/Users/miaohuang/repos/gitee-locales/Gitee/webpack/packages/gitee-locales"
 )
 
 # Check if the number of origin paths and target paths are the same
@@ -66,7 +66,7 @@ for (( i=0; i<${#ORIGIN_PATHS[@]}; i++ )); do
     fi
 done
 
-cd /Users/miaohuang/repos/gitee-ru-localization
+cd /Users/miaohuang/repos/gitee-locales
 git add .
 git commit -m "sync from source code"
 git push -f origin sync_source

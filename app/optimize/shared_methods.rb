@@ -172,6 +172,7 @@ module SharedMethods
     ch_res_hash = ch_json_hash.merge(ch_yml_hash)
 
     write_yml(en_res_hash, en_yml_path)
+    write_yml(en_res_hash, en_json_path)
     write_yml(ch_res_hash, ch_yml_path)
 
     yml_missing_path = output_root + "output/yml/missing.yml"

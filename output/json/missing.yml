@@ -22,7 +22,7 @@ b0dff016ff17d665f4c60411ca7cefcf: task
 96a66ef34079a5195591632bf867a51f: this month
 7f5fab4d966e23f67ce55167ea90f0fc: next week
 a55cb0e9ce261699a13cc5837caf1f21: optional
-5c9cf5e0dd47dc80ac046d84c26886ec: today
+5c9cf5e0dd47dc80ac046d84c26886ec: Today
 83c37e8a4a5f2c360b3e2d059866f96b: rename
 84a07f292f1f78cc4d24cfe118da8822: fold
 a5b4e9d5e4e0f183931dd4727d5021fa: tested
@@ -36,8 +36,8 @@ fc0024fcd10d9ea42e9a9076f9f2f147: 'total '
 a898d7c3d78cb1c00d558551fc40cd6f: next
 ac0562bba4a57c6841cba10249e90ffc: RAW
 48205ac9977f6dfa9d82232c41bb2353: review status
-f020e4630a54d32202cdf29b31ef512f: loading
-d70928debc2e80cdf099d55b89103a85: reset password
+f020e4630a54d32202cdf29b31ef512f: Loading
+d70928debc2e80cdf099d55b89103a85: Reset password
 1625ef5292cf33ab6263d81016526a05: add email
 2b23433d17a02b745b37ead3fb95055e: user login
 412a339e29d1c11ae5e6faf859dd7cbe: All members
@@ -45,9 +45,9 @@ d70928debc2e80cdf099d55b89103a85: reset password
 37601cafeed893dd9792981b60f1f0c5: Pull Request
 aed14c36b7601e2567c4cf24ed5fc40a: must pass
 626c02a44911e6b2f253e485d18c928a: select push
-dd75eaf740e691db2420e274c6a9a2cb: delete comment
+dd75eaf740e691db2420e274c6a9a2cb: Delete comment
 daf5103f90cc7d3a67aaca62f29827ef: rescan
-c6f37061bf42d40cb9f59463682bf720: add category
+c6f37061bf42d40cb9f59463682bf720: Add category
 0b3fab36248cb09d05907df305f58d1b: review comment
 51fdfeaaee7553096933512f965146f1: find file
 203f20e9b9c2db509bf8c6e0d172d701: change role
@@ -57,7 +57,7 @@ d617f8ad97aee02a25e518a72164ea79: comment information
 f7c4743ceb99a953b0c1fbbae4fb1c96: Related to Me
 2c60316d5ea6b49c5a42d82d148c086e: never expire
 63ec69fde300e6d6040089df9d6f27ab: Wiki
-954bf7b1291ecaa8bc1eff0c7618b4cc: my activity
+954bf7b1291ecaa8bc1eff0c7618b4cc: My activities
 5985039f106df054b43c3529139613bf: Team
 2336147a7f84398562737723d1384627: updating
 7f68ebad19ba6bcd2a09ae0cc3c71d9b: check for updates
@@ -77,7 +77,7 @@ f9d89544413a3455b6b4527fba209255: automation settings
 58f5938cf41946a12af8682702a43d3b: Sonar
 456b36a820f273f05624c0cb8c01b82f: deleted branch
 9046da16aea909ba75a36cec13b56cb2: Pages
-035e2fb1aa0d98b5063c3a7e495d9c38: Gitee
+035e2fb1aa0d98b5063c3a7e495d9c38: Gitlife
 a9948ff0140d59edafbbe4a7f0e830a7: Back
 f4f16d00806f799214fcc3e9d1861400: 'current version '
 95b4ff9fd3b50813289c2e8405691f89: Confirm deletion?
@@ -119,7 +119,7 @@ cc1d3b0234846714b0aeda6cc34b057b: license
 43838e1bbeec6f3ceedb8db73fab7b8f: my company workspace
 3f565392471c4a1b5725726b0eb68212: Web IDE
 6a844b83e104b40f4119141eeff97d1f: Loading...
-661219d5ef4c64a721c6c5728dbbc26e: private token update prompt
+661219d5ef4c64a721c6c5728dbbc26e: Private token update prompt
 8db13af8fed61c12fa9b83bd989b454a: "<field/>"
 7c72ed2e8a366a83766613fe8a594317: No matching results found
 695ef3a8a11c06dc8e867cbc6b0c27de: New Issue
@@ -135,15 +135,15 @@ bc64282aa624dff065be07342caa1499: This token will never expire
 9c171c4f6926f8d1c9f10289078fa542: code comment options configuration
 107996a47ff5d293e71a7ec156c80160: Change planning status successful
 bed617884b187e86348937fa48bf5172: Change planning status failed
-ce88efd937b70e30b63f6e164fefabe9: internal open-source governance in companies
+ce88efd937b70e30b63f6e164fefabe9: Inner Source governance in company
 67bb0b6d6a903b1455ef7482d10de0ca: Please select a repository...
 8e01bd5785ce6a643e0415a148c5e9c4: you have not created a private token
 93f1fae89ab28452ba8346e6ba753c18: Confirm deletion?
 f4137804fc55a967df4b22f388ea017b: API Docs
-872324f0b1ded4f886aa9560685f7de9: private token generation prompt
+872324f0b1ded4f886aa9560685f7de9: Private token generation prompt
 f5b169d098a3f68b6bb1b03c794503c7: WebHooks
 678d8f45d73490236ef48fa5495db822: no data meets the conditions
-dcd0a91db786a9dca1f495329495c474: Gitee LFS
+dcd0a91db786a9dca1f495329495c474: Gitlife LFS
 63a08024a987e8edb622f4b6d47637fa: Confirm deletion?
 dc7d7ce62fff8866c9173303c73421b5: Add assignee/collaborator
 81bb3c007084be121d3e6728e2358c31: Please fill in the private token description
@@ -156,8 +156,8 @@ dff8263c710697937ba40ee03dc318a0: Loading work item details...
 e23501a5ee242e149075c14e859c244d: access your email and phone number
 a9c278b3ddf2e4a26a76c208b7db36e8: Default knowledge base editor settings
 18d236887d7eee7d7a34ca6b9114601a: No Pull Requests of this type available
-e89c6163b7151ee912da5430c3adeb54: use a private token to access
-6abeb191738e37235815b3ca9761971a: team, repository group, repository
+e89c6163b7151ee912da5430c3adeb54: Can access with private token
+6abeb191738e37235815b3ca9761971a: Team, repository group, repository
 e7828c002a8e52e038613520297f0bf4: using a private token, you can via
 a66d2b1158b725dc110e4ceb53c4420a: test management - test plan
 aa7d0b1e9d68f2524e575f8c217438aa: Return {{title}}
@@ -165,11 +165,11 @@ fd9c4074587515a208b0433ef4252f92: update license successful
 7bcf5bf8bd64f8b6f4d2a83a9feee949: New module_
 b303e9cacde51c801fce8a4d76d47c7e: AccessKeyId
 3986a3111cfa19e7d55931fece8e8a6a: "{{value}} person"
-2d770e85bdceacaaf26f12875a5217c3: Gitee Pages
+2d770e85bdceacaaf26f12875a5217c3: Gitlife Pages
 a62f59b2766fc052c6ffc2fc3bacaf48: login expired, please log in again
 38f685bf4738b294d67a2afce3f959d9: Pull Request
-3141617fb23a60f9089bb4b29d540fd2: Gitee Reward
-cc38ae6ac364ac92861df392ff019524: pipeline Gitee go
+3141617fb23a60f9089bb4b29d540fd2: Gitlife Reward
+cc38ae6ac364ac92861df392ff019524: pipeline Gitlife go
 5f49dad16568db9ec7bb8e12882d9d55: 400-606-0201
 969cbd7b7bda6de11840a5e247c1d6b3: view, create, update your projects
 80427f6072718fa9fa75edc4eea50bac: view, deploy, delete your public key
@@ -236,7 +236,7 @@ d661d73049dc263af850b4137178f5a9: "{{text}}: {{percentage}}"
 7f664faa053b284171bdf911e0082331: Update complete! {{count}} test cases updated successfully
 d2ae5247ec64faef081991db71cc8e8d: "{{path}} line {{endLine}}"
 6474a7164d02db52a546feb8a52d472e: "{{targetName}}: <target />"
-f16b2c8e7a104161e6cf05e8d8d96ea1: Gitee Professional - Professional DevOps research and development efficiency platform
+f16b2c8e7a104161e6cf05e8d8d96ea1: Gitlife Professional - Professional DevOps research and development efficiency platform
 41922ee557904eac207bc6b9a3c7abaa: You have successfully requested "{{action}}" on {{check}}
 1aad1fb21cebcd11c2f3d00279b1755d: Single import of company members must not exceed 500, please split the file and import in multiple times
 8672ecda318519c34eb2ccef061c157b: Import complete! {{successCount}} company members successfully imported
@@ -244,7 +244,7 @@ fc695ba48da7d503594a6a3773a78d19: Verification complete! {{successCount}} compan
 1de5c18baaa17eb73b32c4e424966970: Page {{pageNum}} / {{totalCount}}
 2cf421a2c9a443e381e24e43f3f1aa84: The project is undergoing a type change operation, temporary access to the resource is not available, please try again later
 '090719ba171addea4a081f60382053cf': I am aware that the private token will no longer be displayed in plain text on the platform, and I have copied and saved the token.
-95cf1fe3126b9636dc9f9a1725d17b59: Gitee Go - Professional CI/CD pipeline - gitee.ru
+95cf1fe3126b9636dc9f9a1725d17b59: Gitlife Go - Professional CI/CD pipeline - gitlife.ru
 efd71b53faeb6f8edbf27e6f26398753: If the editor does not meet your usage habits during use, you can adjust the default editor of the knowledge base.
 bc9d7cf70aec0c0331ce3e6f4cd16dd8: "Work item type: {{option_issue_type_title}}"
 8a60fb56ea09b0ce845ea054ec0e86ef: "{{visibility}}{{type}}, {{description}}"
@@ -252,12 +252,12 @@ bc9d7cf70aec0c0331ce3e6f4cd16dd8: "Work item type: {{option_issue_type_title}}"
 909792b8a1b7394a137fc5f35389c191: The applet is launched for the company version to facilitate work item collaboration on mobile devices, offering a lighter, more convenient, and faster research and development management experience.
 dd3022583516bf9e8c2f9c5c6daa7c26: If you have forgotten or wish to update this private token, you can click the button on the right to regenerate it. After generating a new token, the current token will no longer have access to {{name}}.
 c497d544430ed5683d5375cc7ab7ef90: Verification complete! <1>{{failedCount}}</1> company members failed verification, please <3>download the verification file</3>, make corrections as prompted and re-upload
-57decf200a41838264e65e89337a4ccd: Gitee Go is a new CI/CD tool launched by Gitee, providing continuous integration and continuous delivery (deployment) capabilities to help companies continuously improve the quality and efficiency of application delivery
+57decf200a41838264e65e89337a4ccd: Gitlife Go is a new CI/CD tool launched by Gitlife, providing continuous integration and continuous delivery (deployment) capabilities to help companies continuously improve the quality and efficiency of application delivery
 7d03bec2a5e50e3682071cf5b352f71e: Confirm cancellation of the association between the test plan <b>{{testPlanTitle}}</b> and the Pull Request <b>{{pullTitle}}</b>?
 89421ff68eb82b5066961c254da08665: CI/CD, continuous integration, continuous deployment, continuous delivery, pipelines, devops, gitops, agile development, continuous testing, automated testing, automated building, code scanning, artifact repository
 953b9155a9140a31e2f1cad2965d5f55: Providing a one-stop research and development management solution for companies, including code management, project management, document collaboration, defect management, continuous integration, etc., helping companies to plan and manage the development process orderly, improving research and development efficiency and quality.
 2f7312e1563aeec4c51d5f5b165ed541: Verification complete! {{successCount}} company members verified successfully, <3>{{failedCount}}</3> company members failed verification, you can <5>download the verification file</5>, make corrections as prompted and re-upload
 e72ec4c53f5af9e634b7fd490958aa79: Import complete! {{successCount}} company members imported successfully, <3>{{failedCount}}</3> company members failed to import, you can <5>download the failure diagnosis document</5>, make corrections as prompted and re-upload
-6078c29637fdf3a267c20302cf120d2d: Gitee, Gitee Professional, code management, collaborative development, agile development, research and development management, DevOps, project management, iteration planning, Git, SVN, code hosting, Pull Request, CodeReview, task management, document collaboration, continuous integration, Bug management
+6078c29637fdf3a267c20302cf120d2d: Gitlife, Gitlife Professional, code management, collaborative development, agile development, research and development management, DevOps, project management, iteration planning, Git, SVN, code hosting, Pull Request, CodeReview, task management, document collaboration, continuous integration, Bug management
 
 

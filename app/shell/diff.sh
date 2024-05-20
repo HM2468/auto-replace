@@ -14,7 +14,7 @@ FILE_PATH=$1
 
 # Define other paths
 TMP_DIR="/Users/miaohuang/Desktop/tmp/diff_to_html"
-WORK_DIR="/Users/miaohuang/repos/scripts"
+WORK_DIR="/Users/miaohuang/repos/gitee-locales"
 DIFF_FILE="$TMP_DIR/changes.diff"
 HTML_FILE="$TMP_DIR/changes.html"
 

@@ -19,7 +19,7 @@ git checkout russia-integration
 git branch -D hm/russia
 git checkout -b hm/russia
 
-cd /Users/miaohuang/repos/gitee-ru-localization
+cd /Users/miaohuang/repos/gitee-locales
 git reset .
 git checkout .
 git clean -f
@@ -38,10 +38,10 @@ declare -a TARGET_PATHS=(
 
 # Define an array of corresponding target paths
 declare -a ORIGIN_PATHS=(
-    "/Users/miaohuang/repos/gitee-ru-localization/gitee-ent-web/config/locales"
-    "/Users/miaohuang/repos/gitee-ru-localization/gitee-ent-web/packages/gitee-community-web/public/static/locales"
-    "/Users/miaohuang/repos/gitee-ru-localization/Gitee/Config/locales"
-    "/Users/miaohuang/repos/gitee-ru-localization/Gitee/webpack/packages/gitee-locales"
+    "/Users/miaohuang/repos/gitee-locales/gitee-ent-web/config/locales"
+    "/Users/miaohuang/repos/gitee-locales/gitee-ent-web/packages/gitee-community-web/public/static/locales"
+    "/Users/miaohuang/repos/gitee-locales/Gitee/Config/locales"
+    "/Users/miaohuang/repos/gitee-locales/Gitee/webpack/packages/gitee-locales"
 )
 
 # Check if the number of origin paths and target paths are the same

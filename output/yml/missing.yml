@@ -1,25 +1,25 @@
 ---
 e3b0c44298fc1c149afbf4c8996fb924: ''
-4e07408562bedb8b60ce05c1decfe3ad: '3'
-a318c24216defe206feeb73ef5be0003: "+"
-ef2d127de37b942baad06145e54b0c61: '5'
-6b86b273ff34fce19d6b804eff5a3f57: '1'
-c4a40ea8fe35627476f7f8cb9e1fc7f8: ","
-f114611cd61000bf57db19a6dab8057d: ":"
-d4735e3a265e16eee03f59718b9b5d03: '2'
 4b227777d4dd1fc61c6f884f48641d02: '4'
+d4735e3a265e16eee03f59718b9b5d03: '2'
+f114611cd61000bf57db19a6dab8057d: ":"
 e7f6c011776e8db7cd330b54174fd76f: '6'
 7902699be42c8a8e46fbbb4501726517: '7'
+4e07408562bedb8b60ce05c1decfe3ad: '3'
+eb0d5884569b398e475b89e77a068c6c: "."
 2c624232cdd221771294dfbb310aca00: '8'
 19581e27de7ced00ff1ce50b2047e7a5: '9'
-eb0d5884569b398e475b89e77a068c6c: "."
 cdb4ee2aea69cc6a83331bbe96dc2caa: "."
 d03502c43d74a30b936740a9517dc4ea: ","
+ef2d127de37b942baad06145e54b0c61: '5'
+a318c24216defe206feeb73ef5be0003: "+"
+6b86b273ff34fce19d6b804eff5a3f57: '1'
+c4a40ea8fe35627476f7f8cb9e1fc7f8: ","
 ad9464da161a8d5ae3709ec94baad99d: ","
-2842de9d43a98b535ed75b3176a95e9b: P0
-fbeae7c18667b6987518f3ae61ed8b19: P1
 b7a56873cd771f2c446d369b649430b6: 25
 2f04a3aa051f1f60d695f6c44c0c3d38: QQ
+2842de9d43a98b535ed75b3176a95e9b: P0
+fbeae7c18667b6987518f3ae61ed8b19: P1
 b4043b0b8297e379bc559ab33b6ae9c7: GB
 59281a6b29351cfa2ea93986fe7aa7b8: KB
 1d09f6fa23235881514da0e5f8f78976: MB
@@ -39,11 +39,11 @@ e7a241debad56609ee660a5d2ef258a1: URL
 db9a4c7d4c195ebf80068dd04120accc: CPU
 ab5df625bc76dbd4e163bed2dd888df8: "..."
 90ddf1963abb36c9921ce7f1ac9cbd94: Tab
+b5bea41b6c623f7c09f1bf24dcae58eb: true
+8e5b1a73152cf01c1ce614f31711fc41: Fork
 f744c630beffc76bfae354b2fb4c3e8d: CSDN
 e357d396871d10121ee7921467cae8c0: Star
-b5bea41b6c623f7c09f1bf24dcae58eb: true
 40510175845988f13f6162ed8526f0b0: 1000
-8e5b1a73152cf01c1ce614f31711fc41: Fork
 63ec69fde300e6d6040089df9d6f27ab: Wiki
 0725ab7e1939b0537fe54dba323d3341: AKSK
 f50aadf4ab590bd27ba41b3174412358: 'URL:'
@@ -51,73 +51,73 @@ f50aadf4ab590bd27ba41b3174412358: 'URL:'
 6c19075dcbf5c456f2821eb12b986071: Byte
 5a0b83e19c5750eed6d8d46cb858d15c: 2500
 a2232ab473881122e36e921157a87647: LOGO
-4d8000301fccdede067922398f6b85d6: Bytes
+6041797b952136d572c661ce93a41455: "%n %u"
 3c26e7a5b744df5ab7cb167281bec422: CI/CD
-42f4c1b243334ddbddbcc44b02719674: gitee
-035e2fb1aa0d98b5063c3a7e495d9c38: Gitee
+4d8000301fccdede067922398f6b85d6: Bytes
 ce721572e529f6b2f5c97af0e4084629: Scrum
 005a0a8da4bcf9e5f4452a8688d847d8: Epics
 a5c7d1719e284f2c9485405d44f62d15: :month
 48dc76dfa23ae03fea1372c5ed6c0e1b: Issue
-ec36cc24f1e150fc0700ac842ccc8a63: "%u %n"
 fcbcf165908dd18a9e49f7ff27810176: false
-6041797b952136d572c661ce93a41455: "%n %u"
+ec36cc24f1e150fc0700ac842ccc8a63: "%u %n"
+666067dd376e5d4553b8fd554f855855: Issues
 9151a836f996c25ea618db449f7f3121: GitLab
 4ceb0bf57a8a59e16e45ccb4778e14c0: READMR
 f911e414cf6bdfc595532ab166b5ba0f: GitHub
 efa1f375d76194fa51a3556a97e641e6: public
 ce770667e5f9b0d8f55367bb79419689: Google
-666067dd376e5d4553b8fd554f855855: Issues
-d0fe347a4cdb944241f6f2736fd93d68: Gitee ?
+a5b0e56ecfa0ad35e928feea55616593: Gitlife
+42f4c1b243334ddbddbcc44b02719674: gitlife
+e86a854a9244b2e3d7e2b810a6f5f900: gitlife
 2fde97202ed16c04e4f594ec0adc5fcc: Trustie
 6df591dbda90672733df80fad90ab166: Git LFS
 3f565392471c4a1b5725726b0eb68212: Web IDE
+035e2fb1aa0d98b5063c3a7e495d9c38: Gitlife
 4814f62c108d82de42a65c515d56fc22: Webhook
-a5b0e56ecfa0ad35e928feea55616593: OSChina
 71ccbded003070b41048007b4876cb43: WebHook
-3f8cbbe8827082ce276cde7ac043007a: Gitee Go
+f4137804fc55a967df4b22f388ea017b: API Docs
+92b5729b8daa62acc959d83c14b84749: "%Y-%m-%d"
 f5b169d098a3f68b6bb1b03c794503c7: WebHooks
 bb88338db29683a411d71d22227fdd94: 'SSH Key:'
 c504c6fbdff9456860071361d1c8e71a: "%Y-%m-%d"
-f4137804fc55a967df4b22f388ea017b: API Docs
 14b6f5a028864f2322367f3f069db111: "%{label}"
 790bf6db22dc1dd8ffb413af7f1c4e21: " issues "
-92b5729b8daa62acc959d83c14b84749: "%Y-%m-%d"
+d0fe347a4cdb944241f6f2736fd93d68: Gitlife ?
 '09af2d6976863c73d0b2f3b357dbef70': MoPaaS V3
-707112849df34db07652a0dbf1f67dbc: Gitee.com
-dcd0a91db786a9dca1f495329495c474: Gitee LFS
 '09445910ed9d40862988206a6441041f': GITEE.COM
-e86a854a9244b2e3d7e2b810a6f5f900: Gitee OSC
-d4dc7f37372760673a6de3f8f7be2519: Gitee Scan
+1d3194025478ab3dae23d7c96c20d08d: Git Ignore
 e74d1c9b9af3b5b28db118719a174c1c: user_%{id}
-3221a042ea3677a8d4e0d22c9200299b: Regenerate
+3f8cbbe8827082ce276cde7ac043007a: Gitlife Go
 105be4182090c6755ae52b40ac2ad7f9: note_%{id}
 a1e5fb4f1b43c27b36614bae2703501b: "%{article}"
-1d3194025478ab3dae23d7c96c20d08d: Git Ignore
+3221a042ea3677a8d4e0d22c9200299b: Regenerate
 81e47b07fc4454562f1c8288fde3372d: KubeConfig
+707112849df34db07652a0dbf1f67dbc: gitlife.ru
 263b12b5bb083fe136c8b25632a795a1: label_%{id}
-9285ba34f8aa1c2dce589db3354cfb61: WindowsLive
+dcd0a91db786a9dca1f495329495c474: Gitlife LFS
 30441885f547973f77a4f614a6cca882: Tencent Hub
-2d770e85bdceacaaf26f12875a5217c3: Gitee Pages
+9285ba34f8aa1c2dce589db3354cfb61: WindowsLive
 b303e9cacde51c801fce8a4d76d47c7e: AccessKeyId
 bf1d3bca64dbf5edd220bad1c0782aa9: Enable Demo
 b46dc039588643e22c8af98efdc55917: "%{category}"
 f3c9b19b0c79562fcd430a16f78ce5ad: issue_%{id}
-38f685bf4738b294d67a2afce3f959d9: Pull Request
 207718993c6356c34d538116ef612824: donate_%{id}
+38f685bf4738b294d67a2afce3f959d9: Pull Request
+d4dc7f37372760673a6de3f8f7be2519: Gitlife Scan
+be7aeed0a809220524a7a15788f6e95a: Newly created
+2d770e85bdceacaaf26f12875a5217c3: Gitlife Pages
+69a04c61829c9c4e4a59cd88da2b4db6: release_%{id}
 c2e5543e465b26d9c8477cdfc50686f6: company_%{id}
 9b8ce3d85f804a0601388751195729a5: project_%{id}
 1a3b23c70d280f4bddda12ec2aed2a09: Pull Requests
-69a04c61829c9c4e4a59cd88da2b4db6: release_%{id}
-be7aeed0a809220524a7a15788f6e95a: Newly created
-2161eaef94ed85a131e93d6133b0978c: doc_node_%{id}
 108e02dff532ac61e36d620d8cb02e4b: See details >>
-7fe846632c4afbe20c62d9558bb27d70: AccessKeySecret
-92157d0b8b82a76be9550637d2890faa: OAuth2 Provider
+2161eaef94ed85a131e93d6133b0978c: doc_node_%{id}
+d7e55d5a8beb582a6ae647cf5cf0d3b2: milestone_%{id}
 b119fae903e4917adf4cd9c5e1550e5c: " pull requests "
 f67050e7f113e815ec5f5f436a4c3480: wiki_info_%{id}
+7fe846632c4afbe20c62d9558bb27d70: AccessKeySecret
+92157d0b8b82a76be9550637d2890faa: OAuth2 Provider
 bd05c7458b058c29735cb317379b0eee: namespace_%{id}
-d7e55d5a8beb582a6ae647cf5cf0d3b2: milestone_%{id}
 3abc5145d6052f1f8e832d047be17b13: collection_%{id}
 03fb8dc8b53ec3ea8ef620f4cf13ebc0: Regenerate token
 9cd9d2fd4c33f74465608830a62a997e: issue_type_%{id}
@@ -133,19 +133,19 @@ d07fb8053a5a1c5c155ffe91b87c9433: priority_option_one
 ddc9f187491305d59489da0687534807: Enable my skills map
 f9b5b1da7b9918a777382131a8c90060: Access Token Revoked
 144dbc2d1281f54b45b1ecdfc1f3c5a3: Invalid Access Token
-fcc9f788b13cd210c7d8097acd71d235: Gitee.com - OSCHINA.NET
-69d17d056264be49232bd97fdcd682fe: oauth_application_%{id}
 a6fd10fd9c9dc04475ff998633a41b8c: 'Pull Requests: %{count}'
+69d17d056264be49232bd97fdcd682fe: oauth_application_%{id}
+fcc9f788b13cd210c7d8097acd71d235: gitlife.ru - gitlife.ru
 596264cd137d6aa05b1ea2fb2e7f4a1a: New private token prompt
+2e5ac275bac285bda2e2c5a02623b16b: Access Token has expired
 2f20a417dda0c9e53baf95cd0c9166d6: Maven repository address
 64310f271992fed39b76913145db6e6f: Description already used
-2e5ac275bac285bda2e2c5a02623b16b: Access Token has expired
 be9ca3ecda8193c5c34ca37e39da999d: Private token description
 2ca0c21e7a813bdda3ed45ee6ddeb0c5: Please select a framework
 661219d5ef4c64a721c6c5728dbbc26e: Private token update prompt
 261dba7261ed8c05a91e04459870ac90: Description cannot be empty
-e5a06fbf7816aef9a16d664103051061: Source branch does not exist
 50f98d824fdfc21dc4eaeee1fe697bc0: Private token does not exist
+e5a06fbf7816aef9a16d664103051061: Source branch does not exist
 e89c6163b7151ee912da5430c3adeb54: Can access with private token
 39096c6ddf4bca538d5e0d0c91af6f98: Click here to enable skills map
 872324f0b1ded4f886aa9560685f7de9: Private token generation prompt
@@ -156,8 +156,8 @@ a85e9e6de556d285e0f1cdb492242c4e: Private token permission change prompt
 f8a6d78ebd3d9c5329158ecdd73c0882: You have not created a private token yet
 f3660e844624842c570c5c66d50169ec: "/static/images/logo-black.svg?t=158106664"
 74d0b15274f6f0bfdfa2d821a2cceb22: Verification error, please try again later!
-662cedf4b2f4d71986cf8a7e54e33a1f: A non-closed pull request cannot be reopened
 24d32c51a91d615d88431089871062bd: 'Tip: Currently supported frameworks include:'
+662cedf4b2f4d71986cf8a7e54e33a1f: A non-closed pull request cannot be reopened
 0ade3c00bd62e95ffa13c65a91f447f7: You have successfully deleted the private token
 acf82b1d12c7609a53f81df48e49cb78: Your private token %{description} has been updated
 46479dbaee43895cdd3d7ba1e747cf22: Your private token %{description} has been generated
@@ -196,4 +196,4 @@ e58caeb2b1853463c1a46223232aa122: Resource Owner Password Credentials flow faile
   be displayed in plain text on the platform and I have copied and saved the token.
 c5f55e3f2dcdf3067265e1ae9aac0cdd: If you forget or wish to update this private token,
   you can click the button on the right to regenerate. After generating a new token,
-  the current token will no longer access Gitee OpenAPI.
+  the current token will no longer access Gitlife OpenAPI.

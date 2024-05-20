@@ -4,14 +4,14 @@ require './opt_yml.rb'
 class OptExecutor
   def initialize
     @opt_yml = OptimizeYML.new(
-      work_dir: "/Users/miaohuang/repos/gitee-ru-localization/Gitee/Config/locales",
+      work_dir: "/Users/miaohuang/repos/gitee-locales/Gitee/Config/locales",
       tar_lang: 'en'
     )
     @opt_json = OptimizeJson.new(
       work_dirs: [
-        "/Users/miaohuang/repos/gitee-ru-localization/gitee-ent-web/config/locales",
-        "/Users/miaohuang/repos/gitee-ru-localization/gitee-ent-web/packages/gitee-community-web/public/static/locales",
-        "/Users/miaohuang/repos/gitee-ru-localization/Gitee/webpack/packages/gitee-locales"
+        "/Users/miaohuang/repos/gitee-locales/gitee-ent-web/config/locales",
+        "/Users/miaohuang/repos/gitee-locales/gitee-ent-web/packages/gitee-community-web/public/static/locales",
+        "/Users/miaohuang/repos/gitee-locales/Gitee/webpack/packages/gitee-locales"
       ],
       tar_lang: 'en'
     )
@@ -24,6 +24,8 @@ class OptExecutor
     @opt_json.read_en_files
     @opt_yml.uniq_en_keys
     @opt_json.uniq_en_keys
+    # @opt_json.compare
+    # @opt_yml.compare
     @opt_yml.merge_missing
     @opt_json.merge_missing
     @opt_yml.merge_values
@@ -42,7 +44,7 @@ end
 
 executor = OptExecutor.new
 
-# 读取 gitee-ru-localization 里文件到 output/locales
+# 读取 gitee-locales 里文件到 output/locales
 # 不用每次执行，按需注释
 # executor.read_locale_files
 
@@ -50,5 +52,5 @@ executor = OptExecutor.new
 # 不用每次执行，按需注释
 # executor.combine
 
-# 将校正后的翻译内容sync到gitee-ru-localization
+# 将校正后的翻译内容sync到gitee-locales
 executor.sync_corrected_content

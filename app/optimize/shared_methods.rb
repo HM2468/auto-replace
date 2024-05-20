@@ -159,11 +159,20 @@ module SharedMethods
     output_root = '/Users/miaohuang/repos/scripts/'
     en_yml_path = output_root + "output/yml/en.yml"
     en_json_path = output_root + "output/json/en.yml"
+    ch_yml_path = output_root + "output/yml/ch.yml"
+    ch_json_path = output_root + "output/json/ch.yml"
+
     en_yml_hash = load_yml(en_yml_path)
     en_json_hash = load_yml(en_json_path)
+
+    ch_yml_hash = load_yml(ch_yml_path)
+    ch_json_hash = load_yml(ch_json_path)
+
     en_res_hash = en_json_hash.merge(en_yml_hash)
-    write_yml(en_res_hash, en_json_path)
+    ch_res_hash = ch_json_hash.merge(ch_yml_hash)
+
     write_yml(en_res_hash, en_yml_path)
+    write_yml(ch_res_hash, ch_yml_path)
 
     yml_missing_path = output_root + "output/yml/missing.yml"
     json__missing_path = output_root + "output/json/missing.yml"
@@ -171,6 +180,23 @@ module SharedMethods
     json_missing_hash = load_yml(yml_missing_path)
     res_missing_hash = json_missing_hash.merge(yml_missing_hash)
     write_yml(res_missing_hash, yml_missing_path, sorted_by_vlen: true)
+  end
+
+  def combine
+    output_root = '/Users/miaohuang/repos/scripts/'
+    en_path = output_root + "output/yml/en.yml"
+    ch_path = output_root + "output/yml/ch.yml"
+    combine_path = output_root + "output/yml/combine.yml"
+    ch_hash = load_yml(ch_path)
+    en_hash = load_yml(en_path)
+    combine_hash = {}
+    ch_hash.each do |k, v|
+      arr = []
+      arr << v
+      arr << en_hash[k]
+      combine_hash[k] = arr
+    end
+    write_yml(combine_hash, combine_path)
   end
 
   def read_ch_files

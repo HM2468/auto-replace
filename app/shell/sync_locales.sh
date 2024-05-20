@@ -6,6 +6,7 @@ git reset .
 git checkout .
 git clean -f
 git checkout russia/develop
+git pull origin russia/develop
 
 
 # checkout to the right branch
@@ -14,6 +15,7 @@ git reset .
 git checkout .
 git clean -f
 git checkout russia-integration
+git pull origin russia-integration
 
 cd /Users/miaohuang/repos/gitee-ru-localization
 git reset .

@@ -29,6 +29,10 @@ class OptExecutor
     @opt_yml.merge_values
   end
 
+  def combine
+    @opt_yml.combine
+  end
+
   def sync_corrected_content
     @opt_yml.merge_values
     @opt_yml.reload_en_files
@@ -40,7 +44,11 @@ executor = OptExecutor.new
 
 # 读取 gitee-ru-localization 里文件到 output/locales
 # 不用每次执行，按需注释
-executor.read_locale_files
+# executor.read_locale_files
+
+# 合并en.yml 和 ch.yml 到一个文件中
+# 不用每次执行，按需注释
+# executor.combine
 
 # 将校正后的翻译内容sync到gitee-ru-localization
 executor.sync_corrected_content

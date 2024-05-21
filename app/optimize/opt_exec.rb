@@ -46,7 +46,7 @@ executor = OptExecutor.new
 
 # 读取 gitee-locales 里文件到 output/locales
 # 不用每次执行，按需注释
-# executor.read_locale_files
+executor.read_locale_files
 
 # 合并en.yml 和 ch.yml 到一个文件中
 # 不用每次执行，按需注释

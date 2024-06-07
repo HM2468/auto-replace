@@ -26,6 +26,8 @@ git clone https://github.com/HM2468/auto-replace.git
 ```shell
 # 切换到对应目录
 cd ~/auto-replace/app/optimize
+
 # 执行ruby脚本
-ruby opt_exec.rb
+ruby yml_exec.rb # 替换yml文件
+ruby yml_exec.rb # 替换json文件
 ```

@@ -1,17 +1,14 @@
-class OptimizeJson
-  require './shared_methods.rb'
-  include SharedMethods
+class JsonOptimizer
+  require './json_methods.rb'
+  include JsonMethods
 
-  attr_reader :tar_lang, :type
+  attr_reader :tar_lang
 
-  def initialize(work_dirs: [], tar_lang: 'en', type: 'json')
+  def initialize(work_dirs: [], tar_lang: 'en')
     @work_dirs = work_dirs
     @tar_lang = tar_lang
-    @type = type
     raise 'tar_lang error' unless %w(zh-CN en ru).include?(tar_lang)
-    raise 'type error' unless %w(yml json).include?(type)
-
-    init_hash_path(type)
+    init_hash_path
     init_files
   end
 
@@ -36,6 +33,10 @@ class OptimizeJson
 
     @en_files = @files.select do |file|
       file.end_with?('.json') && (file.include?('/en/') || file.include?('en.'))
+    end
+
+    @ru_files = @files.select do |file|
+      file.end_with?('.json') && (file.include?('/ru/') || file.include?('ru.'))
     end
   end
 

@@ -1,4 +1,4 @@
-module SharedMethods
+module YmlMethods
   require 'yaml'
   require 'json'
   require 'digest'
@@ -11,7 +11,7 @@ module SharedMethods
   end
 
   def set_nested_hash_value(hash, keys, value)
-    keys[0] = tar_lang if type == 'yml' && tar_lang != 'zh-CN'
+    keys[0] = tar_lang if tar_lang != 'zh-CN'
 
     keys[0...-1].inject(hash) { |h, key| h[key] ||= {} }[keys[-1]] = value
   end
@@ -57,7 +57,8 @@ module SharedMethods
           when 'zh-CN'
             @ch_hash[get_hashed_key(value.to_s)] ||= value
           when 'en'
-            @en_hash[get_hashed_key(value.to_s)] ||= value
+            #@en_hash[get_hashed_key(value.to_s)] ||= value
+            @en_hash[uniq_key] ||= value
           end
         end
       end
@@ -97,16 +98,18 @@ module SharedMethods
   def recursive_set_hash(target_hash: {}, path: [])
     target_hash.each do |key, value|
       current_path = path + [key.to_s]
+      tmp_str = current_path.join('==')
+      tmp_str.gsub!('en==', '')
+      uniq_key = get_hashed_key(tmp_str)
       if value.is_a?(Hash)
         recursive_set_hash(target_hash: value, path: current_path)
       else
         res = if value.is_a?(Array)
-          uniq_key = get_hashed_key(current_path.join('==').gsub!('zh-CN==', ''))
-          iterate_nested_array!(uniq_key, value, "read_#{tar_lang}_hash".to_sym)
-        else
-          translated_hash = instance_variable_get("@#{tar_lang}_hash")
-          translated_hash[get_hashed_key(value)]
-        end
+                iterate_nested_array!(uniq_key, value, "read_#{tar_lang}_hash".to_sym)
+              else
+                translated_hash = instance_variable_get("@#{tar_lang}_hash")
+                translated_hash[uniq_key]
+              end
         puts "key: #{current_path.inspect}, class: #{value.class}"
         target_hash = instance_variable_get("@tmp_#{tar_lang}_hash")
         set_nested_hash_value(target_hash, current_path, res)
@@ -142,13 +145,13 @@ module SharedMethods
     File.open(path, 'w'){ |f| f.write(JSON.pretty_generate(hash)) }
   end
 
-  def init_hash_path(type)
+  def init_hash_path
     output_root = '/Users/miaohuang/repos/scripts/'
-    @ch_path = output_root + "output/#{type}/ch.yml"
-    @en_path = output_root + "output/#{type}/en.yml"
-    @ch_keys_path = output_root + "output/#{type}/ch_keys.yml"
-    @en_keys_path = output_root + "output/#{type}/en_keys.yml"
-    @missing_path = output_root + "output/#{type}/missing.yml"
+    @ch_path = output_root + "output/yml/ch.yml"
+    @en_path = output_root + "output/yml/en.yml"
+    @ch_keys_path = output_root + "output/yml/ch_keys.yml"
+    @en_keys_path = output_root + "output/yml/en_keys.yml"
+    @missing_path = output_root + "output/yml/missing.yml"
     @ch_hash = {}
     @en_hash = {}
     @ch_keys_hash = {}
@@ -203,7 +206,7 @@ module SharedMethods
   def read_ch_files
     @ch_files.each do |file|
       puts file
-      recursive_get_hash(target_hash: send("load_#{type}".to_sym, file))
+      recursive_get_hash(target_hash: load_yml(file))
     rescue => e
       puts "read_files error: \"#{file}\", err: \"#{e}\""
     end
@@ -214,7 +217,7 @@ module SharedMethods
   def read_en_files
     @en_files.each do |file|
       puts file
-      recursive_get_hash(target_hash: send("load_#{type}".to_sym, file), lang: 'en')
+      recursive_get_hash(target_hash: load_yml(file), lang: 'en')
     rescue => e
       puts "read_files error: \"#{file}\", err: \"#{e}\""
     end
@@ -222,52 +225,11 @@ module SharedMethods
     write_yml(@en_keys_hash, @en_keys_path)
   end
 
-  def compare
-    @ch_hash = load_yml(@ch_path)
-    @en_hash = load_yml(@en_path)
-    keys = @ch_hash.keys - @en_hash.keys
-    result_hash = @ch_hash.slice(*keys)
-    # result_hash = result_hash.select{ |k,v| v =~ /.*[\u4E00-\u9FFF]+.*/}
-    write_yml(result_hash, @missing_path, sorted_by_vlen: true)
-  end
-
-  def merge_missing
-    @en_hash = load_yml(@en_path)
-    @missing_hash = load_yml(@missing_path)
-    @en_hash.merge!(@missing_hash)
-    write_yml(@en_hash, @en_path)
-  end
-
-  def uniq_en_keys
-    @ch_keys_hash = load_yml(@ch_keys_path)
-    @en_keys_hash = load_yml(@en_keys_path)
-    @ch_hash = load_yml(@ch_path)
-    @en_hash = load_yml(@en_path)
-    original_en_keys = []
-    @ch_keys_hash.each do |k,v|
-      if @en_keys_hash[k].nil?
-        puts v
-        next
-      end
-      v.each_with_index do |e, i|
-        next if i.zero?
-
-        ch_hash_key = e
-        en_hash_key = @en_keys_hash[k][i]
-        @en_hash[ch_hash_key] = @en_hash[en_hash_key]
-        original_en_keys << en_hash_key
-      end
-    end
-    original_en_keys.each do |k|
-      @en_hash.delete(k)
-    end
-    write_yml(@en_hash, @en_path)
-  end
-
   def reload_en_files
-    @en_hash =  load_yml(@en_path)
+    @en_hash = load_yml(@en_path)
+    @en_keys_hash = load_yml(@en_keys_path)
 
-    @ch_files.each do |file|
+    @en_files.each do |file|
       reload_translated_hash(file)
     rescue => e
       puts "reload_files error: \"#{file}\", err: \"#{e}\""
@@ -275,12 +237,73 @@ module SharedMethods
   end
 
   def reload_translated_hash(file)
-    input_hash = send("load_#{type}".to_sym, file)
-    target_path = file.gsub('zh-CN', tar_lang)
+    input_hash = load_yml(file)
     instance_variable_set("@tmp_#{tar_lang}_hash", {})
     recursive_set_hash(target_hash: input_hash, path: [])
     res_hash = instance_variable_get("@tmp_#{tar_lang}_hash")
-    send("write_#{type}".to_sym, res_hash, target_path)
+    write_yml(res_hash, file)
+  end
+
+  def edit_ru_files
+    @ru_files.each do |file|
+      input_hash = load_yml(file)
+      res_hash = modify_nested_hash!(input_hash)
+      write_yml(res_hash, file)
+    end
+  end
+
+  def edit_en_files
+    @en_files.each do |file|
+      input_hash = load_yml(file)
+      res_hash = modify_nested_hash!(input_hash)
+      write_yml(res_hash, file)
+    end
+  end
+
+  def modify_hash_value(value)
+    return value unless value.is_a?(String)
+
+    regex = /\{([^}]*)\}/
+    matches = value.scan(regex)
+    arr = matches.flatten
+    hash = {}
+    if arr.size > 0
+      arr.each do |item|
+        key = get_hashed_key(item)
+        hash[key] = item
+      end
+    end
+
+    if arr.size > 0
+      hash.each do |k,v|
+        value.gsub!(v, k)
+      end
+    end
+
+    value.gsub!(/oschina/i, 'gitlife')
+    value.gsub!(/osc/i, 'gitlife')
+    value.gsub!(/gitee/i, 'Gitlife')
+    value.gsub!(/gitlife\.com/i, 'gitlife.ru')
+    value.gsub!(/gitlife\.ru/i, 'gitlife.ru')
+    value.gsub!(/Gitlife Enterprise Edition/i, 'Gitlife Professional')
+    if arr.size > 0
+      hash.each do |k,v|
+        value.gsub!(k, v)
+      end
+    end
+    value.gsub!("ca978112ca1bbdcafac231b39a23dc4d", 'a')
+    value
+  end
+
+  def modify_nested_hash!(hash)
+    hash.each do |key, value|
+      if value.is_a?(Hash)
+        modify_nested_hash!(value)
+      else
+        hash[key] = modify_hash_value(value)
+      end
+    end
+    hash
   end
 
   def ch_regex
